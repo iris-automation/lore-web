@@ -1,0 +1,974 @@
+{
+ "version": 1,
+ "count": 114,
+ "categories": [
+  {
+   "cle": "frissons",
+   "titre": "Frissons",
+   "sous_titre": "Les sauts, le vide, l'adrénaline.",
+   "emoji": "🪂"
+  },
+  {
+   "cle": "ocean",
+   "titre": "L'appel du large",
+   "sous_titre": "L'eau, la plongée, les vagues.",
+   "emoji": "🌊"
+  },
+  {
+   "cle": "sommets",
+   "titre": "Sommets & sentiers",
+   "sous_titre": "La montagne, l'altitude, la marche.",
+   "emoji": "⛰️"
+  },
+  {
+   "cle": "endurance",
+   "titre": "Endurance",
+   "sous_titre": "Le corps poussé au bout.",
+   "emoji": "🏃"
+  },
+  {
+   "cle": "table",
+   "titre": "Table & terroir",
+   "sous_titre": "Le goût, le partage, l'audace culinaire.",
+   "emoji": "🍽️"
+  },
+  {
+   "cle": "liens",
+   "titre": "Rencontres & liens",
+   "sous_titre": "Les gens, le lien, le courage social.",
+   "emoji": "🤝"
+  },
+  {
+   "cle": "faune",
+   "titre": "Faune & nature",
+   "sous_titre": "Les animaux, le ciel, le sauvage.",
+   "emoji": "🦁"
+  },
+  {
+   "cle": "route",
+   "titre": "Sur la route",
+   "sous_titre": "Les trajets, les véhicules, l'ailleurs.",
+   "emoji": "🛣️"
+  },
+  {
+   "cle": "soi",
+   "titre": "Face à soi",
+   "sous_titre": "Le cran, l'apprentissage, se dépasser.",
+   "emoji": "🔥"
+  }
+ ],
+ "quests": [
+  {
+   "id": "DL-sauter-en-parachute",
+   "categorie": "frissons",
+   "titre": "Sauter en parachute",
+   "detail": "Le grand saut, la chute libre, le monde qui bascule.",
+   "niveau": "legendaire",
+   "emoji": "🪂"
+  },
+  {
+   "id": "DL-saut-a-l-elastique",
+   "categorie": "frissons",
+   "titre": "Saut à l'élastique",
+   "detail": "Se jeter dans le vide, retenu par un fil.",
+   "niveau": "moyen",
+   "emoji": "🌉"
+  },
+  {
+   "id": "DL-voler-en-parapente",
+   "categorie": "frissons",
+   "titre": "Voler en parapente",
+   "detail": "Décoller à pied et planer au-dessus de la vallée.",
+   "niveau": "moyen",
+   "emoji": "🪂"
+  },
+  {
+   "id": "DL-saut-de-falaise",
+   "categorie": "frissons",
+   "titre": "Saut de falaise",
+   "detail": "Plonger d'un rocher dans l'eau bleue.",
+   "niveau": "moyen",
+   "emoji": "🪨"
+  },
+  {
+   "id": "DL-wingsuit-ou-vol-en-souff",
+   "categorie": "frissons",
+   "titre": "Wingsuit ou vol en soufflerie",
+   "detail": "Sentir l'air te porter, ailes déployées.",
+   "niveau": "legendaire",
+   "emoji": "🦅"
+  },
+  {
+   "id": "DL-grande-tyrolienne",
+   "categorie": "frissons",
+   "titre": "Grande tyrolienne",
+   "detail": "Filer au-dessus du vide sur un câble.",
+   "niveau": "facile",
+   "emoji": "🧗"
+  },
+  {
+   "id": "DL-canyoning",
+   "categorie": "frissons",
+   "titre": "Canyoning",
+   "detail": "Descendre une gorge en sautant et rappelant.",
+   "niveau": "facile",
+   "emoji": "🏞️"
+  },
+  {
+   "id": "DL-deltaplane",
+   "categorie": "frissons",
+   "titre": "Deltaplane",
+   "detail": "Prendre les thermiques, silence et altitude.",
+   "niveau": "moyen",
+   "emoji": "🪁"
+  },
+  {
+   "id": "DL-plonger-d-un-tremplin-de",
+   "categorie": "frissons",
+   "titre": "Plonger d'un tremplin de 10 m",
+   "detail": "Se tenir tout en haut… et y aller.",
+   "niveau": "moyen",
+   "emoji": "🏊"
+  },
+  {
+   "id": "DL-le-grand-huit-le-plus-ha",
+   "categorie": "frissons",
+   "titre": "Le grand huit le plus haut du monde",
+   "detail": "Chercher le coaster qui fait vraiment peur.",
+   "niveau": "facile",
+   "emoji": "🎢"
+  },
+  {
+   "id": "DL-accrobranche-en-hauteur",
+   "categorie": "frissons",
+   "titre": "Accrobranche en hauteur",
+   "detail": "Un parcours dans la canopée.",
+   "niveau": "facile",
+   "emoji": "🌲"
+  },
+  {
+   "id": "DL-vol-acrobatique",
+   "categorie": "frissons",
+   "titre": "Vol acrobatique",
+   "detail": "Loopings et vrilles en petit avion.",
+   "niveau": "legendaire",
+   "emoji": "✈️"
+  },
+  {
+   "id": "DL-rouler-en-montgolfiere-a",
+   "categorie": "frissons",
+   "titre": "Rouler en montgolfière au lever du jour",
+   "detail": "S'élever en silence dans l'air froid.",
+   "niveau": "moyen",
+   "emoji": "🎈"
+  },
+  {
+   "id": "DL-piloter-un-kart-de-cours",
+   "categorie": "frissons",
+   "titre": "Piloter un kart de course",
+   "detail": "Chercher le chrono, viser la corde.",
+   "niveau": "facile",
+   "emoji": "🏎️"
+  },
+  {
+   "id": "DL-passer-le-bapteme-de-plo",
+   "categorie": "ocean",
+   "titre": "Passer le baptême de plongée",
+   "detail": "Respirer sous l'eau pour la première fois.",
+   "niveau": "facile",
+   "emoji": "🤿"
+  },
+  {
+   "id": "DL-plongee-sur-une-epave",
+   "categorie": "ocean",
+   "titre": "Plongée sur une épave",
+   "detail": "Explorer un navire couché au fond.",
+   "niveau": "moyen",
+   "emoji": "🚢"
+  },
+  {
+   "id": "DL-plonger-avec-des-requins",
+   "categorie": "ocean",
+   "titre": "Plonger avec des requins",
+   "detail": "Face à face, sans barreaux.",
+   "niveau": "legendaire",
+   "emoji": "🦈"
+  },
+  {
+   "id": "DL-nager-avec-des-dauphins-",
+   "categorie": "ocean",
+   "titre": "Nager avec des dauphins sauvages",
+   "detail": "En pleine mer, pas dans un bassin.",
+   "niveau": "moyen",
+   "emoji": "🐬"
+  },
+  {
+   "id": "DL-nager-avec-des-tortues",
+   "categorie": "ocean",
+   "titre": "Nager avec des tortues",
+   "detail": "Les suivre au-dessus du récif.",
+   "niveau": "facile",
+   "emoji": "🐢"
+  },
+  {
+   "id": "DL-nager-avec-des-baleines",
+   "categorie": "ocean",
+   "titre": "Nager avec des baleines",
+   "detail": "Croiser un géant des mers.",
+   "niveau": "legendaire",
+   "emoji": "🐋"
+  },
+  {
+   "id": "DL-apprendre-a-surfer",
+   "categorie": "ocean",
+   "titre": "Apprendre à surfer",
+   "detail": "Se tenir debout sur sa première vague.",
+   "niveau": "facile",
+   "emoji": "🏄"
+  },
+  {
+   "id": "DL-se-mettre-au-kitesurf",
+   "categorie": "ocean",
+   "titre": "Se mettre au kitesurf",
+   "detail": "Se faire tracter par le vent.",
+   "niveau": "moyen",
+   "emoji": "🪁"
+  },
+  {
+   "id": "DL-nager-dans-une-eau-biolu",
+   "categorie": "ocean",
+   "titre": "Nager dans une eau bioluminescente",
+   "detail": "La mer qui s'illumine à chaque mouvement.",
+   "niveau": "moyen",
+   "emoji": "✨"
+  },
+  {
+   "id": "DL-descendre-une-riviere-en",
+   "categorie": "ocean",
+   "titre": "Descendre une rivière en rafting",
+   "detail": "Les rapides, les cris, les remous.",
+   "niveau": "facile",
+   "emoji": "🛶"
+  },
+  {
+   "id": "DL-faire-de-l-apnee-en-prof",
+   "categorie": "ocean",
+   "titre": "Faire de l'apnée en profondeur",
+   "detail": "Descendre d'un souffle, dans le silence.",
+   "niveau": "legendaire",
+   "emoji": "🌊"
+  },
+  {
+   "id": "DL-kayak-au-milieu-des-iceb",
+   "categorie": "ocean",
+   "titre": "Kayak au milieu des icebergs",
+   "detail": "Pagayer entre les glaces.",
+   "niveau": "legendaire",
+   "emoji": "🧊"
+  },
+  {
+   "id": "DL-se-baigner-dans-une-casc",
+   "categorie": "ocean",
+   "titre": "Se baigner dans une cascade",
+   "detail": "Sous la chute, en pleine nature.",
+   "niveau": "facile",
+   "emoji": "💦"
+  },
+  {
+   "id": "DL-voile-en-haute-mer",
+   "categorie": "ocean",
+   "titre": "Voile en haute mer",
+   "detail": "Plusieurs jours sans voir la côte.",
+   "niveau": "moyen",
+   "emoji": "⛵"
+  },
+  {
+   "id": "DL-gravir-un-sommet-de-plus",
+   "categorie": "sommets",
+   "titre": "Gravir un sommet de plus de 3000 m",
+   "detail": "Atteindre l'air rare, à la force des jambes.",
+   "niveau": "moyen",
+   "emoji": "⛰️"
+  },
+  {
+   "id": "DL-dormir-en-bivouac-en-alt",
+   "categorie": "sommets",
+   "titre": "Dormir en bivouac en altitude",
+   "detail": "Une nuit sous la tente, loin de tout.",
+   "niveau": "moyen",
+   "emoji": "⛺"
+  },
+  {
+   "id": "DL-faire-un-trek-de-plusieu",
+   "categorie": "sommets",
+   "titre": "Faire un trek de plusieurs jours",
+   "detail": "Marcher, porter, avancer sac au dos.",
+   "niveau": "moyen",
+   "emoji": "🥾"
+  },
+  {
+   "id": "DL-gravir-un-volcan",
+   "categorie": "sommets",
+   "titre": "Gravir un volcan",
+   "detail": "Sentir la montagne encore vivante.",
+   "niveau": "moyen",
+   "emoji": "🌋"
+  },
+  {
+   "id": "DL-grimper-une-via-ferrata",
+   "categorie": "sommets",
+   "titre": "Grimper une via ferrata",
+   "detail": "Progresser accroché à la paroi.",
+   "niveau": "facile",
+   "emoji": "🧗"
+  },
+  {
+   "id": "DL-escalader-une-vraie-voie",
+   "categorie": "sommets",
+   "titre": "Escalader une vraie voie",
+   "detail": "Assurage, prises, sommet.",
+   "niveau": "moyen",
+   "emoji": "🪢"
+  },
+  {
+   "id": "DL-le-camp-de-base-de-l-eve",
+   "categorie": "sommets",
+   "titre": "Le camp de base de l'Everest",
+   "detail": "5 364 m, l'antichambre du toit du monde.",
+   "niveau": "legendaire",
+   "emoji": "🏔️"
+  },
+  {
+   "id": "DL-gravir-le-kilimandjaro",
+   "categorie": "sommets",
+   "titre": "Gravir le Kilimandjaro",
+   "detail": "Le toit de l'Afrique, 5 895 m.",
+   "niveau": "legendaire",
+   "emoji": "🌍"
+  },
+  {
+   "id": "DL-le-mont-blanc",
+   "categorie": "sommets",
+   "titre": "Le Mont Blanc",
+   "detail": "Le toit des Alpes, cramponi aux pieds.",
+   "niveau": "legendaire",
+   "emoji": "🗻"
+  },
+  {
+   "id": "DL-marcher-sur-un-glacier",
+   "categorie": "sommets",
+   "titre": "Marcher sur un glacier",
+   "detail": "Crampons et piolet sur la glace vive.",
+   "niveau": "moyen",
+   "emoji": "🧊"
+  },
+  {
+   "id": "DL-dormir-dans-un-refuge-de",
+   "categorie": "sommets",
+   "titre": "Dormir dans un refuge de montagne",
+   "detail": "Se lever avant l'aube pour le sommet.",
+   "niveau": "facile",
+   "emoji": "🛖"
+  },
+  {
+   "id": "DL-randonner-de-nuit-a-la-f",
+   "categorie": "sommets",
+   "titre": "Randonner de nuit à la frontale",
+   "detail": "Arriver au sommet pour le lever du soleil.",
+   "niveau": "facile",
+   "emoji": "🌄"
+  },
+  {
+   "id": "DL-traverser-un-pays-a-pied",
+   "categorie": "sommets",
+   "titre": "Traverser un pays à pied (une portion mythique)",
+   "detail": "Compostelle, GR20, un bout de sentier légendaire.",
+   "niveau": "moyen",
+   "emoji": "🚶"
+  },
+  {
+   "id": "DL-courir-un-10-km",
+   "categorie": "endurance",
+   "titre": "Courir un 10 km",
+   "detail": "La première ligne d'arrivée.",
+   "niveau": "facile",
+   "emoji": "🏃"
+  },
+  {
+   "id": "DL-courir-un-semi-marathon",
+   "categorie": "endurance",
+   "titre": "Courir un semi-marathon",
+   "detail": "21 km, le seuil du sérieux.",
+   "niveau": "moyen",
+   "emoji": "🎽"
+  },
+  {
+   "id": "DL-courir-un-marathon",
+   "categorie": "endurance",
+   "titre": "Courir un marathon",
+   "detail": "42,195 km. Le mur, puis la délivrance.",
+   "niveau": "legendaire",
+   "emoji": "🏅"
+  },
+  {
+   "id": "DL-finir-un-triathlon",
+   "categorie": "endurance",
+   "titre": "Finir un triathlon",
+   "detail": "Nager, pédaler, courir d'affilée.",
+   "niveau": "moyen",
+   "emoji": "🚴"
+  },
+  {
+   "id": "DL-terminer-un-ironman",
+   "categorie": "endurance",
+   "titre": "Terminer un Ironman",
+   "detail": "3,8 km de nage, 180 de vélo, un marathon.",
+   "niveau": "legendaire",
+   "emoji": "🦾"
+  },
+  {
+   "id": "DL-courir-un-ultra-trail",
+   "categorie": "endurance",
+   "titre": "Courir un ultra-trail",
+   "detail": "Au-delà du marathon, en montagne.",
+   "niveau": "legendaire",
+   "emoji": "🏔️"
+  },
+  {
+   "id": "DL-une-cyclosportive-de-mon",
+   "categorie": "endurance",
+   "titre": "Une cyclosportive de montagne",
+   "detail": "Gravir un col mythique à vélo.",
+   "niveau": "moyen",
+   "emoji": "🚵"
+  },
+  {
+   "id": "DL-un-hyrox-ou-une-course-a",
+   "categorie": "endurance",
+   "titre": "Un Hyrox ou une course à obstacles",
+   "detail": "Boue, murs, cordes, et la ligne au bout.",
+   "niveau": "moyen",
+   "emoji": "🧗"
+  },
+  {
+   "id": "DL-nager-1-km-en-eau-libre",
+   "categorie": "endurance",
+   "titre": "Nager 1 km en eau libre",
+   "detail": "Sans mur, sans ligne au fond.",
+   "niveau": "facile",
+   "emoji": "🏊"
+  },
+  {
+   "id": "DL-une-randonnee-de-30-km-e",
+   "categorie": "endurance",
+   "titre": "Une randonnée de 30 km en une journée",
+   "detail": "Tenir la distance du lever au coucher.",
+   "niveau": "moyen",
+   "emoji": "🥾"
+  },
+  {
+   "id": "DL-un-raid-multisports",
+   "categorie": "endurance",
+   "titre": "Un raid multisports",
+   "detail": "Course, VTT, kayak, orientation.",
+   "niveau": "legendaire",
+   "emoji": "🧭"
+  },
+  {
+   "id": "DL-tenir-un-gainage-de-3-mi",
+   "categorie": "endurance",
+   "titre": "Tenir un gainage de 3 minutes",
+   "detail": "Un défi pour soi, chez soi.",
+   "niveau": "facile",
+   "emoji": "💪"
+  },
+  {
+   "id": "DL-manger-chez-l-habitant",
+   "categorie": "table",
+   "titre": "Manger chez l'habitant",
+   "detail": "Un vrai repas, une vraie table, une vraie histoire.",
+   "niveau": "moyen",
+   "emoji": "🍲"
+  },
+  {
+   "id": "DL-manger-seul-au-restauran",
+   "categorie": "table",
+   "titre": "Manger seul au restaurant",
+   "detail": "Se tenir compagnie, sans écran.",
+   "niveau": "facile",
+   "emoji": "🍽️"
+  },
+  {
+   "id": "DL-diner-dans-un-etoile-mic",
+   "categorie": "table",
+   "titre": "Dîner dans un étoilé Michelin",
+   "detail": "Le grand jeu, une fois au moins.",
+   "niveau": "legendaire",
+   "emoji": "⭐"
+  },
+  {
+   "id": "DL-prendre-un-cours-de-cuis",
+   "categorie": "table",
+   "titre": "Prendre un cours de cuisine à l'étranger",
+   "detail": "Apprendre un plat là où il est né.",
+   "niveau": "facile",
+   "emoji": "👨‍🍳"
+  },
+  {
+   "id": "DL-gouter-un-insecte",
+   "categorie": "table",
+   "titre": "Goûter un insecte",
+   "detail": "Grillon, scorpion : dépasser le dégoût.",
+   "niveau": "moyen",
+   "emoji": "🦗"
+  },
+  {
+   "id": "DL-gouter-le-plat-qui-fait-",
+   "categorie": "table",
+   "titre": "Goûter le plat qui fait peur",
+   "detail": "Fugu, durian, haggis : oser.",
+   "niveau": "moyen",
+   "emoji": "🐡"
+  },
+  {
+   "id": "DL-participer-a-des-vendang",
+   "categorie": "table",
+   "titre": "Participer à des vendanges",
+   "detail": "Récolter le raisin, se salir les mains.",
+   "niveau": "moyen",
+   "emoji": "🍇"
+  },
+  {
+   "id": "DL-faire-une-degustation-a-",
+   "categorie": "table",
+   "titre": "Faire une dégustation à l'aveugle",
+   "detail": "Reconnaître au seul goût.",
+   "niveau": "facile",
+   "emoji": "🍷"
+  },
+  {
+   "id": "DL-brasser-sa-propre-biere",
+   "categorie": "table",
+   "titre": "Brasser sa propre bière",
+   "detail": "Ou son vin, ou son kombucha.",
+   "niveau": "facile",
+   "emoji": "🍺"
+  },
+  {
+   "id": "DL-manger-sur-un-marche-de-",
+   "categorie": "table",
+   "titre": "Manger sur un marché de nuit en Asie",
+   "detail": "Se perdre dans les étals et les fumées.",
+   "niveau": "facile",
+   "emoji": "🥟"
+  },
+  {
+   "id": "DL-chasser-la-truffe",
+   "categorie": "table",
+   "titre": "Chasser la truffe",
+   "detail": "Suivre le chien, déterrer l'or noir.",
+   "niveau": "legendaire",
+   "emoji": "🍄"
+  },
+  {
+   "id": "DL-cuisiner-un-festin-pour-",
+   "categorie": "table",
+   "titre": "Cuisiner un festin pour dix",
+   "detail": "Régaler ses proches de A à Z.",
+   "niveau": "facile",
+   "emoji": "🍛"
+  },
+  {
+   "id": "DL-boire-un-cafe-dans-le-pl",
+   "categorie": "table",
+   "titre": "Boire un café dans le plus vieux café de la ville",
+   "detail": "Là où le temps s'est arrêté.",
+   "niveau": "facile",
+   "emoji": "☕"
+  },
+  {
+   "id": "DL-dormir-chez-l-habitant",
+   "categorie": "liens",
+   "titre": "Dormir chez l'habitant",
+   "detail": "Confier sa nuit à un inconnu devenu hôte.",
+   "niveau": "moyen",
+   "emoji": "🛏️"
+  },
+  {
+   "id": "DL-partir-seul-a-l-etranger",
+   "categorie": "liens",
+   "titre": "Partir seul à l'étranger",
+   "detail": "Un pays, soi, et personne d'autre.",
+   "niveau": "legendaire",
+   "emoji": "🎒"
+  },
+  {
+   "id": "DL-apprendre-a-dire-bonjour",
+   "categorie": "liens",
+   "titre": "Apprendre à dire bonjour et merci dans 10 langues",
+   "detail": "Ouvrir dix portes.",
+   "niveau": "facile",
+   "emoji": "💬"
+  },
+  {
+   "id": "DL-faire-du-stop",
+   "categorie": "liens",
+   "titre": "Faire du stop",
+   "detail": "S'en remettre à la route et aux gens.",
+   "niveau": "moyen",
+   "emoji": "👍"
+  },
+  {
+   "id": "DL-danser-dans-une-fete-loc",
+   "categorie": "liens",
+   "titre": "Danser dans une fête locale",
+   "detail": "Se lâcher au milieu des habitants.",
+   "niveau": "facile",
+   "emoji": "💃"
+  },
+  {
+   "id": "DL-passer-une-nuit-dans-un-",
+   "categorie": "liens",
+   "titre": "Passer une nuit dans un train de nuit",
+   "detail": "S'endormir quelque part, se réveiller ailleurs.",
+   "niveau": "facile",
+   "emoji": "🚆"
+  },
+  {
+   "id": "DL-se-faire-tatouer-en-souv",
+   "categorie": "liens",
+   "titre": "Se faire tatouer en souvenir d'un voyage",
+   "detail": "Marquer sa peau d'une histoire.",
+   "niveau": "moyen",
+   "emoji": "🖋️"
+  },
+  {
+   "id": "DL-offrir-un-repas-a-un-inc",
+   "categorie": "liens",
+   "titre": "Offrir un repas à un inconnu",
+   "detail": "Un geste, sans rien attendre.",
+   "niveau": "facile",
+   "emoji": "🤝"
+  },
+  {
+   "id": "DL-donner-son-sang",
+   "categorie": "liens",
+   "titre": "Donner son sang",
+   "detail": "Un quart d'heure, une vie peut-être.",
+   "niveau": "facile",
+   "emoji": "🩸"
+  },
+  {
+   "id": "DL-etre-benevole-une-journe",
+   "categorie": "liens",
+   "titre": "Être bénévole une journée",
+   "detail": "Donner de son temps, pour de vrai.",
+   "niveau": "facile",
+   "emoji": "🙌"
+  },
+  {
+   "id": "DL-assister-a-un-mariage-da",
+   "categorie": "liens",
+   "titre": "Assister à un mariage dans une autre culture",
+   "detail": "Des rites que l'on ne connaissait pas.",
+   "niveau": "moyen",
+   "emoji": "💒"
+  },
+  {
+   "id": "DL-passer-une-nuit-blanche-",
+   "categorie": "liens",
+   "titre": "Passer une nuit blanche à parler",
+   "detail": "Jusqu'au lever du soleil.",
+   "niveau": "facile",
+   "emoji": "🌅"
+  },
+  {
+   "id": "DL-se-reconcilier-avec-quel",
+   "categorie": "liens",
+   "titre": "Se réconcilier avec quelqu'un",
+   "detail": "Le plus dur des voyages.",
+   "niveau": "moyen",
+   "emoji": "🕊️"
+  },
+  {
+   "id": "DL-faire-un-safari",
+   "categorie": "faune",
+   "titre": "Faire un safari",
+   "detail": "Chercher les grands animaux dans la savane.",
+   "niveau": "legendaire",
+   "emoji": "🦁"
+  },
+  {
+   "id": "DL-voir-les-aurores-boreale",
+   "categorie": "faune",
+   "titre": "Voir les aurores boréales",
+   "detail": "La danse verte du ciel polaire.",
+   "niveau": "legendaire",
+   "emoji": "🌌"
+  },
+  {
+   "id": "DL-observer-des-baleines-de",
+   "categorie": "faune",
+   "titre": "Observer des baleines depuis un bateau",
+   "detail": "Le souffle, la queue, le silence.",
+   "niveau": "moyen",
+   "emoji": "🐳"
+  },
+  {
+   "id": "DL-approcher-les-gorilles-d",
+   "categorie": "faune",
+   "titre": "Approcher les gorilles de montagne",
+   "detail": "Un regard qui ressemble au nôtre.",
+   "niveau": "legendaire",
+   "emoji": "🦍"
+  },
+  {
+   "id": "DL-dormir-a-la-belle-etoile",
+   "categorie": "faune",
+   "titre": "Dormir à la belle étoile dans le désert",
+   "detail": "Le silence et la Voie lactée.",
+   "niveau": "moyen",
+   "emoji": "🏜️"
+  },
+  {
+   "id": "DL-voir-des-manchots-dans-l",
+   "categorie": "faune",
+   "titre": "Voir des manchots dans la nature",
+   "detail": "Sur la banquise ou une plage australe.",
+   "niveau": "legendaire",
+   "emoji": "🐧"
+  },
+  {
+   "id": "DL-nager-dans-un-lac-de-mon",
+   "categorie": "faune",
+   "titre": "Nager dans un lac de montagne glacé",
+   "detail": "Le froid qui coupe le souffle.",
+   "niveau": "moyen",
+   "emoji": "🏔️"
+  },
+  {
+   "id": "DL-assister-a-une-migration",
+   "categorie": "faune",
+   "titre": "Assister à une migration animale",
+   "detail": "Gnous, oiseaux, crabes rouges.",
+   "niveau": "legendaire",
+   "emoji": "🦌"
+  },
+  {
+   "id": "DL-cueillir-et-cuisiner-ce-",
+   "categorie": "faune",
+   "titre": "Cueillir et cuisiner ce qu'on a ramassé",
+   "detail": "Champignons, fruits, poisson pêché.",
+   "niveau": "facile",
+   "emoji": "🍄"
+  },
+  {
+   "id": "DL-observer-les-etoiles-loi",
+   "categorie": "faune",
+   "titre": "Observer les étoiles loin de toute lumière",
+   "detail": "Une vraie nuit noire.",
+   "niveau": "facile",
+   "emoji": "🔭"
+  },
+  {
+   "id": "DL-se-baigner-dans-une-sour",
+   "categorie": "faune",
+   "titre": "Se baigner dans une source d'eau chaude naturelle",
+   "detail": "Fumante, en pleine nature.",
+   "niveau": "facile",
+   "emoji": "♨️"
+  },
+  {
+   "id": "DL-planter-un-arbre",
+   "categorie": "faune",
+   "titre": "Planter un arbre",
+   "detail": "Et revenir le voir grandir.",
+   "niveau": "facile",
+   "emoji": "🌳"
+  },
+  {
+   "id": "DL-faire-un-road-trip-de-pl",
+   "categorie": "route",
+   "titre": "Faire un road trip de plus de 1000 km",
+   "detail": "La route pour elle-même.",
+   "niveau": "moyen",
+   "emoji": "🛣️"
+  },
+  {
+   "id": "DL-vivre-quelques-jours-en-",
+   "categorie": "route",
+   "titre": "Vivre quelques jours en van",
+   "detail": "Dormir où l'on s'arrête.",
+   "niveau": "moyen",
+   "emoji": "🚐"
+  },
+  {
+   "id": "DL-traverser-un-pays-en-tra",
+   "categorie": "route",
+   "titre": "Traverser un pays en train",
+   "detail": "Regarder défiler les paysages.",
+   "niveau": "facile",
+   "emoji": "🚂"
+  },
+  {
+   "id": "DL-faire-un-long-trajet-a-m",
+   "categorie": "route",
+   "titre": "Faire un long trajet à moto",
+   "detail": "Le casque, le vent, l'horizon.",
+   "niveau": "moyen",
+   "emoji": "🏍️"
+  },
+  {
+   "id": "DL-conduire-une-supercar",
+   "categorie": "route",
+   "titre": "Conduire une supercar",
+   "detail": "Une fois, sentir la bête.",
+   "niveau": "legendaire",
+   "emoji": "🏎️"
+  },
+  {
+   "id": "DL-survoler-un-paysage-en-h",
+   "categorie": "route",
+   "titre": "Survoler un paysage en hélicoptère",
+   "detail": "Voir le monde d'en haut.",
+   "niveau": "legendaire",
+   "emoji": "🚁"
+  },
+  {
+   "id": "DL-traverser-en-ferry-de-nu",
+   "categorie": "route",
+   "titre": "Traverser en ferry de nuit",
+   "detail": "S'endormir en mer.",
+   "niveau": "facile",
+   "emoji": "⛴️"
+  },
+  {
+   "id": "DL-partir-sans-destination-",
+   "categorie": "route",
+   "titre": "Partir sans destination pour un week-end",
+   "detail": "Suivre le premier train venu.",
+   "niveau": "facile",
+   "emoji": "🎲"
+  },
+  {
+   "id": "DL-rouler-sur-une-route-myt",
+   "categorie": "route",
+   "titre": "Rouler sur une route mythique",
+   "detail": "Route 66, Great Ocean Road, col alpin.",
+   "niveau": "moyen",
+   "emoji": "🌄"
+  },
+  {
+   "id": "DL-faire-un-trajet-en-tuk-t",
+   "categorie": "route",
+   "titre": "Faire un trajet en tuk-tuk ou side-car",
+   "detail": "Le folklore de la route locale.",
+   "niveau": "facile",
+   "emoji": "🛺"
+  },
+  {
+   "id": "DL-tirer-avec-une-arme-au-s",
+   "categorie": "soi",
+   "titre": "Tirer avec une arme au stand",
+   "detail": "Recul, concentration, cible.",
+   "niveau": "moyen",
+   "emoji": "🎯"
+  },
+  {
+   "id": "DL-monter-sur-scene",
+   "categorie": "soi",
+   "titre": "Monter sur scène",
+   "detail": "Karaoké, open mic, impro : oser le public.",
+   "niveau": "moyen",
+   "emoji": "🎤"
+  },
+  {
+   "id": "DL-parler-devant-une-foule",
+   "categorie": "soi",
+   "titre": "Parler devant une foule",
+   "detail": "Un discours, une présentation, sans notes.",
+   "niveau": "moyen",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "DL-apprendre-a-jouer-d-un-i",
+   "categorie": "soi",
+   "titre": "Apprendre à jouer d'un instrument",
+   "detail": "Un morceau, en entier, de mémoire.",
+   "niveau": "moyen",
+   "emoji": "🎸"
+  },
+  {
+   "id": "DL-apprendre-une-langue-jus",
+   "categorie": "soi",
+   "titre": "Apprendre une langue jusqu'à tenir une conversation",
+   "detail": "Se débrouiller vraiment.",
+   "niveau": "legendaire",
+   "emoji": "📚"
+  },
+  {
+   "id": "DL-ecrire-quelque-chose-et-",
+   "categorie": "soi",
+   "titre": "Écrire quelque chose et le rendre public",
+   "detail": "Un texte, un blog, un livre.",
+   "niveau": "moyen",
+   "emoji": "✍️"
+  },
+  {
+   "id": "DL-passer-24-h-sans-telepho",
+   "categorie": "soi",
+   "titre": "Passer 24 h sans téléphone",
+   "detail": "Débrancher pour de bon.",
+   "niveau": "facile",
+   "emoji": "📵"
+  },
+  {
+   "id": "DL-prendre-un-bain-glace",
+   "categorie": "soi",
+   "titre": "Prendre un bain glacé",
+   "detail": "Le froid volontaire, la respiration.",
+   "niveau": "facile",
+   "emoji": "🧊"
+  },
+  {
+   "id": "DL-faire-une-retraite-silen",
+   "categorie": "soi",
+   "titre": "Faire une retraite silencieuse",
+   "detail": "Plusieurs jours sans parler.",
+   "niveau": "legendaire",
+   "emoji": "🧘"
+  },
+  {
+   "id": "DL-se-lever-pour-voir-10-le",
+   "categorie": "soi",
+   "titre": "Se lever pour voir 10 levers de soleil",
+   "detail": "Collectionner les aubes.",
+   "niveau": "facile",
+   "emoji": "🌅"
+  },
+  {
+   "id": "DL-apprendre-a-nager-ou-a-f",
+   "categorie": "soi",
+   "titre": "Apprendre à nager (ou à faire du vélo) adulte",
+   "detail": "Rattraper ce qu'on n'a jamais fait.",
+   "niveau": "moyen",
+   "emoji": "🚲"
+  },
+  {
+   "id": "DL-faire-un-saut-de-l-ange-",
+   "categorie": "soi",
+   "titre": "Faire un saut de l'ange dans l'eau",
+   "detail": "Vaincre l'appréhension du plongeon.",
+   "niveau": "facile",
+   "emoji": "🤸"
+  },
+  {
+   "id": "DL-passer-une-nuit-seul-en-",
+   "categorie": "soi",
+   "titre": "Passer une nuit seul en pleine nature",
+   "detail": "Sans tente, juste soi et le dehors.",
+   "niveau": "legendaire",
+   "emoji": "🌲"
+  }
+ ]
+}
