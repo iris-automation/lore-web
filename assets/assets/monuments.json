@@ -1940,7 +1940,7 @@
   },
   {
    "id": "WHS-954",
-   "nom": "Saint Catherine Area",
+   "nom": "Monastère Sainte-Catherine du Sinaï",
    "pays": "Égypte",
    "paysIso": "EG",
    "continent": "Afrique",
@@ -3095,7 +3095,7 @@
   },
   {
    "id": "WHS-895",
-   "nom": "Historic Fortified Town of Campeche",
+   "nom": "Ville fortifiée de Campeche",
    "pays": "Mexique",
    "paysIso": "MX",
    "continent": "Amérique du Nord",
@@ -4145,7 +4145,7 @@
   },
   {
    "id": "WHS-1747",
-   "nom": "Cavernas do Peruaçu Environmental Protection Area",
+   "nom": "Cavernes du Peruaçu",
    "pays": "Brésil",
    "paysIso": "BR",
    "continent": "Amérique du Sud",
@@ -4205,7 +4205,7 @@
   },
   {
    "id": "WHS-890",
-   "nom": "Historic Centre of the Town of Diamantina",
+   "nom": "Centre historique de Diamantina",
    "pays": "Brésil",
    "paysIso": "BR",
    "continent": "Amérique du Sud",
@@ -4220,7 +4220,7 @@
   },
   {
    "id": "WHS-993",
-   "nom": "Historic Centre of the Town of Goiás",
+   "nom": "Centre historique de Goiás",
    "pays": "Brésil",
    "paysIso": "BR",
    "continent": "Amérique du Sud",
@@ -5165,7 +5165,7 @@
   },
   {
    "id": "WHS-960",
-   "nom": "Monastery of Geghard and the Upper Azat Valley",
+   "nom": "Monastère de Guéghard et vallée de l’Azat",
    "pays": "Arménie",
    "paysIso": "AM",
    "continent": "Asie",
@@ -5375,7 +5375,7 @@
   },
   {
    "id": "WHS-1748",
-   "nom": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
+   "nom": "Sites mémoriels du Cambodge",
    "pays": "Cambodge",
    "paysIso": "KH",
    "continent": "Asie",
@@ -5540,7 +5540,7 @@
   },
   {
    "id": "WHS-976",
-   "nom": "Gyeongju Historic Areas",
+   "nom": "Zones historiques de Gyeongju",
    "pays": "Corée du Sud",
    "paysIso": "KR",
    "continent": "Asie",
@@ -5900,7 +5900,7 @@
   },
   {
    "id": "WHS-249",
-   "nom": "Group of monuments at Mahabalipuram",
+   "nom": "Monuments de Mahabalipuram",
    "pays": "Inde",
    "paysIso": "IN",
    "continent": "Asie",
@@ -6140,7 +6140,7 @@
   },
   {
    "id": "WHS-1671",
-   "nom": "The Cosmological Axis of Yogyakarta and its Historic Landmarks",
+   "nom": "Axe cosmologique de Yogyakarta",
    "pays": "Indonésie",
    "paysIso": "ID",
    "continent": "Asie",
@@ -7115,7 +7115,7 @@
   },
   {
    "id": "WHS-951",
-   "nom": "Hin Nam No National Protected Area",
+   "nom": "Parc national de Hin Nam No",
    "pays": "Laos",
    "paysIso": "LA",
    "continent": "Asie",
@@ -7235,7 +7235,7 @@
   },
   {
    "id": "WHS-850",
-   "nom": "Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)",
+   "nom": "Ouadi Qadisha, la vallée sainte",
    "pays": "Liban",
    "paysIso": "LB",
    "continent": "Asie",
@@ -7310,7 +7310,7 @@
   },
   {
    "id": "WHS-1734",
-   "nom": "Forest Research Institute Malaysia Forest Park Selangor",
+   "nom": "Institut forestier de Malaisie (Selangor)",
    "pays": "Malaisie",
    "paysIso": "MY",
    "continent": "Asie",
@@ -7415,7 +7415,7 @@
   },
   {
    "id": "WHS-1621",
-   "nom": "Deer Stone Monuments, the Heart of Bronze Age Culture",
+   "nom": "Pierres à cerfs de l’âge du bronze",
    "pays": "Mongolie",
    "paysIso": "MN",
    "continent": "Asie",
@@ -7805,7 +7805,7 @@
   },
   {
    "id": "WHS-1403",
-   "nom": "Mount Hamiguitan Range Wildlife Sanctuary",
+   "nom": "Sanctuaire du mont Hamiguitan",
    "pays": "Philippines",
    "paysIso": "PH",
    "continent": "Asie",
@@ -8600,7 +8600,7 @@
   },
   {
    "id": "WHS-574",
-   "nom": "Historic Town of Sukhothai and Associated Historic Towns",
+   "nom": "Cité historique de Sukhothaï",
    "pays": "Thaïlande",
    "paysIso": "TH",
    "continent": "Asie",
@@ -8870,7 +8870,7 @@
   },
   {
    "id": "WHS-948",
-   "nom": "Hoi An Ancient Town",
+   "nom": "Vieille ville de Hôi An",
    "pays": "Vietnam",
    "paysIso": "VN",
    "continent": "Asie",
@@ -8900,7 +8900,7 @@
   },
   {
    "id": "WHS-1732",
-   "nom": "The Complex of Yen Tu Monuments and Landscape",
+   "nom": "Monuments et paysage de Yên Tử",
    "pays": "Vietnam",
    "paysIso": "VN",
    "continent": "Asie",
@@ -9335,7 +9335,7 @@
   },
   {
    "id": "WHS-783",
-   "nom": "Luther Memorials in Eisleben and Wittenberg",
+   "nom": "Mémoriaux de Luther (Eisleben et Wittenberg)",
    "pays": "Allemagne",
    "paysIso": "DE",
    "continent": "Europe",
@@ -9365,7 +9365,7 @@
   },
   {
    "id": "WHS-367",
-   "nom": "Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site",
+   "nom": "Monuments romains et cathédrale de Trèves",
    "pays": "Allemagne",
    "paysIso": "DE",
    "continent": "Europe",
@@ -10955,7 +10955,7 @@
   },
   {
    "id": "WHS-493",
-   "nom": "Medieval City of Rhodes",
+   "nom": "Cité médiévale de Rhodes",
    "pays": "Grèce",
    "paysIso": "GR",
    "continent": "Europe",
@@ -11150,7 +11150,7 @@
   },
   {
    "id": "WHS-710",
-   "nom": "Bagrati Cathedral and Gelati Monastery",
+   "nom": "Cathédrale de Bagrati et monastère de Guélati",
    "pays": "Géorgie",
    "paysIso": "GE",
    "continent": "Europe",
@@ -12155,7 +12155,7 @@
   },
   {
    "id": "WHS-1486",
-   "nom": "Rjukan–Notodden Industrial Heritage Site",
+   "nom": "Site industriel de Rjukan-Notodden",
    "pays": "Norvège",
    "paysIso": "NO",
    "continent": "Europe",
@@ -12710,7 +12710,7 @@
   },
   {
    "id": "WHS-902",
-   "nom": "Church on the Hill",
+   "nom": "Église sur la colline de Sighișoara",
    "pays": "Roumanie",
    "paysIso": "RO",
    "continent": "Europe",
@@ -12980,7 +12980,7 @@
   },
   {
    "id": "WHS-428",
-   "nom": "Buildings and architecture of Bath",
+   "nom": "Ville thermale de Bath",
    "pays": "Royaume-Uni",
    "paysIso": "GB",
    "continent": "Europe",
@@ -13760,7 +13760,7 @@
   },
   {
    "id": "WHS-871",
-   "nom": "Naval City of Karlskrona",
+   "nom": "Ville navale de Karlskrona",
    "pays": "Suède",
    "paysIso": "SE",
    "continent": "Europe",
@@ -14480,7 +14480,7 @@
   },
   {
    "id": "WHS-186",
-   "nom": "Lord Howe Island Group",
+   "nom": "Îles Lord Howe",
    "pays": "Australie",
    "paysIso": "AU",
    "continent": "Océanie",
@@ -14495,7 +14495,7 @@
   },
   {
    "id": "WHS-1709",
-   "nom": "Murujuga National Park",
+   "nom": "Parc national de Murujuga",
    "pays": "Australie",
    "paysIso": "AU",
    "continent": "Océanie",
