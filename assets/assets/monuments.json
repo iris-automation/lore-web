@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "source": "Wikidata (UNESCO World Heritage, propriété P757) — CC0 + couche virale (lieux mondialement connus, coordonnées Wikidata)",
  "count": 998,
  "monuments": [
@@ -3770,7 +3770,7 @@
   },
   {
    "id": "WHS-303",
-   "nom": "Site du patrimoine mondial du Parc national de l'Iguazu",
+   "nom": "Parc national de l’Iguazú",
    "pays": "Argentine",
    "paysIso": "AR",
    "continent": "Amérique du Sud",
