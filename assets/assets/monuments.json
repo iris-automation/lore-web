@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "source": "Wikidata (UNESCO World Heritage, propriété P757) — CC0 + couche virale (lieux mondialement connus, coordonnées Wikidata)",
  "count": 998,
  "monuments": [
@@ -41,7 +41,7 @@
    "continent": "Afrique",
    "latitude": -23.9884,
    "longitude": 31.5547,
-   "rayonValidationMetres": 120000.0,
+   "rayonValidationMetres": 40000,
    "niveau": "legendaire",
    "categorie": "culturel",
    "anneeInscription": null,
