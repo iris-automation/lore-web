@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "source": "Wikidata (UNESCO World Heritage, propriété P757) — CC0 + couche virale (lieux mondialement connus, coordonnées Wikidata)",
  "count": 998,
  "monuments": [
@@ -106,7 +106,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Tylecodon paniculatus-PICT2534.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Afrique du Sud."
+   "description": "Désert de succulentes semi-aride, l'un des plus riches du monde en plantes uniques, parcouru par les pasteurs Nama."
   },
   {
    "id": "WHS-916",
@@ -121,7 +121,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Robben Island - Cape Town, South Africa (3883849594).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Afrique du Sud."
+   "description": "L'îlot-prison où Nelson Mandela passa dix-huit de ses vingt-sept années de détention."
   },
   {
    "id": "WHS-1007",
@@ -166,7 +166,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Fonds André Raymond (1925-2011) - Algérie - Alger - Vue surplombante sur les toits de la ville (MédiHAL 4106832).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Algérie."
+   "description": "Citadelle blanche en cascade vers la mer, dédale de ruelles ottomanes dominant la baie d'Alger."
   },
   {
    "id": "WHS-191",
@@ -271,7 +271,7 @@
    "categorie": "culturel",
    "anneeInscription": 2017,
    "imageCommons": "The Bansa, or residence of the King of Kongo, called St. Salvador (M'Banza Kongo), Astley 1745.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2017 — Angola."
+   "description": "Capitale du royaume Kongo, l'un des rares grands centres de pouvoir africains visités tôt par les Européens."
   },
   {
    "id": "WHS-1021",
@@ -286,7 +286,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Tsodilo rock paintings 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Botswana."
+   "description": "Colline sacrée du désert du Kalahari, art rupestre San accumulé sur des millénaires."
   },
   {
    "id": "WHS-1713",
@@ -301,7 +301,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": "Tiebele village in Burkina Faso 02.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Burkina Faso."
+   "description": "Cour royale aux murs de terre ornés de motifs géométriques, cœur du royaume kasena."
   },
   {
    "id": "WD-Q3551752",
@@ -346,7 +346,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Abomey 2006 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Bénin."
+   "description": "Palais de terre crue des rois du Dahomey, bas-reliefs racontant les batailles et les mythes royaux."
   },
   {
    "id": "WD-Q190562",
@@ -376,7 +376,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Cameroun."
+   "description": "Sites fortifiés en terre du nord du Cameroun, vestiges d'un royaume sahélien méconnu."
   },
   {
    "id": "WHS-1310",
@@ -391,7 +391,7 @@
    "categorie": "culturel",
    "anneeInscription": 2009,
    "imageCommons": "Cidade Velha-Bord de mer (2).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2009 — Cap-Vert."
+   "description": "Première ville coloniale européenne des tropiques, escale historique du commerce transatlantique."
   },
   {
    "id": "VIR-ede27313fa6",
@@ -511,7 +511,7 @@
    "categorie": "culturel",
    "anneeInscription": 2006,
    "imageCommons": "Groepen stenen die een patroon vormen Wassu Gambia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Gambie."
+   "description": "Plus de mille pierres dressées en cercles funéraires, l'un des plus grands ensembles mégalithiques du monde."
   },
   {
    "id": "WD-Q1254826",
@@ -631,7 +631,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Lamu coast.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Kenya."
+   "description": "Plus ancienne et mieux conservée cité swahilie d'Afrique de l'Est, dhaos de bois toujours construits à la main."
   },
   {
    "id": "WHS-800",
@@ -676,7 +676,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": "Great Mosque of Gede.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Kenya."
+   "description": "Cité swahilie en ruines engloutie par la forêt, comptoir commercial médiéval oublié."
   },
   {
    "id": "WHS-1450",
@@ -691,7 +691,7 @@
    "categorie": "culturel",
    "anneeInscription": 2018,
    "imageCommons": "Thimlich Ohinga Cultural Landscape- Kenya.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2018 — Kenya."
+   "description": "Village fortifié en pierre sèche sans mortier, l'un des plus anciens témoins de l'urbanisme est-africain."
   },
   {
    "id": "WD-Q37683",
@@ -751,7 +751,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Ghadames, 2006.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Libye."
+   "description": "Cité caravanière fortifiée du Sahara libyen, maisons de terre crue à plusieurs étages."
   },
   {
    "id": "WHS-183",
@@ -781,7 +781,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Libya 5076 Tadrart Acacus Luca Galuzzi 2007.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Libye."
+   "description": "Massif saharien couvert d'art rupestre témoignant de douze mille ans de vie humaine dans le désert."
   },
   {
    "id": "WD-Q788084",
@@ -811,7 +811,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Ambohimanga 14.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Madagascar."
+   "description": "Colline royale sacrée de Madagascar, tombeaux des souverains merina et vue sur les hautes terres."
   },
   {
    "id": "WHS-1201",
@@ -826,7 +826,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": "Mulanje ETM 26may02.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Malawi."
+   "description": "Massif montagneux du Malawi, forêt tropicale isolée abritant une biodiversité endémique unique."
   },
   {
    "id": "WHS-289",
@@ -886,7 +886,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Askia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Mali."
+   "description": "Mausolée de terre crue à la silhouette pyramidale, tombeau d'un empereur songhaï de Tombouctou."
   },
   {
    "id": "WHS-331",
@@ -961,7 +961,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Maroc."
+   "description": "Ksar de terre ocre sur la route caravanière saharienne, décor de nombreux films hollywoodiens."
   },
   {
    "id": "WHS-837",
@@ -976,7 +976,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Tetuan vista desde un tejado.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Maroc."
+   "description": "Médina de Fès, l'une des plus grandes zones piétonnes historiques du monde, dédale millénaire."
   },
   {
    "id": "WHS-170",
@@ -1006,7 +1006,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Meknes-medina-aerial-view.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Maroc."
+   "description": "Médina impériale marocaine aux portes monumentales, capitale voulue rivale de Versailles."
   },
   {
    "id": "WHS-1259",
@@ -1036,7 +1036,7 @@
    "categorie": "culturel",
    "anneeInscription": 2006,
    "imageCommons": "Aapravasi Ghat Museum, Mauritius (41).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Maurice."
+   "description": "Point de débarquement des travailleurs sous contrat de l'océan Indien, mémoire de l'immigration engagée."
   },
   {
    "id": "WHS-750",
@@ -1051,7 +1051,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "مسجد شنقيط التاريخي.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Mauritanie."
+   "description": "Anciennes cités caravanières sahariennes, bibliothèques manuscrites cachées dans le désert mauritanien."
   },
   {
    "id": "WHS-506",
@@ -1081,7 +1081,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Beach cleaning.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Mozambique."
+   "description": "Île swahilie puis portugaise, comptoir de l'océan Indien mêlant architectures africaine, arabe et européenne."
   },
   {
    "id": "WD-Q1932730",
@@ -1126,7 +1126,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Namib Desert surface.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Namibie."
+   "description": "Les plus hautes dunes de sable du monde, mer de sable rouge vieille de plusieurs millions d'années."
   },
   {
    "id": "WHS-1255",
@@ -1141,7 +1141,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Rock Paintig Twyfelfontein Namibia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Namibie."
+   "description": "Gravures rupestres namibiennes vieilles de six mille ans, l'une des plus riches concentrations d'Afrique."
   },
   {
    "id": "WHS-1268",
@@ -1156,7 +1156,7 @@
    "categorie": "culturel",
    "anneeInscription": 2013,
    "imageCommons": "1997 277-16A Agadez hotel.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Niger."
+   "description": "Ville caravanière du Sahel nigérien, mosquée de terre crue et grande mosquée aux minarets pointus."
   },
   {
    "id": "WD-Q229624",
@@ -1186,7 +1186,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": "Osun Osogbo forest, river and sacred groove 12.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Nigeria."
+   "description": "Bosquet sacré au bord de la rivière Osun, dernier grand sanctuaire yoruba préservé au Nigeria."
   },
   {
    "id": "WHS-684",
@@ -1216,7 +1216,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Kasubi Tombs 20250815 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Ouganda."
+   "description": "Tombeaux royaux du Buganda coiffés de chaume, mausolée dynastique au cœur de l'Ouganda."
   },
   {
    "id": "WD-Q932736",
@@ -1516,7 +1516,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "BedikVillage.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Sénégal."
+   "description": "Pays bassari, terrasses agricoles et villages fortifiés des minorités du sud-est du Sénégal."
   },
   {
    "id": "WHS-26",
@@ -1546,7 +1546,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Island of Saint-Louis-113799.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Sénégal."
+   "description": "Ancienne capitale coloniale française d'Afrique de l'Ouest, ville-île aux façades pastel sur le fleuve Sénégal."
   },
   {
    "id": "WHS-403",
@@ -1651,7 +1651,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Togo Taberma house 02.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Togo."
+   "description": "Cases togolaises en forme de tours, habitat traditionnel fortifié des Batammariba."
   },
   {
    "id": "WD-Q877391",
@@ -1711,7 +1711,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Punic Town of Kerkuane and its Necropolis-130314.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Tunisie."
+   "description": "Cité punique la mieux préservée, plan urbain intact d'une ville carthaginoise détruite par Rome."
   },
   {
    "id": "WHS-1640",
@@ -1726,7 +1726,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "ISD highres ISS002 ISS002-749-82 3.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Tunisie."
+   "description": "Île tunisienne aux mosquées fortifiées et maisons blanches, comptoir méditerranéen depuis l'Antiquité."
   },
   {
    "id": "WHS-794",
@@ -1741,7 +1741,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Dougga, Beja.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Tunisie."
+   "description": "Cité romaine la mieux conservée d'Afrique du Nord, capitole et théâtre intacts en pleine campagne tunisienne."
   },
   {
    "id": "WHS-499",
@@ -1756,7 +1756,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "View of Kairouan from the Minaret of the Great Mosque - Tunisia - 1899.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Tunisie."
+   "description": "Ville sainte de l'islam au Maghreb, grande mosquée aux colonnes antiques réemployées."
   },
   {
    "id": "WHS-498",
@@ -1771,7 +1771,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "Sousse Kasbah.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Tunisie."
+   "description": "Médina fortifiée face à la mer, ribat et remparts défendant la côte tunisienne des raids byzantins."
   },
   {
    "id": "WHS-36",
@@ -1831,7 +1831,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Khami.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Zimbabwe."
+   "description": "Cité de pierre zimbabwéenne, comptoir commercial médiéval lié à l'or et à l'ivoire."
   },
   {
    "id": "WHS-364",
@@ -1846,7 +1846,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Great-Zimbabwe-6.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Zimbabwe."
+   "description": "La plus grande cité de pierre d'Afrique subsaharienne précoloniale, capitale d'un royaume disparu."
   },
   {
    "id": "WHS-86",
@@ -1951,7 +1951,7 @@
    "categorie": "culturel",
    "anneeInscription": 2002,
    "imageCommons": "Saint Catherine Monastery church and mosque towers.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2002 — Égypte."
+   "description": "Monastère orthodoxe au pied du mont Sinaï, l'un des plus anciens toujours habités au monde."
   },
   {
    "id": "WD-Q3642",
@@ -2131,7 +2131,7 @@
    "categorie": "culturel",
    "anneeInscription": 2011,
    "imageCommons": "Main Guardhouse Garrison building (top), Barbados.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Barbade."
+   "description": "Garnison coloniale britannique et port historique de la Barbade, témoin de la marine du XVIIIe siècle."
   },
   {
    "id": "WD-Q86486",
@@ -2266,7 +2266,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Rideau Canal.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Canada."
+   "description": "Canal historique du XIXe siècle reliant Ottawa au lac Ontario, encore navigable par écluses manuelles."
   },
   {
    "id": "WHS-1285",
@@ -2296,7 +2296,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "Grand Pré.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Canada."
+   "description": "Marais asséchés par les Acadiens au XVIIe siècle, mémoire d'un peuple déporté par les Britanniques."
   },
   {
    "id": "WHS-72",
@@ -2341,7 +2341,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Lunenburg Nova Scotia 3.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Canada."
+   "description": "Port colonial britannique en damier, l'un des mieux conservés d'Amérique du Nord."
   },
   {
    "id": "WHS-1412",
@@ -2356,7 +2356,7 @@
    "categorie": "culturel",
    "anneeInscription": 2013,
    "imageCommons": "RedBayNL BasqueChalupa.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Canada."
+   "description": "Poste baleinier basque du XVIe siècle, épaves et fours à huile figés dans le froid du Labrador."
   },
   {
    "id": "WHS-256",
@@ -2416,7 +2416,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "Writing-on-Stone Provincial Park, Alberta.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Canada."
+   "description": "Falaises de grès gravées par les peuples des Plaines, l'une des plus grandes concentrations d'art rupestre nord-américain."
   },
   {
    "id": "WHS-304",
@@ -2506,7 +2506,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Costa Rica."
+   "description": "Sphères de pierre précolombiennes parfaitement rondes, dont la fonction exacte reste débattue."
   },
   {
    "id": "WD-Q726751",
@@ -2566,7 +2566,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Camaguey rooftops 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Cuba."
+   "description": "Ville coloniale au tracé irrégulier, unique parmi les cités espagnoles d'Amérique bâties en damier."
   },
   {
    "id": "WHS-1202",
@@ -2581,7 +2581,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": "Jagua 5843.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Cuba."
+   "description": "Ville portuaire française fondée au XIXe siècle, îlot néoclassique dans les Caraïbes hispaniques."
   },
   {
    "id": "WHS-841",
@@ -2596,7 +2596,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Castillo del Morro by Glogg 4.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Cuba."
+   "description": "Forteresse espagnole en étoile veillant sur la baie de Santiago de Cuba face aux pirates."
   },
   {
    "id": "WHS-889",
@@ -2641,7 +2641,7 @@
    "categorie": "culturel",
    "anneeInscription": 2018,
    "imageCommons": "Maligiaq fjord in summer 2010 (2).JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2018 — Groenland."
+   "description": "Site inuit du Groenland occupé sans interruption depuis quatre mille ans, chasse au caribou et à la baleine."
   },
   {
    "id": "WHS-1149",
@@ -2671,7 +2671,7 @@
    "categorie": "culturel",
    "anneeInscription": 2017,
    "imageCommons": "Tunulliarfik-qassiarsuk.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2017 — Groenland."
+   "description": "Fermes norroises et inuites côte à côte, deux mille ans d'adaptation humaine à l'Arctique."
   },
   {
    "id": "VIR-46970f20cb5",
@@ -2746,7 +2746,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "ESTRUCTURA 12 MUSEO AL AIRE LIBRE FACHADA OESTE - TAKALIK ABAJ.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Guatemala."
+   "description": "Site précolombien de transition entre les cultures olmèque et maya, stèles sculptées en pleine jungle."
   },
   {
    "id": "WHS-180",
@@ -2836,7 +2836,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": "Old Port Royal - Project Gutenberg eText 19396.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Jamaïque."
+   "description": "Port pirate englouti par un séisme en 1692, cité sous-marine surnommée la plus méchante ville du monde."
   },
   {
    "id": "WHS-483",
@@ -3016,7 +3016,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "CatedralMorelia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Mexique."
+   "description": "Ville coloniale rose aux façades de pierre volcanique, capitale historique du Michoacán."
   },
   {
    "id": "WHS-416",
@@ -3031,7 +3031,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Catedral de puebla.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Mexique."
+   "description": "Ville coloniale aux azulejos multicolores, carrefour baroque entre Mexico et Veracruz."
   },
   {
    "id": "WHS-676",
@@ -3046,7 +3046,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "ZacatecasView.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Mexique."
+   "description": "Ville minière de l'argent aux maisons roses, à flanc de canyon dans le centre du Mexique."
   },
   {
    "id": "WHS-1250",
@@ -3061,7 +3061,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Biblioteca and Torre des Humanidades I from Las Islas, Ciudad Universitaria, Mexico City.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Mexique."
+   "description": "Campus universitaire moderniste orné de fresques murales monumentales, symbole du Mexique du XXe siècle."
   },
   {
    "id": "WHS-631",
@@ -3076,7 +3076,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "El Tajín, Nischenpyramide.(fcm).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Mexique."
+   "description": "Cité totonaque à la pyramide aux niches, carrefour culturel du Mexique préhispanique."
   },
   {
    "id": "WHS-1352",
@@ -3091,7 +3091,7 @@
    "categorie": "culturel",
    "anneeInscription": 2010,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — Mexique."
+   "description": "Grottes préhistoriques ayant livré les plus anciens épis de maïs domestiqué connus."
   },
   {
    "id": "WHS-895",
@@ -3106,7 +3106,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Bahía de Campeche Cart Siglo XVI.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Mexique."
+   "description": "Ville fortifiée caraïbe, remparts intacts contre les assauts des pirates des Antilles."
   },
   {
    "id": "WHS-815",
@@ -3121,7 +3121,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Hospicio Cabañas.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Mexique."
+   "description": "Hospice colonial orné de fresques de José Clemente Orozco, chef-d'œuvre du muralisme mexicain."
   },
   {
    "id": "WHS-1136",
@@ -3136,7 +3136,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Luis Barragan House exterior 02.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Mexique."
+   "description": "Maison-atelier minimaliste de l'architecte Luis Barragán, jeu de couleurs et de lumière emblématique."
   },
   {
    "id": "WD-Q950875",
@@ -3166,7 +3166,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Leon Viejo - panoramio.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Nicaragua."
+   "description": "Cité coloniale espagnole ensevelie par une éruption volcanique, « Pompéi » d'Amérique centrale."
   },
   {
    "id": "WD-Q7350",
@@ -3271,7 +3271,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "BrimstoneHill01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Saint-Christophe-et-Niévès."
+   "description": "Forteresse antillaise surnommée le « Gibraltar des Caraïbes », bastion britannique du XVIIIe siècle."
   },
   {
    "id": "WHS-1161",
@@ -3301,7 +3301,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "ES Joya Ceren 05 2012 Estructura 9 Area 2 Tamazcal wide angle 1479.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Salvador."
+   "description": "Village maya enseveli par une éruption volcanique, « Pompéi » d'Amérique centrale figé vers l'an 600."
   },
   {
    "id": "WD-Q11259",
@@ -3796,7 +3796,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "SantaCruz-CuevaManos-P2210651b.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Argentine."
+   "description": "Grotte de mains peintes en négatif, vieille de plusieurs millénaires, dans les steppes de Patagonie."
   },
   {
    "id": "WHS-1681",
@@ -3811,7 +3811,7 @@
    "categorie": null,
    "anneeInscription": 2023,
    "imageCommons": "ESMA 2.JPG",
-   "description": "Site du patrimoine mondial de l'UNESCO, inscrit en 2023 — Argentine."
+   "description": "École navale argentine devenue centre de détention sous la dictature, mémorial des droits humains."
   },
   {
    "id": "WHS-1526",
@@ -3886,7 +3886,7 @@
    "categorie": "culturel",
    "anneeInscription": 2003,
    "imageCommons": "Jujuy-Purmamarca-P3120033.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2003 — Argentine."
+   "description": "Vallée andine parcourue par les caravanes de lamas depuis l'époque précolombienne."
   },
   {
    "id": "WHS-995",
@@ -3901,7 +3901,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Cordoba-derecho1.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Argentine."
+   "description": "Ruines d'une mission jésuite guarani, seule survivante insulaire de ce réseau missionnaire."
   },
   {
    "id": "WD-Q76122",
@@ -3931,7 +3931,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "20170805 Bolivia 1214 Sucre sRGB (26204168039).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Bolivie."
+   "description": "Ville blanche fondée par les conquistadors, berceau de l'indépendance de la Bolivie."
   },
   {
    "id": "WHS-529",
@@ -3946,7 +3946,7 @@
    "categorie": "culturel",
    "anneeInscription": 1990,
    "imageCommons": "Kerk Conception Exterieur.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1990 — Bolivie."
+   "description": "Missions jésuites où architecture baroque et artisanat guarani se sont fondus pendant deux siècles."
   },
   {
    "id": "WHS-967",
@@ -3976,7 +3976,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Vista de la Villa Imperial de Potosí.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Bolivie."
+   "description": "Ancienne mine d'argent qui finança l'Empire espagnol, à plus de quatre mille mètres d'altitude."
   },
   {
    "id": "WHS-883",
@@ -3991,7 +3991,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Fuerte03.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Bolivie."
+   "description": "Rocher sculpté par les Incas, autel monumental taillé à même la pierre."
   },
   {
    "id": "WHS-567",
@@ -4006,7 +4006,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Zonnepoort tiwanaku.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Bolivie."
+   "description": "Capitale préinca de l'altiplano, porte du Soleil et monolithes de pierre énigmatiques."
   },
   {
    "id": "WD-Q79961",
@@ -4171,7 +4171,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Largo do Pelourinho, Salvador 20150719-DSC05452.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Brésil."
+   "description": "Premier centre historique du Brésil colonial, façades pastel et églises baroques au-dessus de la baie."
   },
   {
    "id": "WHS-821",
@@ -4186,7 +4186,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Centro Histórico de São Luís, Maranhão, Brasil 4.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Brésil."
+   "description": "Ville coloniale fondée par les Français, façades d'azulejos rares en terre brésilienne."
   },
   {
    "id": "WHS-998",
@@ -4216,7 +4216,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "6010156 Diamantina.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Brésil."
+   "description": "Ville minière du diamant du XVIIIe siècle, ruelles pavées accrochées aux collines du Minas Gerais."
   },
   {
    "id": "WHS-993",
@@ -4231,7 +4231,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Boamorte.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Brésil."
+   "description": "Ville minière de l'or du XVIIIe siècle, ruelles pavées figées dans le Brésil colonial."
   },
   {
    "id": "WHS-275",
@@ -4261,7 +4261,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "20030924PPedraFurada9.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Brésil."
+   "description": "L'une des plus grandes concentrations d'art rupestre préhistorique des Amériques."
   },
   {
    "id": "WHS-1611",
@@ -4291,7 +4291,7 @@
    "categorie": null,
    "anneeInscription": 2025,
    "imageCommons": "Criança indígena Xakriabá no interior da caverna Janelão.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO, inscrit en 2025 — Brésil."
+   "description": "Grottes calcaires du Minas Gerais, concrétions et rivières souterraines au cœur du Brésil."
   },
   {
    "id": "WHS-445",
@@ -4306,7 +4306,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Brasília, Brasil.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Brésil."
+   "description": "Capitale dessinée d'un seul jet, silhouette d'avion signée Oscar Niemeyer et Lúcio Costa."
   },
   {
    "id": "WD-Q901646",
@@ -4381,7 +4381,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "Qapaq Nan at Mosollaqta lake DSC 2822.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Chili."
+   "description": "Réseau de routes incas reliant vallées et sommets sur des milliers de kilomètres andins."
   },
   {
    "id": "WHS-1634",
@@ -4396,7 +4396,7 @@
    "categorie": null,
    "anneeInscription": 2021,
    "imageCommons": null,
-   "description": "Site du patrimoine mondial de l'UNESCO, inscrit en 2021 — Chili."
+   "description": "Les plus anciennes momies artificielles connues au monde, façonnées par les pêcheurs du désert d'Atacama."
   },
   {
    "id": "WHS-1214",
@@ -4411,7 +4411,7 @@
    "categorie": "culturel",
    "anneeInscription": 2006,
    "imageCommons": "Chile, Sewell en nieve (2959968911).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Chili."
+   "description": "Ville minière du cuivre bâtie à flanc de montagne, escaliers en zigzag pour les mineurs."
   },
   {
    "id": "WHS-1178",
@@ -4426,7 +4426,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": "Humberstone.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Chili."
+   "description": "Usines fantômes du salpêtre en plein désert d'Atacama, âge d'or industriel évaporé du jour au lendemain."
   },
   {
    "id": "WD-Q5780440",
@@ -4471,7 +4471,7 @@
    "categorie": "culturel",
    "anneeInscription": 2011,
    "imageCommons": "Cafetales, en Colombia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Colombie."
+   "description": "Paysage de collines caféières colombiennes, fincas colorées et traditions d'une culture centenaire."
   },
   {
    "id": "WHS-744",
@@ -4486,7 +4486,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Parque Arqueológico de San Agustín-Mesita A 12.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Colombie."
+   "description": "La plus grande concentration de statues funéraires précolombiennes d'Amérique du Sud."
   },
   {
    "id": "WHS-743",
@@ -4501,7 +4501,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Tombs in Tierra Dentro.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Colombie."
+   "description": "Nécropole précolombienne aux chambres souterraines peintes de motifs géométriques."
   },
   {
    "id": "WHS-711",
@@ -4576,7 +4576,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "J37 730 Jesús de Tavarangüe, colegio.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Paraguay."
+   "description": "Ruines de missions jésuites guaranis à la frontière du Paraguay, art baroque métissé en pleine forêt."
   },
   {
    "id": "WHS-274",
@@ -4651,7 +4651,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "Panorama centro de Lima.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Pérou."
+   "description": "Centre historique colonial espagnol, la « Cité des Rois » fondée par Pizarro au bord du Pacifique."
   },
   {
    "id": "WHS-366",
@@ -4666,7 +4666,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Chan Chan, 2023 (32).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Pérou."
+   "description": "La plus grande cité de terre crue précolombienne des Amériques, capitale de l'empire Chimú."
   },
   {
    "id": "WHS-330",
@@ -4681,7 +4681,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Chavin - Août 2007.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Pérou."
+   "description": "Temple andin en forme de U, sanctuaire oraculaire précédant l'empire inca de plus d'un millénaire."
   },
   {
    "id": "WHS-700",
@@ -4696,7 +4696,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 44.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Pérou."
+   "description": "Lignes et figures tracées dans le désert péruvien, visibles seulement depuis les airs."
   },
   {
    "id": "WHS-548",
@@ -4756,7 +4756,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Jodensavanne.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Suriname."
+   "description": "Colonie juive du XVIIe siècle en pleine forêt amazonienne du Surinam, l'une des plus anciennes des Amériques."
   },
   {
    "id": "WD-Q49384384",
@@ -4816,7 +4816,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "Iglesia Atlántida Dieste 7.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Uruguay."
+   "description": "Église en béton brut au toit ondulant, chef-d'œuvre moderniste de l'architecte Eladio Dieste."
   },
   {
    "id": "WD-Q80299",
@@ -4846,7 +4846,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "HansArp-CloudShepher-Manaure1953.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Venezuela."
+   "description": "Campus moderniste vénézuélien mêlant architecture et art mural à grande échelle."
   },
   {
    "id": "WHS-658",
@@ -4861,7 +4861,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Collectie Nationaal Museum van Wereldculturen TM-1869-1a Ingang van het Schottegat te Curacao ten tijde van het Engelse tussenbestuur Curacao John & Josiah Boydell & co. (Uitgever).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Venezuela."
+   "description": "Port colonial hollandais et espagnol, maisons de terre crue aux couleurs vives des Caraïbes."
   },
   {
    "id": "WHS-701",
@@ -5071,7 +5071,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": "صورة جوية لموقع الفاو الأثري.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Arabie saoudite."
+   "description": "Site archéologique caravanier d'Arabie, carrefour antique entre péninsule et Croissant fertile."
   },
   {
    "id": "WHS-1361",
@@ -5086,7 +5086,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "AlBalad CoralHouses.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Arabie saoudite."
+   "description": "Vieille ville corallienne de la mer Rouge, porte historique des pèlerins vers La Mecque."
   },
   {
    "id": "WHS-1563",
@@ -5101,7 +5101,7 @@
    "categorie": "culturel",
    "anneeInscription": 2018,
    "imageCommons": "Al Hasa Cave.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2018 — Arabie saoudite."
+   "description": "Oasis parmi les plus vastes du monde, cultivée sans interruption depuis l'âge du bronze."
   },
   {
    "id": "WHS-1619",
@@ -5116,7 +5116,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "Inscriptions of Hima mountain1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Arabie saoudite."
+   "description": "Falaises couvertes de gravures rupestres et d'inscriptions antiques, jalon des routes caravanières d'Arabie."
   },
   {
    "id": "WHS-1329",
@@ -5131,7 +5131,7 @@
    "categorie": "culturel",
    "anneeInscription": 2010,
    "imageCommons": "At-Turaif District in ad-Dir'iyah (12).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — Arabie saoudite."
+   "description": "Cité de terre crue, berceau de la première dynastie saoudienne au cœur de la péninsule Arabique."
   },
   {
    "id": "WHS-1293",
@@ -5146,7 +5146,7 @@
    "categorie": "culturel",
    "anneeInscription": 2008,
    "imageCommons": "Hegra, Al-Ula, Saudi Arabia.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2008 — Arabie saoudite."
+   "description": "Cité nabatéenne jumelle de Pétra, tombeaux monumentaux taillés dans le grès du désert."
   },
   {
    "id": "WD-Q499285",
@@ -5176,7 +5176,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Arménie."
+   "description": "Monastère arménien niché dans une gorge, en partie taillé à même la falaise."
   },
   {
    "id": "WHS-958",
@@ -5206,7 +5206,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Şəki şəhəri ümumi görünüş. çaykənarı.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Azerbaïdjan."
+   "description": "Ville caravanière du Caucase, caravansérails de pierre sur l'ancienne route de la soie."
   },
   {
    "id": "WHS-1192",
@@ -5236,7 +5236,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "Burial Mounds in Bahrain 1918.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Bahreïn."
+   "description": "Le plus grand champ de tumulus funéraires préhistoriques du monde, des dizaines de milliers de tertres."
   },
   {
    "id": "WD-Q804009",
@@ -5326,7 +5326,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "Pyu Ancient City In Myanmar UNESCO World Heritage 003.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Birmanie."
+   "description": "Cités-états antiques du delta de l'Irrawaddy, berceau urbain de la civilisation birmane."
   },
   {
    "id": "WD-Q842921",
@@ -5386,7 +5386,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Buddhist Stupa at Choeung Ek killing fields, Cambodia.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Cambodge."
+   "description": "Lieux de mémoire du génocide cambodgien, témoins des années Khmers rouges."
   },
   {
    "id": "WHS-1667",
@@ -5401,7 +5401,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Prasat Thom 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Cambodge."
+   "description": "Cité khmère isolée en forêt, pyramide à degrés et temples envahis par la jungle."
   },
   {
    "id": "WHS-1224",
@@ -5416,7 +5416,7 @@
    "categorie": "culturel",
    "anneeInscription": 2008,
    "imageCommons": "03 Prasat Preah Vihear-nX-06478.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2008 — Cambodge."
+   "description": "Temple khmer perché sur une falaise frontalière, longtemps disputé entre deux nations."
   },
   {
    "id": "WHS-1532",
@@ -5431,7 +5431,7 @@
    "categorie": "culturel",
    "anneeInscription": 2017,
    "imageCommons": "600 CE Ashram Maha Rishi Hindu temple, N17 Kuk Vihear Prasat Asram Maha Rusei, Sambour Kuk Cambodia 01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2017 — Cambodge."
+   "description": "L'une des plus anciennes capitales khmères, tours de brique dispersées en pleine forêt."
   },
   {
    "id": "WD-Q321697",
@@ -5521,7 +5521,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Hwaseong Fortress, Suwon, Gyeonggi-do, Republic of Korea (2).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Corée du Sud."
+   "description": "Forteresse coréenne du XVIIIe siècle bâtie en un temps record grâce à des grues révolutionnaires pour l'époque."
   },
   {
    "id": "WHS-1591",
@@ -5551,7 +5551,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Пояс парка Тумули.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Corée du Sud."
+   "description": "Capitale millénaire du royaume de Silla, tumulus royaux et temples bouddhistes coréens."
   },
   {
    "id": "WHS-737",
@@ -5566,7 +5566,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Haeinsa temple.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Corée du Sud."
+   "description": "Temple bouddhiste abritant les huitante mille planches de bois du canon bouddhique intégral."
   },
   {
    "id": "WHS-1439",
@@ -5581,7 +5581,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "Khitai5.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Corée du Sud."
+   "description": "Forteresse de montagne qui servit de capitale de secours à la dynastie Joseon en cas d'invasion."
   },
   {
    "id": "WHS-1740",
@@ -5596,7 +5596,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Corée du Sud."
+   "description": "Gravures rupestres côtières figurant baleines et scènes de chasse, parmi les plus anciennes d'Asie."
   },
   {
    "id": "WHS-738",
@@ -5611,7 +5611,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Jongmyo-Jeongjeon.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Corée du Sud."
+   "description": "Sanctuaire confucéen où sont toujours honorés les esprits des rois Joseon par des rites séculaires."
   },
   {
    "id": "WHS-1562",
@@ -5626,7 +5626,7 @@
    "categorie": "culturel",
    "anneeInscription": 2018,
    "imageCommons": "Korea-Boeun-Beopjusa Palsangjeon 1782-06.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2018 — Corée du Sud."
+   "description": "Monastères bouddhistes de montagne coréens, cours en terrasses ouvertes sur les vallées."
   },
   {
    "id": "WHS-1498",
@@ -5641,7 +5641,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "Korea-Andong-Dosan Seowon 3025-06.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Corée du Sud."
+   "description": "Académies néoconfucéennes où les lettrés coréens étudiaient loin de l'agitation des villes."
   },
   {
    "id": "WHS-1666",
@@ -5656,7 +5656,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "남원 유곡리와 두락리 고분군.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Corée du Sud."
+   "description": "Tumulus de la confédération Gaya, royaumes coréens antiques éclipsés par leurs voisins plus puissants."
   },
   {
    "id": "WHS-1264",
@@ -5821,7 +5821,7 @@
    "categorie": "culturel",
    "anneeInscription": 2003,
    "imageCommons": "Bhimbetka Cave Paintings.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2003 — Inde."
+   "description": "Abris sous roche peints depuis l'âge de pierre, l'une des plus anciennes galeries d'art rupestre d'Asie."
   },
   {
    "id": "WHS-243",
@@ -5851,7 +5851,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Fatehpur Sikri- Hamamm.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Inde."
+   "description": "Capitale moghole abandonnée après seulement quatorze ans, cité de grès rouge figée dans le temps."
   },
   {
    "id": "WHS-251",
@@ -5896,7 +5896,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Darasuram, Airavatesvara Temple, Dravidian architecture, India.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Inde."
+   "description": "Temples chola encore en activité, sommets de l'architecture dravidienne du sud de l'Inde."
   },
   {
    "id": "WHS-249",
@@ -6110,7 +6110,7 @@
   },
   {
    "id": "WHS-1194",
-   "nom": "Pegulingan Temple",
+   "nom": "Temple d’eau de Pegulingan",
    "pays": "Indonésie",
    "paysIso": "ID",
    "continent": "Asie",
@@ -6121,7 +6121,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Indonésie."
+   "description": "Temple d'eau balinais au cœur du paysage des subak, système d'irrigation rizicole millénaire."
   },
   {
    "id": "WHS-642",
@@ -6136,7 +6136,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Prambanan Complex 1.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Indonésie."
+   "description": "Le plus grand temple hindou d'Indonésie, tours de pierre dédiées à la trinité Shiva-Brahma-Vishnu."
   },
   {
    "id": "WHS-1671",
@@ -6151,7 +6151,7 @@
    "categorie": null,
    "anneeInscription": 2023,
    "imageCommons": "Yogyakarta Indonesia Kraton-the-Sultans-Palace-02.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO, inscrit en 2023 — Indonésie."
+   "description": "Alignement sacré reliant volcan, palais et océan, colonne vertébrale spirituelle de Yogyakarta."
   },
   {
    "id": "WHS-1481",
@@ -6181,7 +6181,7 @@
    "categorie": "culturel",
    "anneeInscription": 2003,
    "imageCommons": "Ashur (Qal'at Sherqat)-115188.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2003 — Irak."
+   "description": "Capitale religieuse de l'empire assyrien, ziggourat et temples au bord du Tigre."
   },
   {
    "id": "WHS-1437",
@@ -6196,7 +6196,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "Hawler Castle.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Irak."
+   "description": "Colline habitée sans interruption depuis huit mille ans, l'une des plus anciennes villes du monde."
   },
   {
    "id": "WHS-276",
@@ -6211,7 +6211,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "The spiral minaret in Samarra.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Irak."
+   "description": "Capitale abbasside du IXe siècle, la plus grande cité archéologique islamique préservée au monde."
   },
   {
    "id": "WD-Q1962312",
@@ -6256,7 +6256,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "بم - panoramio (1).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Iran."
+   "description": "Cité-oasis de brique crue sur la route de la soie, citadelle reconstruite après un séisme dévastateur."
   },
   {
    "id": "WHS-1346",
@@ -6271,7 +6271,7 @@
    "categorie": "culturel",
    "anneeInscription": 2010,
    "imageCommons": "GRAND BAZAR OF TABRIZ.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — Iran."
+   "description": "Bazar couvert historique de la route de la soie, l'un des plus grands marchés voûtés du monde."
   },
   {
    "id": "WHS-1222",
@@ -6286,7 +6286,7 @@
    "categorie": "culturel",
    "anneeInscription": 2006,
    "imageCommons": "Behistun.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Iran."
+   "description": "Bas-relief rupestre où Darius Ier proclama sa victoire, texte trilingue clé du déchiffrement cunéiforme."
   },
   {
    "id": "WHS-1505",
@@ -6316,7 +6316,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": "Excavations in Ecbatana.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Iran."
+   "description": "Capitale mède puis achéménide, aujourd'hui enfouie sous la ville iranienne d'Hamadan."
   },
   {
    "id": "WHS-1398",
@@ -6331,7 +6331,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "Gonbad-e Qabus Tower by Hadi Karimi.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Iran."
+   "description": "Tour funéraire de brique du XIe siècle, chef-d'œuvre géométrique de l'architecture islamique ancienne."
   },
   {
    "id": "WHS-1397",
@@ -6346,7 +6346,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "20180301124354 IMG 4179And6more Interior 3.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Iran."
+   "description": "L'une des plus grandes places du monde islamique, mosquée aux dômes turquoise et bazars alentour."
   },
   {
    "id": "WHS-1668",
@@ -6361,7 +6361,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "کاروانسرای دیر گچین، میراث ملی ایران 26.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Iran."
+   "description": "Réseau de caravansérails perses jalonnant les routes commerciales entre Asie et Méditerranée."
   },
   {
    "id": "WHS-1506",
@@ -6376,7 +6376,7 @@
    "categorie": "culturel",
    "anneeInscription": 2016,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2016 — Iran."
+   "description": "Galeries souterraines antiques acheminant l'eau des montagnes vers les oasis par simple gravité."
   },
   {
    "id": "WHS-1422",
@@ -6391,7 +6391,7 @@
    "categorie": "culturel",
    "anneeInscription": 2013,
    "imageCommons": "Milad-poorali.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Iran."
+   "description": "Palais qajar aux salles de miroirs et de céramiques, dernière résidence royale du vieux Téhéran."
   },
   {
    "id": "WHS-1106",
@@ -6406,7 +6406,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Pasargadae, Marv Dasht, near Shiraz - 4-8-2013.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Iran."
+   "description": "Capitale fondée par Cyrus le Grand, tombeau du premier empereur perse au milieu des vergers."
   },
   {
    "id": "WHS-115",
@@ -6436,7 +6436,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Herbertgreg7 (cropped).jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Iran."
+   "description": "Forteresse sassanide en pierre gardant un défilé stratégique de l'Iran antique."
   },
   {
    "id": "WHS-1456",
@@ -6451,7 +6451,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "کاخ سوخته شهر سوحته.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Iran."
+   "description": "Cité de l'âge du bronze surnommée « ville brûlée », l'une des plus anciennes agglomérations urbaines connues."
   },
   {
    "id": "WHS-1188",
@@ -6466,7 +6466,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": "مقبره سلطان محمد خدابنده - گنبد سلطانیه.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Iran."
+   "description": "Capitale mongole d'Iran, mausolée à la coupole de briques turquoise parmi les plus vastes d'Asie."
   },
   {
    "id": "WHS-1455",
@@ -6481,7 +6481,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "The Apadana, a large hypostyle room of 36 columns in the Palace of Darius, Susa, capital of Elam and of the Achaemenid Empire, Iran (46950284624).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Iran."
+   "description": "Capitale élamite puis perse, l'une des plus anciennes villes continuellement occupées du monde."
   },
   {
    "id": "WHS-1315",
@@ -6496,7 +6496,7 @@
    "categorie": "culturel",
    "anneeInscription": 2009,
    "imageCommons": "Shushtar Historical Hydraulic System Darafsh (6).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2009 — Iran."
+   "description": "Système hydraulique antique détournant une rivière entière pour irriguer et faire tourner des moulins."
   },
   {
    "id": "WHS-1077",
@@ -6511,7 +6511,7 @@
    "categorie": "culturel",
    "anneeInscription": 2003,
    "imageCommons": "Takhte Soleyman (5).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2003 — Iran."
+   "description": "Sanctuaire du feu sassanide entourant un lac de cratère volcanique sacré."
   },
   {
    "id": "WD-Q134821",
@@ -6556,7 +6556,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Aerial view of Acre 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Israël."
+   "description": "Cité fortifiée croisée puis ottomane, tunnels et salles voûtées sous la vieille ville israélienne."
   },
   {
    "id": "WHS-1370",
@@ -6571,7 +6571,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "Beit Guvrin 1.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Israël."
+   "description": "Cité souterraine creusée dans la craie tendre, grottes en cloche et columbaria antiques."
   },
   {
    "id": "WHS-1471",
@@ -6586,7 +6586,7 @@
    "categorie": "culturel",
    "anneeInscription": 2015,
    "imageCommons": "Cave of coffins.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2015 — Israël."
+   "description": "Nécropole judéo-romaine aux tombeaux sculptés, l'une des plus riches du judaïsme antique."
   },
   {
    "id": "WHS-1393",
@@ -6601,7 +6601,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "נחל מערות ממעוף הציפור.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — International."
+   "description": "Grottes ayant livré des restes humains parmi les plus anciens hors d'Afrique."
   },
   {
    "id": "WHS-1040",
@@ -6616,7 +6616,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Israel-2013-Aerial 21-Masada.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Israël."
+   "description": "Forteresse du désert où les derniers résistants juifs se donnèrent la mort plutôt que de se rendre à Rome."
   },
   {
    "id": "WHS-1108",
@@ -6631,7 +6631,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Israël."
+   "description": "Trois collines bibliques fouillées, portes fortifiées et tunnels d'eau de l'âge du fer israélien."
   },
   {
    "id": "WHS-1418",
@@ -6796,7 +6796,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Himeji castle in may 2015.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Japon."
+   "description": "Le château japonais le mieux conservé, silhouette blanche surnommée le « héron blanc »."
   },
   {
    "id": "WHS-775",
@@ -6811,7 +6811,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Genbaku Dome04-r.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Japon."
+   "description": "Ruine préservée telle quelle après le bombardement atomique, mémorial de la paix à Hiroshima."
   },
   {
    "id": "WHS-1449",
@@ -6826,7 +6826,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "富岡製糸場・繰糸場.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Japon."
+   "description": "Filature de soie modèle du XIXe siècle, moteur de l'industrialisation japonaise sous l'ère Meiji."
   },
   {
    "id": "WHS-1246",
@@ -6841,7 +6841,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "180504 Shimizudani Refinery Ruins of Iwami Ginzan Silver Mine Oda Shimane pref Japan03s.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Japon."
+   "description": "Mine d'argent médiévale qui approvisionna le Japon et le commerce mondial pendant trois siècles."
   },
   {
    "id": "WHS-870",
@@ -6856,7 +6856,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Todaiji18s3200.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Japon."
+   "description": "Monuments de l'ancienne capitale impériale de Nara, temples de bois parmi les plus vieux du monde."
   },
   {
    "id": "WHS-776",
@@ -6871,7 +6871,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Itsukushima Gate.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Japon."
+   "description": "Sanctuaire shinto sur pilotis, son torii orange semblant flotter sur la mer intérieure à marée haute."
   },
   {
    "id": "WHS-913",
@@ -6886,7 +6886,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Nikko toshogu shrine.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Japon."
+   "description": "Sanctuaires et temples de Nikkō, mausolée richement sculpté du fondateur du shogunat Tokugawa."
   },
   {
    "id": "WHS-663",
@@ -6946,7 +6946,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "The Treasury, Petra, Jordan5.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Jordanie."
+   "description": "Cité nabatéenne taillée dans la roche rose, façades monumentales sculptées à même le grès du désert."
   },
   {
    "id": "WD-Q14913946",
@@ -6976,7 +6976,7 @@
    "categorie": "culturel",
    "anneeInscription": 2015,
    "imageCommons": "Bethany (5).JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2015 — Jordanie."
+   "description": "Site du baptême de Jésus sur les rives du Jourdain, lieu de pèlerinage chrétien depuis l'Antiquité."
   },
   {
    "id": "WHS-327",
@@ -6991,7 +6991,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Qasr Amra.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Jordanie."
+   "description": "Pavillon de bain omeyyade orné de fresques figuratives rares en terre d'islam."
   },
   {
    "id": "WHS-689",
@@ -7006,7 +7006,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "As-salt.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Jordanie."
+   "description": "Ville jordanienne au carrefour des routes commerciales, maisons ottomanes de pierre savonneuse."
   },
   {
    "id": "WHS-1721",
@@ -7021,7 +7021,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": "Uejhousexviii.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Jordanie."
+   "description": "Cité romaine et byzantine aux mille tours, cathédrales de basalte noir du désert jordanien."
   },
   {
    "id": "WHS-1093",
@@ -7036,7 +7036,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Umm Rasas House ruins.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Jordanie."
+   "description": "Ville byzantine et omeyyade célèbre pour ses mosaïques d'églises encore in situ."
   },
   {
    "id": "WHS-1377",
@@ -7066,7 +7066,7 @@
    "categorie": "culturel",
    "anneeInscription": 2009,
    "imageCommons": "Сулайман-Тоо с дрона.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2009 — Kirghizistan."
+   "description": "Montagne sacrée d'Asie centrale, lieu de pèlerinage islamique depuis plus d'un millénaire."
   },
   {
    "id": "WD-Q1335640",
@@ -7111,7 +7111,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "WatPhouwholesite.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Laos."
+   "description": "Paysage culturel khmer autour d'un temple-montagne dédié à Shiva, terrasses rizicoles séculaires."
   },
   {
    "id": "WHS-951",
@@ -7141,7 +7141,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Luang Prabang, Laos. III.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Laos."
+   "description": "Ancienne capitale royale laotienne, temples dorés au confluent du Mékong et de la Nam Khan."
   },
   {
    "id": "WHS-1587",
@@ -7156,7 +7156,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "20171115 Plain of Jars Laos 2540 DxO.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Laos."
+   "description": "Des milliers de jarres de pierre mégalithiques éparpillées dans la plaine, origine toujours débattue."
   },
   {
    "id": "WD-Q1552568",
@@ -7231,7 +7231,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "TripoliLebanonFair OscarNiemeyer OpenAirTheatre6-RomanDeckert14102018.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Liban."
+   "description": "Centre d'exposition moderniste inachevé, dernière œuvre d'Oscar Niemeyer interrompue par la guerre civile."
   },
   {
    "id": "WHS-850",
@@ -7246,7 +7246,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Qadisha.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Liban."
+   "description": "Gorge sacrée du Liban où des moines vécurent en ermites, à l'ombre des derniers cèdres antiques."
   },
   {
    "id": "WHS-299",
@@ -7321,7 +7321,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": "FRIM canopy.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Malaisie."
+   "description": "Forêt expérimentale coloniale malaisienne, l'une des plus anciennes réserves de recherche tropicale au monde."
   },
   {
    "id": "WHS-1014",
@@ -7336,7 +7336,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": "The main entrance to the Niah Caves at sunset..jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Malaisie."
+   "description": "Grottes tropicales géantes, l'une des plus anciennes traces d'occupation humaine d'Asie du Sud-Est."
   },
   {
    "id": "WHS-1013",
@@ -7411,7 +7411,7 @@
    "categorie": "culturel",
    "anneeInscription": 2015,
    "imageCommons": "Burkhan Khaldun mount2.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2015 — Mongolie."
+   "description": "Montagne sacrée où serait enterré Gengis Khan, interdite d'accès depuis huit siècles."
   },
   {
    "id": "WHS-1621",
@@ -7426,7 +7426,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Mongolie."
+   "description": "Pierres gravées de l'âge du bronze mongol, stèles ornées de cerfs stylisés en plein vol."
   },
   {
    "id": "WHS-1382",
@@ -7441,7 +7441,7 @@
    "categorie": "culturel",
    "anneeInscription": 2011,
    "imageCommons": "Petroglyphic Complexes of the Altai, Mongolia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Mongolie."
+   "description": "Pétroglyphes de l'Altaï mongol, douze mille ans de scènes de chasse gravées dans la roche."
   },
   {
    "id": "WD-Q99671286",
@@ -7501,7 +7501,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Lumbini 4.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Népal."
+   "description": "Jardin sacré où naquit le Bouddha, pilier de pierre érigé par l'empereur Ashoka pour en marquer le lieu."
   },
   {
    "id": "WHS-284",
@@ -7531,7 +7531,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Patan museum-Patan Durbar Square-2054.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Népal."
+   "description": "Ancien palais royal newar devenu musée, cour de brique et bois sculpté au cœur de Katmandou."
   },
   {
    "id": "WD-Q1548443",
@@ -7561,7 +7561,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Bahla Fort.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Oman."
+   "description": "Forteresse omanaise en terre crue, l'une des plus imposantes de la péninsule Arabique."
   },
   {
    "id": "WHS-1537",
@@ -7576,7 +7576,7 @@
    "categorie": "culturel",
    "anneeInscription": 2018,
    "imageCommons": "Qalhat, mausoleo di Bibi Maryam, xiv secolo, 07.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2018 — Oman."
+   "description": "Port médiéval omanais qui commerçait perles et chevaux jusqu'en Chine et en Afrique de l'Est."
   },
   {
    "id": "WHS-654",
@@ -7606,7 +7606,7 @@
    "categorie": "culturel",
    "anneeInscription": 2006,
    "imageCommons": "FalajDaris.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Oman."
+   "description": "Réseau d'irrigation antique par gravité, artère vitale des oasis omanaises depuis des siècles."
   },
   {
    "id": "WHS-1010",
@@ -7621,7 +7621,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Ruins6.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Oman."
+   "description": "Route de l'encens antique, arbres à myrrhe et à oliban qui parfumaient les temples du monde ancien."
   },
   {
    "id": "WD-Q1373583",
@@ -7651,7 +7651,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Bukhara - Panorama.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Ouzbékistan."
+   "description": "Ville-musée de la route de la soie, dômes turquoise et médersas au cœur de l'Ouzbékistan."
   },
   {
    "id": "WHS-885",
@@ -7666,7 +7666,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Ensemble Dorout Tilovat (Shahrisabz) (6018370667).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Ouzbékistan."
+   "description": "Ville natale de Tamerlan, mausolée familial aux mosaïques turquoise éclatantes."
   },
   {
    "id": "WHS-543",
@@ -7681,7 +7681,7 @@
    "categorie": "culturel",
    "anneeInscription": 1990,
    "imageCommons": "KhivaWalls.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1990 — Ouzbékistan."
+   "description": "Cité fortifiée du désert ouzbek, la mieux préservée des khanats d'Asie centrale."
   },
   {
    "id": "WD-Q330872",
@@ -7711,7 +7711,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Rohtas Fort (Jhelum, Pakistan) - World Heritage Site.jpeg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Pakistan."
+   "description": "Forteresse moghole en briques dominant les gorges du Pakistan, bastion militaire séculaire."
   },
   {
    "id": "WHS-143",
@@ -7846,7 +7846,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Batad Rice Terraces after the rain.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Philippines."
+   "description": "Rizières en terrasses sculptées à flanc de montagne depuis deux mille ans par le peuple ifugao."
   },
   {
    "id": "WHS-653",
@@ -7906,7 +7906,7 @@
    "categorie": "culturel",
    "anneeInscription": 2013,
    "imageCommons": "Ruins in Zubarah on a cloudy day.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Qatar."
+   "description": "Ville portuaire perlière abandonnée du Qatar, ruines figées après l'effondrement du commerce de la perle."
   },
   {
    "id": "WHS-438",
@@ -8086,7 +8086,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Dunhuang Mogao Ku 2013.12.31 12-30-18.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — République populaire de Chine."
+   "description": "Grottes bouddhiques peintes sur la route de la soie, des milliers de statues et fresques millénaires."
   },
   {
    "id": "WHS-1540",
@@ -8191,7 +8191,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Giant Wild Goose Pagoda.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — République populaire de Chine."
+   "description": "Palais impériaux jumeaux des dynasties Ming et Qing, résidences du Fils du Ciel à Pékin et Shenyang."
   },
   {
    "id": "WHS-703",
@@ -8206,7 +8206,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Chengde Mountain Resort 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — République populaire de Chine."
+   "description": "Résidence d'été des empereurs Qing, le plus vaste jardin impérial jamais aménagé en Chine."
   },
   {
    "id": "WD-Q548679",
@@ -8266,7 +8266,7 @@
    "categorie": "culturel",
    "anneeInscription": 2015,
    "imageCommons": "Singapore Botanic Gardens Palm Valley.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2015 — Singapour."
+   "description": "Le plus ancien jardin botanique tropical d'Asie encore à son emplacement d'origine."
   },
   {
    "id": "WHS-450",
@@ -8371,7 +8371,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Dambulla-temple daurat1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Sri Lanka."
+   "description": "Grotte-temple bouddhiste sri-lankaise, statues du Bouddha peintes sous une voûte rocheuse dorée."
   },
   {
    "id": "WHS-1229",
@@ -8386,7 +8386,7 @@
    "categorie": "culturel",
    "anneeInscription": 2006,
    "imageCommons": "Crac des Chevaliers and Qal’at Salah El-Din-114012.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Syrie."
+   "description": "Forteresse croisée réputée imprenable, chef-d'œuvre de l'architecture militaire médiévale au Levant."
   },
   {
    "id": "WHS-1348",
@@ -8401,7 +8401,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Byzantine church of Mushraba Syria.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Syrie."
+   "description": "Église byzantine rupestre de Syrie du Nord, vestige rare de l'art paléochrétien levantin."
   },
   {
    "id": "WHS-23",
@@ -8446,7 +8446,7 @@
    "categorie": "culturel",
    "anneeInscription": 2010,
    "imageCommons": "Sarazm,area12-W.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — Tadjikistan."
+   "description": "L'une des plus anciennes villes d'Asie centrale, carrefour métallurgique de l'âge du bronze."
   },
   {
    "id": "WHS-1685",
@@ -8581,7 +8581,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Wat Pho Si Nai - UNESCO World Heritage Site plaque.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Thaïlande."
+   "description": "Site archéologique thaïlandais témoin des débuts de la riziculture et de la métallurgie du bronze en Asie."
   },
   {
    "id": "WHS-590",
@@ -8611,7 +8611,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Sukhothai historical park1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Thaïlande."
+   "description": "Première capitale du Siam, statues de Bouddha marchant, style fondateur de l'art thaïlandais."
   },
   {
    "id": "WHS-576",
@@ -8626,7 +8626,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Ayuthistparkmap.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Thaïlande."
+   "description": "Ruines de l'ancienne capitale siamoise, stupas de brique envahis par les racines des arbres."
   },
   {
    "id": "WHS-1507",
@@ -8641,7 +8641,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Rock formation in Phu Phra Bat.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Thaïlande."
+   "description": "Parc historique thaïlandais aux sanctuaires rupestres préhistoriques et bouddhiques mêlés."
   },
   {
    "id": "WHS-1662",
@@ -8656,7 +8656,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Khao Khlang Nak-1-HDR-pano.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Thaïlande."
+   "description": "Cité ancienne thaïlandaise à la croisée des cultures dvaravati et khmère."
   },
   {
    "id": "WHS-1461",
@@ -8671,7 +8671,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Kaeng Krachan.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Thaïlande."
+   "description": "Forêt tropicale montagneuse de Thaïlande, réservoir de biodiversité entre Birmanie et golfe de Siam."
   },
   {
    "id": "WHS-591",
@@ -8731,7 +8731,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": "KonyeUrgenchMausoleum.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Turkménistan."
+   "description": "Ancienne capitale du Khwarezm, minaret de brique parmi les plus hauts d'Asie centrale médiévale."
   },
   {
    "id": "WHS-886",
@@ -8746,7 +8746,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Merv City Walls (10) (44747325714).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Turkménistan."
+   "description": "Cité caravanière sur la route de la soie, l'une des plus grandes villes du monde médiéval en son temps."
   },
   {
    "id": "WHS-1242",
@@ -8761,7 +8761,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Nisa.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Turkménistan."
+   "description": "Capitale parthe du désert turkmène, forteresse antique face à l'empire romain."
   },
   {
    "id": "WHS-672",
@@ -8821,7 +8821,7 @@
    "categorie": "culturel",
    "anneeInscription": 2011,
    "imageCommons": "Ho dynasty's citadel, Vietnam.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Vietnam."
+   "description": "Citadelle de pierre vietnamienne du XIVe siècle, capitale éphémère taillée en blocs cyclopéens."
   },
   {
    "id": "WHS-678",
@@ -8836,7 +8836,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Citadel Hue.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Vietnam."
+   "description": "Cité impériale vietnamienne aux portes fortifiées, capitale des empereurs Nguyễn."
   },
   {
    "id": "WHS-1328",
@@ -8851,7 +8851,7 @@
    "categorie": "culturel",
    "anneeInscription": 2010,
    "imageCommons": "Main Gate - Citadel of Hanoi.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — Vietnam."
+   "description": "Citadelle millénaire de Hanoï, cœur du pouvoir vietnamien à travers de multiples dynasties."
   },
   {
    "id": "WHS-1438",
@@ -8881,7 +8881,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Boat by the water - Hoi An (16922189291).jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Vietnam."
+   "description": "Port marchand vietnamien figé au XIXe siècle, lanternes colorées et maisons de bois sur le fleuve Thu Bồn."
   },
   {
    "id": "WHS-949",
@@ -8896,7 +8896,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "2024 - Mỹ Sơn Sanctuary Temple E7 - img 01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Vietnam."
+   "description": "Temples hindous cham en ruine dans la jungle vietnamienne, sanctuaire dédié au dieu Shiva."
   },
   {
    "id": "WHS-1732",
@@ -8911,7 +8911,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": "Núi Yên Tử.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Vietnam."
+   "description": "Paysage sacré bouddhiste vietnamien, monastères de montagne fondateurs d'une école zen locale."
   },
   {
    "id": "WHS-192",
@@ -8941,7 +8941,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Barran Temple.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Yémen."
+   "description": "Vestiges du royaume antique de Saba au Yémen, terrasses agricoles et temples préislamiques."
   },
   {
    "id": "WHS-611",
@@ -8956,7 +8956,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Zabid, Yemen.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Yémen."
+   "description": "Ville yéménite fortifiée aux maisons blanches sculptées, carrefour commercial de la mer Rouge."
   },
   {
    "id": "WD-Q12495",
@@ -9046,7 +9046,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": "Jebel Faya.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Émirats arabes unis."
+   "description": "Site archéologique émirati livrant des traces de migrations humaines vieilles de cent vingt mille ans."
   },
   {
    "id": "WHS-1433",
@@ -9061,7 +9061,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "Church of the Nativity (7703592746).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — État de Palestine."
+   "description": "Lieu de naissance de Jésus selon la tradition chrétienne, basilique parmi les plus anciennes encore en usage."
   },
   {
    "id": "WHS-1749",
@@ -9076,7 +9076,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": "GAZA0010.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — État de Palestine."
+   "description": "Monastère byzantin de la bande de Gaza, l'un des plus grands complexes chrétiens antiques du Levant."
   },
   {
    "id": "WHS-1687",
@@ -9091,7 +9091,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "Tell es-sultan.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — État de Palestine."
+   "description": "Jéricho antique, l'une des plus anciennes villes fortifiées connues de l'humanité."
   },
   {
    "id": "WHS-570",
@@ -9106,7 +9106,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Butrint, Albania.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Albanie."
+   "description": "Cité antique gréco-romaine puis byzantine, ensevelie par les sédiments d'un lac côtier albanais."
   },
   {
    "id": "WHS-896",
@@ -9196,7 +9196,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Kloster Maulbronn 2009.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Allemagne."
+   "description": "Le monastère cistercien le mieux conservé d'Europe au nord des Alpes, intact depuis le XIIe siècle."
   },
   {
    "id": "WHS-515",
@@ -9211,7 +9211,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Lorsch.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Allemagne."
+   "description": "Portique carolingien parmi les plus anciens d'Allemagne, vestige d'une abbaye millénaire."
   },
   {
    "id": "WHS-1413",
@@ -9226,7 +9226,7 @@
    "categorie": "culturel",
    "anneeInscription": 2013,
    "imageCommons": "00 2151 Bergpark Wilhelmshöhe, Kassel - Löwenburg.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Allemagne."
+   "description": "Parc baroque monumental couronné d'une statue d'Hercule, cascades actionnées sans pompe depuis trois siècles."
   },
   {
    "id": "WHS-168",
@@ -9256,7 +9256,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "St Mary's Cathedral and St Michael's Church at Hildesheim.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Allemagne."
+   "description": "Duo roman et gothique dont les portes de bronze millénaires racontent la Bible en scènes sculptées."
   },
   {
    "id": "WHS-3",
@@ -9286,7 +9286,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Kölner Dom von Osten.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Allemagne."
+   "description": "La plus haute cathédrale gothique d'Allemagne, chantier étalé sur plus de six cents ans."
   },
   {
    "id": "WHS-897",
@@ -9301,7 +9301,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Thuringia Eisenach asv2020-07 img23 Wartburg Castle.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Allemagne."
+   "description": "Château médiéval où Luther traduisit le Nouveau Testament en allemand, réfugié sous un faux nom."
   },
   {
    "id": "WHS-288",
@@ -9331,7 +9331,7 @@
    "categorie": "culturel",
    "anneeInscription": 1990,
    "imageCommons": "Park Sanssouci, Belvedere auf dem Klausberg, Schloss Sanssouci, Neues Palais, Orangerieschloss, Universität Potsdam, Potsdam, Luftaufnahme, Vogelperspektive, aerial view, 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1990 — Allemagne."
+   "description": "Le plus vaste ensemble de palais et jardins prussiens d'Europe, résidence d'été des rois de Prusse."
   },
   {
    "id": "WHS-783",
@@ -9346,7 +9346,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Lutherstadt Wittenberg 09-2016 photo06.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Allemagne."
+   "description": "Sites de la Réforme protestante, maison natale et lieux de prêche de Martin Luther."
   },
   {
    "id": "WHS-1379",
@@ -9361,7 +9361,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "Markgräfliches Opernhaus Front 2019-07-29.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Allemagne."
+   "description": "Théâtre baroque à la scène si profonde qu'elle pouvait accueillir des mises en scène équestres."
   },
   {
    "id": "WHS-367",
@@ -9376,7 +9376,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Trier BW 2013-04-14 15-59-54.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Allemagne."
+   "description": "Vestiges romains les mieux conservés au nord des Alpes, porte fortifiée et thermes impériaux."
   },
   {
    "id": "WHS-534",
@@ -9391,7 +9391,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Woerlitzpark81.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Allemagne."
+   "description": "Jardins paysagers du XVIIIe siècle pensés comme un vaste manifeste des Lumières à ciel ouvert."
   },
   {
    "id": "WHS-1368",
@@ -9406,7 +9406,7 @@
    "categorie": "culturel",
    "anneeInscription": 2011,
    "imageCommons": "Fagus Gropius Hauptgebaeude 200705 wiki front.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Allemagne."
+   "description": "Usine de chaussures en verre et acier considérée comme l'un des berceaux de l'architecture moderne."
   },
   {
    "id": "WD-Q21880215",
@@ -9451,7 +9451,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Wien1-pan.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Autriche."
+   "description": "Cœur impérial des Habsbourg, du Ring à la Hofburg, où s'est écrite l'histoire musicale de l'Europe."
   },
   {
    "id": "WHS-785",
@@ -9466,7 +9466,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Breitenstein - Semmeringbahn - Krausel-Klause-Viadukt - 2.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Autriche."
+   "description": "Ligne de chemin de fer alpine du XIXe siècle, prouesse d'ingénierie à travers cols et viaducs."
   },
   {
    "id": "WHS-970",
@@ -9481,7 +9481,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Wachau (2).JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Autriche."
+   "description": "Vallée du Danube en terrasses de vignobles, châteaux en ruine veillant sur le fleuve."
   },
   {
    "id": "WHS-857",
@@ -9541,7 +9541,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "01 Houdeng-Goegnies 050323 (2).JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Belgique."
+   "description": "Quatre ascenseurs hydrauliques du XIXe siècle qui hissent encore les péniches d'un canal belge."
   },
   {
    "id": "WHS-943",
@@ -9556,7 +9556,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Belfort Brugge.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Belgique."
+   "description": "Tours de guet médiévales dressées sur les places du nord de la France et de la Belgique."
   },
   {
    "id": "WHS-855",
@@ -9571,7 +9571,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Alexiusbegijnhof.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Belgique."
+   "description": "Enclos de maisons blanches autour d'un jardin, où vivaient en communauté des femmes laïques pieuses."
   },
   {
    "id": "WHS-1009",
@@ -9586,7 +9586,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Tournai pan.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Belgique."
+   "description": "Cathédrale aux cinq clochers, l'un des sommets de l'art roman et gothique belge."
   },
   {
    "id": "WHS-996",
@@ -9601,7 +9601,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Brugge-CanalRozenhoedkaai.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Belgique."
+   "description": "Ville-musée aux canaux gelés dans le temps, dentelle et beffroi au cœur de la Flandre."
   },
   {
    "id": "WHS-1555",
@@ -9616,7 +9616,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "Tweede gesticht Veenhuizen.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Belgique."
+   "description": "Anciennes colonies agricoles où l'on tentait de « rééduquer » les pauvres par le travail de la terre."
   },
   {
    "id": "WHS-1005",
@@ -9631,7 +9631,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Tassel House stairway.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Belgique."
+   "description": "Maisons Art nouveau signées Victor Horta, ferronneries et verrières qui ont changé l'architecture européenne."
   },
   {
    "id": "WHS-1006",
@@ -9646,7 +9646,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Spiennes - Minières néolithiques de silex (2).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Belgique."
+   "description": "Les plus anciennes mines de silex à grande échelle connues, exploitées il y a cinq mille ans."
   },
   {
    "id": "WHS-1185",
@@ -9661,7 +9661,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": "Library of Plantin-Moretus Museum in Antwerp.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Belgique."
+   "description": "Ancienne imprimerie devenue musée, presses et caractères d'origine encore visibles."
   },
   {
    "id": "WHS-1298",
@@ -9676,7 +9676,7 @@
    "categorie": "culturel",
    "anneeInscription": 2009,
    "imageCommons": "Palais Stoclet, vue ensemble.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2009 — Belgique."
+   "description": "Villa Art nouveau viennoise conçue par Josef Hoffmann, écrin de marbre et de mosaïques dorées."
   },
   {
    "id": "WD-Q209643",
@@ -9721,7 +9721,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Visegrad Drina Bridge 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Bosnie-Herzégovine."
+   "description": "Pont ottoman à l'arche unique enjambant la Drina, immortalisé par un roman de Prix Nobel."
   },
   {
    "id": "WHS-1673",
@@ -9826,7 +9826,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Sveshtari Thracian tomb Bulgaria IFB.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Bulgarie."
+   "description": "Tombeau thrace peint, chambre funéraire aux fresques rarissimes de l'Antiquité balkanique."
   },
   {
    "id": "WHS-42",
@@ -9856,7 +9856,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Khirokitia2.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Chypre."
+   "description": "L'un des villages néolithiques les mieux préservés de Méditerranée, huit mille ans d'occupation continue."
   },
   {
    "id": "WHS-79",
@@ -9886,7 +9886,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Poreč Basilica 3.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Croatie."
+   "description": "Basilique byzantine aux mosaïques dorées, l'une des mieux conservées de l'Adriatique."
   },
   {
    "id": "WHS-963",
@@ -9901,7 +9901,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "HR-Sibenik-Kathedrale-01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Croatie."
+   "description": "Cathédrale entièrement bâtie en pierre sans mortier ni charpente de bois, prouesse gothique dalmate."
   },
   {
    "id": "WHS-1504",
@@ -9916,7 +9916,7 @@
    "categorie": "culturel",
    "anneeInscription": 2016,
    "imageCommons": "Stecci - na Blidinji je nekolik skupin techto nahrobku z 14..jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2016 — Croatie."
+   "description": "Cimetières médiévaux aux stèles sculptées de scènes énigmatiques, dispersés dans les Balkans."
   },
   {
    "id": "WHS-97",
@@ -9961,7 +9961,7 @@
    "categorie": "culturel",
    "anneeInscription": 2008,
    "imageCommons": "Aerial image of the Stari Grad Plain (view from the southwest).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2008 — Croatie."
+   "description": "Plaine agricole grecque antique, parcelles cultivées selon un plan cadastral vieux de 24 siècles."
   },
   {
    "id": "WD-Q214619",
@@ -10021,7 +10021,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Roskilde Cathedral aerial crop.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Danemark."
+   "description": "Cathédrale de brique rouge, nécropole des rois et reines du Danemark depuis huit siècles."
   },
   {
    "id": "WHS-1468",
@@ -10036,7 +10036,7 @@
    "categorie": "culturel",
    "anneeInscription": 2015,
    "imageCommons": "Lindegade, Christiansfeld 2023 SV 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2015 — Danemark."
+   "description": "Colonie morave fondée au XVIIIe siècle, urbanisme piétiste organisé autour d'une place centrale unique."
   },
   {
    "id": "WHS-696",
@@ -10051,7 +10051,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "KronborgCastle HCS.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Danemark."
+   "description": "Château Renaissance qui inspira le décor d'Hamlet de Shakespeare, verrouillant le détroit du Øresund."
   },
   {
    "id": "WHS-1660",
@@ -10066,7 +10066,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Aggersborg Viking Castle.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Danemark."
+   "description": "Forteresses circulaires vikings à la géométrie parfaite, symboles du pouvoir royal danois unifié."
   },
   {
    "id": "WHS-1314ter",
@@ -10111,7 +10111,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Jelling-Kirche suedlicher Huegel.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Danemark."
+   "description": "Tumulus royaux, pierre runique fondatrice du Danemark chrétien et petite église de bois."
   },
   {
    "id": "WHS-804",
@@ -10231,7 +10231,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Vista de la Aljaferia.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Espagne."
+   "description": "Style hispano-musulman né après la Reconquête, tours de brique ornées héritées des maîtres mudéjars."
   },
   {
    "id": "WHS-316",
@@ -10276,7 +10276,7 @@
    "categorie": null,
    "anneeInscription": 1985,
    "imageCommons": "Techo de Altamira (replica)-Museo Arqueológico Nacional.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO, inscrit en 1985 — Espagne."
+   "description": "Grotte ornée de bisons peints il y a plus de dix mille ans, surnommée la « Chapelle Sixtine » de l'art pariétal."
   },
   {
    "id": "WHS-803",
@@ -10291,7 +10291,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Las Medulas (17504738221).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Espagne."
+   "description": "Paysage lunaire creusé par les mines d'or romaines à ciel ouvert, techniques hydrauliques monumentales."
   },
   {
    "id": "WHS-782",
@@ -10306,7 +10306,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Consulado del Mar y Lonja de la Seda en Valencia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Espagne."
+   "description": "Bourse de la soie gothique de Valence, salle aux colonnes torsadées dédiée au commerce médiéval."
   },
   {
    "id": "WHS-518",
@@ -10321,7 +10321,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Monestir de Poblet.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Espagne."
+   "description": "Monastère cistercien fortifié, nécropole des rois d'Aragon en Catalogne."
   },
   {
    "id": "WHS-805",
@@ -10336,7 +10336,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Monasterio de Suso (2).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Espagne."
+   "description": "Monastère où serait né l'espagnol écrit, berceau linguistique de la langue castillane."
   },
   {
    "id": "WHS-665",
@@ -10351,7 +10351,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Royal Monastery of Santa Maria de Guadalupe.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Espagne."
+   "description": "Monastère hiéronymite abritant la Vierge noire la plus vénérée d'Espagne, croisement d'art mudéjar et gothique."
   },
   {
    "id": "WHS-312",
@@ -10366,7 +10366,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Oviedo Iglesia de Santa María del Naranco (53035776074).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Espagne."
+   "description": "Édifices préromans des Asturies, seul royaume chrétien à n'être jamais tombé sous domination musulmane."
   },
   {
    "id": "WHS-685",
@@ -10426,7 +10426,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Old Town of Tallinn, Tallinn, Estonia - panoramio (58).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Estonie."
+   "description": "Vieille ville hanséatique aux tours gothiques, cœur historique intact de l'Estonie."
   },
   {
    "id": "WD-Q135379",
@@ -10471,7 +10471,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Rauma 3.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Finlande."
+   "description": "Ville portuaire en bois la mieux préservée des pays nordiques, façades du XVIIIe siècle encore habitées."
   },
   {
    "id": "WHS-583",
@@ -10486,7 +10486,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Suomenlinna.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Finlande."
+   "description": "Forteresse maritime bâtie sur un archipel d'îles, verrou naval d'Helsinki depuis le XVIIIe siècle."
   },
   {
    "id": "WHS-751",
@@ -10501,7 +10501,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Verla.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Finlande."
+   "description": "Usine à papier et village ouvrier du XIXe siècle, témoin intact de la première industrialisation finlandaise."
   },
   {
    "id": "WHS-584",
@@ -10516,7 +10516,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Petäjävesi Old Church 2018.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Finlande."
+   "description": "La plus ancienne église en bois de Finlande, charpente en carène de bateau inversée."
   },
   {
    "id": "WD-Q243",
@@ -10756,7 +10756,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Abbaye st remi dessin povillon pierrard bmr 16.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — France."
+   "description": "Abbaye bénédictine où fut sacré Clovis, berceau de la monarchie française."
   },
   {
    "id": "WHS-165",
@@ -10786,7 +10786,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Canal du Midi, Carcassonne, Languedoc-Roussillon, France - panoramio (25).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — France."
+   "description": "Canal du XVIIe siècle reliant l'Atlantique à la Méditerranée, prouesse d'ingénierie hydraulique de Vauban."
   },
   {
    "id": "WHS-81",
@@ -10816,7 +10816,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Bourges-Kathedrale-110-2008-gje.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — France."
+   "description": "Cathédrale gothique à cinq nefs sans transept, vitraux du XIIIe siècle dominant la ville de Bourges."
   },
   {
    "id": "WHS-344",
@@ -10831,7 +10831,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Pont du Gard BLS.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — France."
+   "description": "Aqueduc romain à trois étages d'arches, prouesse d'ingénierie antique enjambant le Gardon."
   },
   {
    "id": "WHS-404",
@@ -10921,7 +10921,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Ајга (Кутлеш) 02.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Grèce."
+   "description": "Cité antique macédonienne où fut assassiné Philippe II, père d'Alexandre le Grand."
   },
   {
    "id": "WHS-978",
@@ -10936,7 +10936,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Korfu (GR), Korfu, Altstadt -- 2018 -- 1114-21.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Grèce."
+   "description": "Vieille ville vénitienne aux ruelles pastel, seule des îles Ioniennes jamais conquise par les Ottomans."
   },
   {
    "id": "WHS-530",
@@ -10951,7 +10951,7 @@
    "categorie": "culturel",
    "anneeInscription": 1990,
    "imageCommons": "Ruines de Délos.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1990 — Grèce."
+   "description": "Île sacrée où serait né Apollon, sanctuaire panhellénique interdit de naissance et de mort."
   },
   {
    "id": "WHS-493",
@@ -10966,7 +10966,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "Grossmeisterpalast Rhodos 2010.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Grèce."
+   "description": "Vieille ville des chevaliers de Rhodes, remparts et rues médiévales dominées par le palais des Grands Maîtres."
   },
   {
    "id": "WHS-511",
@@ -10981,7 +10981,7 @@
    "categorie": "culturel",
    "anneeInscription": 1989,
    "imageCommons": "Palace at Mystras by Joy of Museums.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1989 — Grèce."
+   "description": "Cité byzantine fantôme accrochée à une colline du Péloponnèse, coupoles et fresques figées depuis des siècles."
   },
   {
    "id": "WHS-942",
@@ -10996,7 +10996,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Chora di Patmos con il Monastero di San Giovanni \"il teologo\".JPG",
-   "description": "Site du patrimoine mondial de l'UNESCO — Grèce."
+   "description": "Monastère fortifié dominant l'île de Patmos, où saint Jean aurait écrit l'Apocalypse."
   },
   {
    "id": "WHS-454",
@@ -11026,7 +11026,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "Ναός Αγίου Δημητρίου, Θεσσαλονίκη 3785.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Grèce."
+   "description": "Églises paléochrétiennes et byzantines de Thessalonique, mosaïques parmi les plus anciennes du christianisme."
   },
   {
    "id": "WHS-517",
@@ -11041,7 +11041,7 @@
    "categorie": "culturel",
    "anneeInscription": 1989,
    "imageCommons": "Olympic Flame, the Start of the Olympic Torch Relay (51224124860).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1989 — Grèce."
+   "description": "Sanctuaire où naquirent les Jeux antiques, stade et temple de Zeus au pied du mont Cronos."
   },
   {
    "id": "WHS-1733",
@@ -11056,7 +11056,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Armon Knossos P1060086.JPG",
-   "description": "Site du patrimoine mondial de l'UNESCO — Grèce."
+   "description": "Palais minoen où serait né le mythe du Minotaure et de son labyrinthe."
   },
   {
    "id": "WHS-1517",
@@ -11071,7 +11071,7 @@
    "categorie": "culturel",
    "anneeInscription": 2016,
    "imageCommons": "Филипи през 2007.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2016 — Grèce."
+   "description": "Cité macédonienne où Paul de Tarse prêcha pour la première fois sur le sol européen."
   },
   {
    "id": "WHS-595",
@@ -11086,7 +11086,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Heraion of Samos (Greece), the only standing column.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Grèce."
+   "description": "Île natale de Pythagore, tunnel d'irrigation antique creusé simultanément depuis ses deux extrémités."
   },
   {
    "id": "WHS-491",
@@ -11101,7 +11101,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "Archaeological site of Epidaurus, plan with description, 202424.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Grèce."
+   "description": "Sanctuaire de guérison antique, théâtre à l'acoustique si parfaite qu'une allumette s'y entend depuis le dernier rang."
   },
   {
    "id": "WHS-392",
@@ -11116,7 +11116,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Temple of Apollo Bassae 1982.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Grèce."
+   "description": "Temple dorique isolé en haute montagne, l'un des mieux conservés de la Grèce classique."
   },
   {
    "id": "WHS-1695",
@@ -11131,7 +11131,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Kokoris.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Grèce."
+   "description": "Villages de pierre accrochés aux gorges du Pinde, architecture épirote préservée par l'isolement."
   },
   {
    "id": "WD-Q1511206",
@@ -11161,7 +11161,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Kutaisi, Bagrati Cathedral (35702146540).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Géorgie."
+   "description": "Cathédrale géorgienne partiellement en ruine et monastère voisin, joyaux de l'art médiéval du Caucase."
   },
   {
    "id": "WHS-709",
@@ -11176,7 +11176,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Mestia. regio Svaneti.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Géorgie."
+   "description": "Villages tours médiévaux du Caucase géorgien, refuges de pierre contre les invasions et les vendettas."
   },
   {
    "id": "WHS-708",
@@ -11191,7 +11191,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Georgia Jvari monastery IMG 9345 2070.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Géorgie."
+   "description": "Ancienne capitale géorgienne, cathédrales qui virent le baptême du royaume au christianisme."
   },
   {
    "id": "WD-Q11819",
@@ -11251,7 +11251,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Pannonhalma - Bencés apátság.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Hongrie."
+   "description": "La plus ancienne abbaye bénédictine de Hongrie, millénaire et toujours habitée par des moines."
   },
   {
    "id": "WHS-400",
@@ -11266,7 +11266,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Buda--Castles01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Hongrie."
+   "description": "Panorama danubien du Bastion des pêcheurs au Parlement néogothique, capitale à cheval sur le fleuve."
   },
   {
    "id": "WHS-401",
@@ -11281,7 +11281,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Hollókő Ófalu Fő utca (részlet) 002.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Hongrie."
+   "description": "Village hongrois traditionnel aux maisons peintes, vivant conservatoire de l'architecture rurale palóc."
   },
   {
    "id": "WHS-853",
@@ -11296,7 +11296,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Pécs - Early Christian Mausoleum 02.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Hongrie."
+   "description": "Chambres funéraires paléochrétiennes peintes, nécropole romaine tardive sous la ville de Pécs."
   },
   {
    "id": "WHS-474",
@@ -11311,7 +11311,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Hortobagy-ziehbrunnen.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Hongrie."
+   "description": "La plus vaste steppe naturelle d'Europe, pâturages de bétail gris hongrois et longs ponts à bascule."
   },
   {
    "id": "WD-Q239477",
@@ -11371,7 +11371,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Bru na Boinne - Newgrange.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Irlande."
+   "description": "Tombeaux à couloir néolithiques plus anciens que les pyramides, alignés sur le solstice d'hiver."
   },
   {
    "id": "WHS-757",
@@ -11386,7 +11386,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Skellig Michael03(js).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Irlande."
+   "description": "Îlot rocheux battu par l'Atlantique où des moines bâtirent des cellules de pierre en forme de ruche."
   },
   {
    "id": "WD-Q1128186",
@@ -11506,7 +11506,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Thingvellir.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Islande."
+   "description": "Site de la première assemblée parlementaire du monde, fondée par les Vikings d'Islande en l'an 930."
   },
   {
    "id": "WHS-91",
@@ -11686,7 +11686,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Castel del Monte BW 2016-10-14 12-26-11 r.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Italie."
+   "description": "Château octogonal de Frédéric II, énigme architecturale sans fossé ni pont-levis dans les Pouilles."
   },
   {
    "id": "WHS-827",
@@ -11701,7 +11701,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Piazza Grande Modena Facciata.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Italie."
+   "description": "Ensemble roman-gothique et tour civique dominant la ville émilienne de Modène."
   },
   {
    "id": "WHS-726",
@@ -11716,7 +11716,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "NapoliMaschioAngioinoIngresso.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Italie."
+   "description": "L'un des plus vastes centres historiques d'Europe, superposition de vingt-cinq siècles d'architecture napolitaine."
   },
   {
    "id": "WHS-789",
@@ -11731,7 +11731,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Pienza-03.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Italie."
+   "description": "Bourgade toscane redessinée en cité idéale de la Renaissance sur ordre d'un pape humaniste."
   },
   {
    "id": "WHS-550",
@@ -11746,7 +11746,7 @@
    "categorie": "culturel",
    "anneeInscription": 1990,
    "imageCommons": "San Gimignano - Piazza della Cisterna da torre grossa.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1990 — Italie."
+   "description": "Ville toscane hérissée de tours médiévales, silhouette inchangée depuis sept cents ans."
   },
   {
    "id": "WHS-717",
@@ -11761,7 +11761,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Historic Centre of Siena-112711.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Italie."
+   "description": "Ville-musée du gothique italien, place en éventail théâtre du Palio deux fois par an."
   },
   {
    "id": "WHS-730",
@@ -11776,7 +11776,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Vista di Crespi d'Adda.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Italie."
+   "description": "Village industriel modèle du XIXe siècle, cité ouvrière pensée comme une utopie paternaliste."
   },
   {
    "id": "WHS-824",
@@ -11791,7 +11791,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Orto botanico padova.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Italie."
+   "description": "Le plus ancien jardin botanique universitaire du monde encore à son emplacement d'origine."
   },
   {
    "id": "WHS-787",
@@ -11806,7 +11806,7 @@
    "categorie": "culturel",
    "anneeInscription": 1996,
    "imageCommons": "Alberobello Trulli.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Italie."
+   "description": "Maisons coniques en pierre sèche empilée sans mortier, village féerique des Pouilles."
   },
   {
    "id": "WHS-1693",
@@ -11836,7 +11836,7 @@
    "categorie": "culturel",
    "anneeInscription": 2003,
    "imageCommons": "Ханака Ахмеда Ясави 2010 003.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2003 — Kazakhstan."
+   "description": "Mausolée turco-persan monumental élevé sur ordre de Tamerlan pour un maître soufi vénéré."
   },
   {
    "id": "WHS-1145",
@@ -11851,7 +11851,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Tanbaly.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Kazakhstan."
+   "description": "Sanctuaire rupestre de l'âge du bronze, milliers de pétroglyphes gravés dans la steppe kazakhe."
   },
   {
    "id": "WHS-1490",
@@ -11896,7 +11896,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Riga (33844464828).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Lettonie."
+   "description": "Vieille ville hanséatique à l'Art nouveau flamboyant, la plus riche collection d'Europe du Nord."
   },
   {
    "id": "WD-Q694782",
@@ -11926,7 +11926,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Gedimino kalnas 58.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Lituanie."
+   "description": "Vieille ville baroque d'Europe de l'Est, l'une des plus vastes préservées du continent."
   },
   {
    "id": "WHS-994",
@@ -11941,7 +11941,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Curonian Spit NP 05-2017 img15 Epha Dune.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Lituanie."
+   "description": "Bande de sable entre mer Baltique et lagune, dunes façonnées par le vent depuis des siècles."
   },
   {
    "id": "WD-Q1223508",
@@ -11971,7 +11971,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Concatedral de San Juan, La Valeta, isla de Malta, Malta, 2021-08-25, DD 246-248 HDR.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Malte."
+   "description": "Co-cathédrale baroque de La Valette, plafond peint par le Caravage réfugié à Malte."
   },
   {
    "id": "WHS-130",
@@ -12121,7 +12121,7 @@
    "categorie": "culturel",
    "anneeInscription": 2005,
    "imageCommons": "Hammerfest, fuglenes, memoriale per l'arco geodetico di struve, misurato a partire da qui, colonna 02.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Norvège."
+   "description": "Chaîne de points de triangulation du XIXe siècle ayant mesuré pour la première fois la taille de la Terre."
   },
   {
    "id": "WHS-59",
@@ -12166,7 +12166,7 @@
    "categorie": "culturel",
    "anneeInscription": 2015,
    "imageCommons": "VemorkHydroelectricPlant.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2015 — Norvège."
+   "description": "Usine hydroélectrique norvégienne pionnière, symbole de l'industrialisation par l'énergie propre."
   },
   {
    "id": "WHS-58",
@@ -12271,7 +12271,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "West-Beemster, Jisperweg 29.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Pays-Bas."
+   "description": "Polder néerlandais gagné sur l'eau au XVIIe siècle, moulins et digues toujours en fonction."
   },
   {
    "id": "WHS-1631",
@@ -12286,7 +12286,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "Limes1.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Pays-Bas."
+   "description": "Frontière fluviale de l'Empire romain le long du Rhin, forts et camps militaires antiques enfouis."
   },
   {
    "id": "WHS-965",
@@ -12301,7 +12301,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Rietveld Schröderhuis HayKranen-20.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Pays-Bas."
+   "description": "Maison manifeste du mouvement De Stijl, plans colorés et cloisons mobiles signés Gerrit Rietveld."
   },
   {
    "id": "WHS-1683",
@@ -12316,7 +12316,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Franeker, Planetarium.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Pays-Bas."
+   "description": "Planétarium mécanique construit à la main au XVIIIe siècle par un cardeur de laine amateur d'astronomie."
   },
   {
    "id": "WHS-739",
@@ -12331,7 +12331,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Schokland4.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Pays-Bas."
+   "description": "Ancienne île néerlandaise engloutie par les polders, vestiges d'un mode de vie insulaire disparu."
   },
   {
    "id": "WHS-867",
@@ -12346,7 +12346,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Woudagemaal 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Pays-Bas."
+   "description": "Station de pompage à vapeur toujours en état de marche, la plus puissante jamais construite en son genre."
   },
   {
    "id": "WHS-1441",
@@ -12361,7 +12361,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "Rotterdam van nelle fabriek.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Pays-Bas."
+   "description": "Usine de café et de tabac au mur-rideau de verre, icône du mouvement moderniste néerlandais."
   },
   {
    "id": "WHS-31",
@@ -12406,7 +12406,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Panorama of Malbork Castle, part 4.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Pologne."
+   "description": "Forteresse de brique de l'ordre Teutonique, le plus grand château gothique d'Europe."
   },
   {
    "id": "WHS-1165",
@@ -12421,7 +12421,7 @@
    "categorie": "culturel",
    "anneeInscription": 2006,
    "imageCommons": "Wroclaw - Hala Stulecia 03a.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Pologne."
+   "description": "Coupole de béton armé pionnière du début du XXe siècle, prouesse d'ingénierie moderniste polonaise."
   },
   {
    "id": "WHS-1127",
@@ -12436,7 +12436,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "1024 2012-1-sept-5088.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Pologne."
+   "description": "Le plus grand parc paysager d'Europe centrale à cheval sur la frontière germano-polonaise."
   },
   {
    "id": "WHS-1599",
@@ -12451,7 +12451,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "Podziemny korytarz kopalni Krzemionki. Wapień jury i krzemienie 3.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Pologne."
+   "description": "Mines de silex rubané néolithiques, galeries souterraines creusées il y a cinq mille ans."
   },
   {
    "id": "WHS-905",
@@ -12466,7 +12466,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Kalwaria Zebrzydowska - Bazylika i mur-02GP.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Pologne."
+   "description": "Sanctuaire baroque de pèlerinage, chapelles en chemin de croix disséminées sur une colline polonaise."
   },
   {
    "id": "WHS-263bis",
@@ -12586,7 +12586,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Sé Évora.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Portugal."
+   "description": "Ville romaine puis maure, temple antique et cathédrale côte à côte dans la plaine de l'Alentejo."
   },
   {
    "id": "WHS-265",
@@ -12616,7 +12616,7 @@
    "categorie": "culturel",
    "anneeInscription": 1989,
    "imageCommons": "Alcobaça October 2021-1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1989 — Portugal."
+   "description": "Le plus grand édifice gothique du Portugal, nécropole royale cistercienne près de la côte atlantique."
   },
   {
    "id": "WHS-264",
@@ -12646,7 +12646,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Douro (do Museu do Côa) 2 (4928227584) (3).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Portugal."
+   "description": "Vallée viticole en terrasses cultivée depuis deux mille ans, berceau historique du vin de Porto."
   },
   {
    "id": "WHS-1590",
@@ -12661,7 +12661,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "Treppenaufgang Bom Jesus do Monte.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Portugal."
+   "description": "Sanctuaire baroque au grand escalier zigzagant, symbole spirituel du nord du Portugal."
   },
   {
    "id": "WHS-1387",
@@ -12676,7 +12676,7 @@
    "categorie": "culturel",
    "anneeInscription": 2013,
    "imageCommons": "Coimbra December 2011-19a.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Portugal."
+   "description": "La plus ancienne université du Portugal, bibliothèque baroque aux dorures et chauve-souris gardiennes."
   },
   {
    "id": "WHS-1573",
@@ -12691,7 +12691,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "Mafra May 2013-1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Portugal."
+   "description": "Palais-couvent baroque géant, l'un des plus vastes édifices royaux jamais construits en Europe."
   },
   {
    "id": "WD-Q390275",
@@ -12721,7 +12721,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Romania-2169 - Church on the Hill (7749744674).jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Roumanie."
+   "description": "Église fortifiée saxonne juchée sur une colline de Transylvanie, refuge en cas de siège."
   },
   {
    "id": "WHS-906",
@@ -12736,7 +12736,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Sarmizegetusa temples.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Roumanie."
+   "description": "Forteresses daces de montagne, dernier rempart du royaume qui résista à Rome jusqu'au IIe siècle."
   },
   {
    "id": "WHS-1718",
@@ -12751,7 +12751,7 @@
    "categorie": "culturel",
    "anneeInscription": 2024,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Roumanie."
+   "description": "Frontière fortifiée romaine en Dacie, chaîne de camps et de tours de guet aux confins de l'Empire."
   },
   {
    "id": "WHS-597",
@@ -12766,7 +12766,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Horezu church.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Roumanie."
+   "description": "Monastère roumain aux fresques extérieures peintes, art religieux valaque du XVIe siècle."
   },
   {
    "id": "WHS-426",
@@ -12976,7 +12976,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Fountains Abbey view02 2005-08-27.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Royaume-Uni."
+   "description": "Ruines cisterciennes parmi les plus vastes d'Angleterre, nichées dans un parc paysager du XVIIIe siècle."
   },
   {
    "id": "WHS-428",
@@ -12991,7 +12991,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Roman Baths in Bath Spa, England - July 2006.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Royaume-Uni."
+   "description": "Ville géorgienne bâtie autour de sources thermales romaines, façades de pierre couleur miel."
   },
   {
    "id": "WHS-370",
@@ -13006,7 +13006,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Durham Cathedral and Castle.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Royaume-Uni."
+   "description": "Cathédrale normande et château sur une boucle de rivière, ensemble roman parmi les plus achevés d'Angleterre."
   },
   {
    "id": "WHS-496",
@@ -13021,7 +13021,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "Canterbury Cathedral August 2019 B.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Royaume-Uni."
+   "description": "Berceau du christianisme anglais, cathédrale où fut fondée l'Église d'Angleterre au VIe siècle."
   },
   {
    "id": "WHS-369",
@@ -13051,7 +13051,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Caernarfon Castle 1994.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Royaume-Uni."
+   "description": "Châteaux forts gallois du roi Édouard Ier, anneau de fortifications pour verrouiller le nord du pays de Galles."
   },
   {
    "id": "WHS-514",
@@ -13066,7 +13066,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Orkney Skara Brae.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Royaume-Uni."
+   "description": "Village néolithique et cercles de pierres des Orcades, plus ancien que Stonehenge de plusieurs siècles."
   },
   {
    "id": "WHS-545",
@@ -13141,7 +13141,7 @@
    "categorie": "culturel",
    "anneeInscription": 2013,
    "imageCommons": "Chersonesos columns.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Russie."
+   "description": "Cité grecque antique de Crimée, ruines dominant la mer Noire depuis vingt-cinq siècles."
   },
   {
    "id": "WHS-1097",
@@ -13156,7 +13156,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "2024 Novodevichy Convent in Moscow.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Russie."
+   "description": "Couvent fortifié moscovite où furent recluses des princesses et tsarines russes."
   },
   {
    "id": "WHS-754",
@@ -13186,7 +13186,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "00 4659. Klosteranlage Dreifaltigkeit von Sergijew Possad.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Russie."
+   "description": "Le plus grand monastère orthodoxe de Russie, cœur spirituel fondé par saint Serge de Radonège."
   },
   {
    "id": "WHS-982",
@@ -13201,7 +13201,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Ferapontovo drone cut.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Russie."
+   "description": "Monastère du nord de la Russie aux fresques du maître Dionisy, isolé sur les rives d'un lac."
   },
   {
    "id": "WHS-1525",
@@ -13216,7 +13216,7 @@
    "categorie": "culturel",
    "anneeInscription": 2017,
    "imageCommons": "Sviyazhsk Uspensky Monastery 08-2016 img5.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2017 — Russie."
+   "description": "Monastère fortifié sur une île du fleuve Volga, silhouette blanche émergeant de l'eau."
   },
   {
    "id": "WHS-768",
@@ -13246,7 +13246,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "White Monuments of Vladimir and Suzdal Montage.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Russie."
+   "description": "Églises blanches à coupoles dorées de la Russie médiévale, berceau de l'architecture moscovite."
   },
   {
    "id": "WHS-604",
@@ -13261,7 +13261,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Великий Новгород (50).JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Russie."
+   "description": "L'une des plus anciennes villes de Russie, cathédrales et kremlin sur les rives du Volkhov."
   },
   {
    "id": "WHS-1299",
@@ -13321,7 +13321,7 @@
    "categorie": "culturel",
    "anneeInscription": 1990,
    "imageCommons": "Kishi church 0.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1990 — Russie."
+   "description": "Église de bois aux vingt-deux coupoles, assemblée sans un seul clou selon la légende."
   },
   {
    "id": "WHS-1654",
@@ -13336,7 +13336,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "Belomorsk petroglyphs00.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Russie."
+   "description": "Pétroglyphes néolithiques gravés sur les rochers d'un lac et d'une mer du grand nord russe."
   },
   {
    "id": "WHS-766",
@@ -13381,7 +13381,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Romuliana, from air.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Serbie."
+   "description": "Palais romain tardif bâti pour un empereur né dans la région, mosaïques et arcs de triomphe en ruine."
   },
   {
    "id": "WHS-389",
@@ -13396,7 +13396,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Studenica monastery (Manastir Studenica) - by Pudelek.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Serbie."
+   "description": "Monastère orthodoxe serbe aux marbres polychromes, fondation royale du XIIe siècle."
   },
   {
    "id": "WHS-724",
@@ -13411,7 +13411,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Dečani4.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Serbie."
+   "description": "Monastères médiévaux serbes du Kosovo, fresques byzantines à la croisée de l'Orient et de l'Occident."
   },
   {
    "id": "WHS-96",
@@ -13441,7 +13441,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Levoča, Spišský hrad a pamiatky okolia.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Slovaquie."
+   "description": "Ville hanséatique slovaque et château fort dominant la vallée, ensemble gothique et Renaissance."
   },
   {
    "id": "WHS-622",
@@ -13456,7 +13456,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Vlkolinec, Ružomberok, okres Ružomberok, Žilinský kraj 10.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Slovaquie."
+   "description": "Village slovaque de maisons de bois traditionnelles, conservatoire vivant de l'architecture rurale des Carpates."
   },
   {
    "id": "WD-Q648902",
@@ -13501,7 +13501,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "Ljubljana (35814711775).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Slovénie."
+   "description": "Œuvres urbaines de l'architecte Jože Plečnik à Ljubljana, ponts et places redessinés avec poésie."
   },
   {
    "id": "WD-Q1374",
@@ -13621,7 +13621,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Castelli.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Suisse."
+   "description": "Trois châteaux médiévaux verrouillant une vallée alpine, défense historique du canton du Tessin."
   },
   {
    "id": "WHS-269",
@@ -13651,7 +13651,7 @@
    "categorie": "culturel",
    "anneeInscription": 2009,
    "imageCommons": "Patrimoine urbain horloger 8.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2009 — Suisse."
+   "description": "Villes suisses de l'horlogerie, urbanisme en damier pensé pour la lumière des ateliers."
   },
   {
    "id": "WHS-1243",
@@ -13666,7 +13666,7 @@
    "categorie": "culturel",
    "anneeInscription": 2007,
    "imageCommons": "Lavaux Switzerland.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Suisse."
+   "description": "Terrasses viticoles suisses en pente raide sur le lac Léman, culture de la vigne depuis le Moyen Âge."
   },
   {
    "id": "WD-Q579854",
@@ -13696,7 +13696,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "BirkaExcavation1.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Suède."
+   "description": "Cités marchandes vikings sur des îles suédoises, comptoirs commerciaux du haut Moyen Âge."
   },
   {
    "id": "WHS-559",
@@ -13711,7 +13711,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Drottningholm Palace (by Pudelek) 3.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Suède."
+   "description": "Château royal suédois toujours habité, surnommé le « Versailles suédois » sur une île du lac Mälar."
   },
   {
    "id": "WHS-558",
@@ -13726,7 +13726,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Skogskyrk Grav 2006.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Suède."
+   "description": "Cimetière paysager scandinave mêlant pins, granit et architecture funéraire moderniste."
   },
   {
    "id": "WHS-1282",
@@ -13741,7 +13741,7 @@
    "categorie": "culturel",
    "anneeInscription": 2012,
    "imageCommons": "Gästgivars.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Suède."
+   "description": "Fermes suédoises aux peintures murales naïves, art populaire de la province de Hälsingland."
   },
   {
    "id": "WHS-556",
@@ -13756,7 +13756,7 @@
    "categorie": "culturel",
    "anneeInscription": 1993,
    "imageCommons": "Engelsberg-Huettenwerk-01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Suède."
+   "description": "Complexe sidérurgique suédois du XVIIe siècle, l'un des mieux conservés d'Europe préindustrielle."
   },
   {
    "id": "WHS-871",
@@ -13771,7 +13771,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "KungsholmsFortKarlskrona2.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Suède."
+   "description": "Ville-arsenal suédoise bâtie autour de sa base navale, urbanisme militaire du XVIIe siècle."
   },
   {
    "id": "WHS-1134",
@@ -13786,7 +13786,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Varberg Radio Station.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Suède."
+   "description": "Station radio à ondes longues des années 1920, antenne et alternateurs encore fonctionnels."
   },
   {
    "id": "WD-Q204871",
@@ -13846,7 +13846,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Petřín Tower View IMG 3020.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Tchéquie."
+   "description": "Cent tours et flèches gothiques au-dessus de la Vltava, vieille ville et château presque intacts."
   },
   {
    "id": "WHS-621",
@@ -13861,7 +13861,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Telč, Vnitřní Město 01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Tchéquie."
+   "description": "Petite ville tchèque à la place Renaissance, façades colorées classées jusqu'au dernier pavé."
   },
   {
    "id": "WHS-617",
@@ -13876,7 +13876,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Český Krumlov, zámek celý z vyhlídky.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Tchéquie."
+   "description": "Château et vieille ville médiévale enroulés autour d'un méandre de la Vltava."
   },
   {
    "id": "WHS-901",
@@ -13891,7 +13891,7 @@
    "categorie": "culturel",
    "anneeInscription": 1999,
    "imageCommons": "Litomysl zamek.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Tchéquie."
+   "description": "Château Renaissance tchèque au théâtre d'époque conservé, rareté architecturale d'Europe centrale."
   },
   {
    "id": "WHS-861",
@@ -13906,7 +13906,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Holasovice1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Tchéquie."
+   "description": "Village tchèque baroque rural, façades pastel typiques de la campagne de Bohême du Sud."
   },
   {
    "id": "WHS-860",
@@ -13921,7 +13921,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Kroměříž Libosad 2.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Tchéquie."
+   "description": "Château et jardins fleuris tchèques, résidence des archevêques d'Olomouc."
   },
   {
    "id": "WHS-1078bis",
@@ -13936,7 +13936,7 @@
    "categorie": "culturel",
    "anneeInscription": 2003,
    "imageCommons": "Třebíč Basilika Jihlava Ghetto.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2003 — Tchéquie."
+   "description": "Quartier juif et synagogues de Třebíč, l'un des mieux préservés d'Europe centrale hors d'Israël."
   },
   {
    "id": "WHS-1052",
@@ -13951,7 +13951,7 @@
    "categorie": "culturel",
    "anneeInscription": 2001,
    "imageCommons": "Villa Tugendhat, Brno.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Tchéquie."
+   "description": "Villa moderniste tchèque au mur de verre coulissant, manifeste de l'architecture fonctionnaliste."
   },
   {
    "id": "WHS-690",
@@ -13966,7 +13966,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Kostel svatého Jana Nepomuckého (3).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Tchéquie."
+   "description": "Église baroque tchèque en forme d'étoile, pèlerinage dédié à un saint martyr de Bohême."
   },
   {
    "id": "WD-Q12506",
@@ -14071,7 +14071,7 @@
    "categorie": "culturel",
    "anneeInscription": 2016,
    "imageCommons": "Ani Archeological Site, March 2020 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2016 — Turquie."
+   "description": "Cité arménienne médiévale fantôme, églises en ruine sur un plateau isolé aux confins de la Turquie."
   },
   {
    "id": "WHS-1519",
@@ -14086,7 +14086,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Aphrodisias turkey.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Turquie."
+   "description": "Cité gréco-romaine réputée pour ses sculpteurs, marbre local et stade antique intact."
   },
   {
    "id": "WHS-1622",
@@ -14101,7 +14101,7 @@
    "categorie": "culturel",
    "anneeInscription": 2021,
    "imageCommons": "Arslantepe5.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2021 — Turquie."
+   "description": "Colline archéologique témoin de huit mille ans d'occupation, de l'âge du bronze aux Hittites."
   },
   {
    "id": "WHS-1452",
@@ -14116,7 +14116,7 @@
    "categorie": "culturel",
    "anneeInscription": 2014,
    "imageCommons": "Bursa Orhan Gazi Mosque.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2014 — Turquie."
+   "description": "Villages ottomans fondateurs, berceau architectural de l'empire avant la prise de Constantinople."
   },
   {
    "id": "WHS-1669",
@@ -14131,7 +14131,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Ruins of Gordion 3.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Turquie."
+   "description": "Capitale phrygienne du roi Midas, tumulus funéraire parmi les plus grands d'Anatolie."
   },
   {
    "id": "WHS-358",
@@ -14146,7 +14146,7 @@
    "categorie": "culturel",
    "anneeInscription": 1985,
    "imageCommons": "Divrigi complex DSCF3028.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Turquie."
+   "description": "Mosquée et hôpital seldjoukides au décor sculpté flamboyant, chef-d'œuvre de l'art anatolien médiéval."
   },
   {
    "id": "WHS-1572",
@@ -14161,7 +14161,7 @@
    "categorie": "culturel",
    "anneeInscription": 2018,
    "imageCommons": "Göbekli Tepe, Urfa.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2018 — Turquie."
+   "description": "Le plus ancien sanctuaire monumental connu au monde, antérieur de plusieurs millénaires à l'agriculture."
   },
   {
    "id": "WHS-377",
@@ -14176,7 +14176,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Lion Gate, Hattusa 01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Turquie."
+   "description": "Capitale de l'empire hittite, sphinx de pierre et archives cunéiformes au cœur de l'Anatolie."
   },
   {
    "id": "WHS-1366",
@@ -14191,7 +14191,7 @@
    "categorie": "culturel",
    "anneeInscription": 2011,
    "imageCommons": "Edirne 7333 Nevit.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Turquie."
+   "description": "Chef-d'œuvre de l'architecte ottoman Sinan, coupole rivalisant avec celle de Sainte-Sophie."
   },
   {
    "id": "WHS-1694",
@@ -14206,7 +14206,7 @@
    "categorie": "culturel",
    "anneeInscription": 2023,
    "imageCommons": "Ankara Aslanhane Camii Columns in 2014 15.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Turquie."
+   "description": "Mosquées ottomanes à charpente de bois, art religieux rural d'Anatolie médiévale."
   },
   {
    "id": "WHS-448",
@@ -14221,7 +14221,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "Nemrut Mountain Peak.JPG",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Turquie."
+   "description": "Sommet couronné de statues colossales décapitées, tombeau-sanctuaire d'un roi hellénistique oublié."
   },
   {
    "id": "WHS-1731",
@@ -14236,7 +14236,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": "The Bath-Gymnasium complex at Sardis, late 2nd - early 3rd century AD, Sardis, Turkey (17098680002).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Turquie."
+   "description": "Capitale lydienne où régna Crésus, tumulus royaux géants dans la plaine anatolienne."
   },
   {
    "id": "WHS-849",
@@ -14251,7 +14251,7 @@
    "categorie": "culturel",
    "anneeInscription": 1998,
    "imageCommons": "Walls of Troy (2).jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1998 — Turquie."
+   "description": "Cité mythique du siège d'Homère, neuf strates archéologiques superposées sur trois mille ans."
   },
   {
    "id": "WHS-484",
@@ -14266,7 +14266,7 @@
    "categorie": "culturel",
    "anneeInscription": 1988,
    "imageCommons": "Letoon stoa axb01.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Turquie."
+   "description": "Cité lycienne bilingue gréco-anatolienne, sanctuaire oraculaire et nécropole rupestre."
   },
   {
    "id": "WD-Q170456",
@@ -14311,7 +14311,7 @@
    "categorie": "culturel",
    "anneeInscription": 2011,
    "imageCommons": "Резиденція митрополитів Буковини і Далмації 5.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Ukraine."
+   "description": "Résidence épiscopale orthodoxe d'Ukraine occidentale, coupoles polychromes mêlant styles byzantin et baroque."
   },
   {
    "id": "WHS-286",
@@ -14461,7 +14461,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": null,
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Australie."
+   "description": "Aquaculture aborigène vieille de six mille ans, canaux de pierre pour piéger les anguilles."
   },
   {
    "id": "WHS-630",
@@ -14506,7 +14506,7 @@
    "categorie": "culturel",
    "anneeInscription": 2025,
    "imageCommons": "Ancient and Modern 4,000 years.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Australie."
+   "description": "Péninsule australienne portant l'une des plus grandes concentrations d'art rupestre gravé au monde."
   },
   {
    "id": "WHS-1131",
@@ -14521,7 +14521,7 @@
    "categorie": "culturel",
    "anneeInscription": 2004,
    "imageCommons": "Aerial Photo of Royal Exhibition Building, Melbourne.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Australie."
+   "description": "Palais d'exposition victorien à la coupole inspirée du dôme de Florence, planté dans un jardin classé."
   },
   {
    "id": "WHS-447",
@@ -14836,7 +14836,7 @@
    "categorie": "culturel",
    "anneeInscription": 2008,
    "imageCommons": "Kuk New Guinea 2002.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2008 — Papouasie-Nouvelle-Guinée."
+   "description": "Vestiges agricoles vieux de dix mille ans, l'une des plus anciennes traces d'agriculture indépendante au monde."
   },
   {
    "id": "WD-Q183113",
@@ -14926,7 +14926,7 @@
    "categorie": "culturel",
    "anneeInscription": 2008,
    "imageCommons": "Fels Cave Drawings 1.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2008 — Vanuatu."
+   "description": "Domaine funéraire d'un chef mélanésien légendaire, paysage sacré des îles Vanuatu."
   },
   {
    "id": "WHS-1503",
@@ -14941,7 +14941,7 @@
    "categorie": "culturel",
    "anneeInscription": 2016,
    "imageCommons": "Nan madol.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2016 — États fédérés de Micronésie."
+   "description": "Cité mégalithique bâtie sur un récif corallien, ruines flottant sur des canaux du Pacifique."
   },
   {
    "id": "WHS-1339",
@@ -14956,7 +14956,7 @@
    "categorie": "culturel",
    "anneeInscription": 2010,
    "imageCommons": "Bikini Atoll 2001-01-14, Landsat 7 ETM+, bands 3-2-1-8.png",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — Îles Marshall."
+   "description": "Atoll du Pacifique où furent menés les premiers essais nucléaires de l'après-guerre, épaves englouties."
   },
   {
    "id": "WHS-854",
