@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "source": "Wikidata (UNESCO World Heritage, propriété P757) — CC0 + couche virale (lieux mondialement connus, coordonnées Wikidata)",
  "count": 998,
  "monuments": [
@@ -91,7 +91,7 @@
    "categorie": "mixte",
    "anneeInscription": 2000,
    "imageCommons": "Maloti-Drakensberg Park-113926.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2000 — Afrique du Sud."
+   "description": "Le plus haut massif d'Afrique australe, peint de milliers de fresques rupestres san."
   },
   {
    "id": "WHS-1265",
@@ -226,7 +226,7 @@
    "categorie": "mixte",
    "anneeInscription": 1982,
    "imageCommons": "Tassili Desert Algeria.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1982 — Algérie."
+   "description": "Un musée à ciel ouvert de gravures préhistoriques, hérissé de « forêts de pierre »."
   },
   {
    "id": "WHS-194",
@@ -436,7 +436,7 @@
    "categorie": "naturel",
    "anneeInscription": 1982,
    "imageCommons": "Taï National Park (24148248710).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1982 — Côte d'Ivoire."
+   "description": "L'une des dernières grandes forêts primaires d'Afrique de l'Ouest, refuge du chimpanzé et de l'hippopotame pygmée."
   },
   {
    "id": "WHS-227",
@@ -646,7 +646,7 @@
    "categorie": "naturel",
    "anneeInscription": 1997,
    "imageCommons": "Mount Kenya and the Gregory Glacier.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Kenya."
+   "description": "Le deuxième plus haut sommet d'Afrique, glaciers à l'équateur."
   },
   {
    "id": "WHS-801",
@@ -841,7 +841,7 @@
    "categorie": "naturel",
    "anneeInscription": 1984,
    "imageCommons": "Lake Malawi (2489696873).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1984 — Malawi."
+   "description": "Le plus riche lac d'eau douce du monde en espèces de poissons, cichlidés aux couleurs de vitrail."
   },
   {
    "id": "WD-Q683632",
@@ -871,7 +871,7 @@
    "categorie": "mixte",
    "anneeInscription": 1989,
    "imageCommons": "Bandiagara escarpment 1.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1989 — Mali."
+   "description": "Village dogon accrochés à une falaise de grès de 150 kilomètres."
   },
   {
    "id": "WHS-1139",
@@ -1201,7 +1201,7 @@
    "categorie": "naturel",
    "anneeInscription": 1994,
    "imageCommons": "Ruwenpflanzen.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Ouganda."
+   "description": "Les « Montagnes de la Lune » drapées de glaciers équatoriaux, entre lacs et tourbières afro-alpines."
   },
   {
    "id": "WHS-1022",
@@ -1306,7 +1306,7 @@
    "categorie": "naturel",
    "anneeInscription": 1980,
    "imageCommons": "Elephants in garamba national park.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1980 — République démocratique du Congo."
+   "description": "L'un des derniers refuges du rhinocéros blanc du Nord, savanes ravagées puis renaissantes."
   },
   {
    "id": "WHS-280",
@@ -1321,7 +1321,7 @@
    "categorie": "naturel",
    "anneeInscription": 1984,
    "imageCommons": "La rivière Lulilaka, parc national de Salonga, 2005.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1984 — République démocratique du Congo."
+   "description": "La plus grande forêt tropicale protégée d'Afrique, bonobos et éléphants de forêt."
   },
   {
    "id": "WHS-63",
@@ -1336,7 +1336,7 @@
    "categorie": "naturel",
    "anneeInscription": 1979,
    "imageCommons": "Virunga 01.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1979 — République démocratique du Congo."
+   "description": "Le parc le plus ancien d'Afrique, derniers gorilles de montagne sous la menace des volcans actifs."
   },
   {
    "id": "WD-Q345204",
@@ -1396,7 +1396,7 @@
    "categorie": "naturel",
    "anneeInscription": 1982,
    "imageCommons": "Seychelles outer islands 25.08.2009 10-19-35.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1982 — Seychelles."
+   "description": "Le plus grand atoll corallien soulevé du monde, tortues géantes en liberté depuis des siècles."
   },
   {
    "id": "WHS-1746",
@@ -1486,7 +1486,7 @@
    "categorie": "naturel",
    "anneeInscription": 1981,
    "imageCommons": "CormoransDjoudj.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1981 — Sénégal."
+   "description": "Zone humide où des millions d'oiseaux migrateurs font halte entre l'Europe et l'Afrique."
   },
   {
    "id": "WHS-153",
@@ -1591,7 +1591,7 @@
    "categorie": "naturel",
    "anneeInscription": null,
    "imageCommons": "Serengeti-Landscape-2012.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO — Tanzanie."
+   "description": "La grande migration : deux millions de gnous et zèbres traversant la savane en boucle perpétuelle."
   },
   {
    "id": "WHS-144",
@@ -1621,7 +1621,7 @@
    "categorie": "naturel",
    "anneeInscription": 2012,
    "imageCommons": "Ounianga Serir.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2012 — Tchad."
+   "description": "Dix-huit lacs cristallins au cœur du Sahara, reliques d'un désert autrefois vert."
   },
   {
    "id": "WHS-1475",
@@ -1636,7 +1636,7 @@
    "categorie": "mixte",
    "anneeInscription": 2016,
    "imageCommons": "24 Kamele ziehen zur Wasserstelle im Ennedi-Gebirge im Tschad.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2016 — Tchad."
+   "description": "Arches de grès sculptées par le vent, dernier bastion de fresques rupestres du Sahara vert."
   },
   {
    "id": "WHS-1140",
@@ -2041,7 +2041,7 @@
    "categorie": "naturel",
    "anneeInscription": 2023,
    "imageCommons": "Bale mountains.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Éthiopie."
+   "description": "Toit de la Corne de l'Afrique, prairies afro-alpines et derniers loups d'Éthiopie."
   },
   {
    "id": "WHS-9",
@@ -2056,7 +2056,7 @@
    "categorie": "naturel",
    "anneeInscription": 1978,
    "imageCommons": "Simienské hory.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1978 — Éthiopie."
+   "description": "Le « toit de l'Afrique », gorges vertigineuses et bouquetins endémiques du Simien."
   },
   {
    "id": "WHS-17",
@@ -2161,7 +2161,7 @@
    "categorie": "naturel",
    "anneeInscription": 1996,
    "imageCommons": "Belize Barrier Reef from space.png",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Belize."
+   "description": "Le deuxième plus grand récif corallien de l'hémisphère au monde, mangroves et cayes de sable blanc."
   },
   {
    "id": "WD-Q34221",
@@ -2311,7 +2311,7 @@
    "categorie": "naturel",
    "anneeInscription": 1979,
    "imageCommons": "Kathleen Lake Yukon.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1979 — Canada."
+   "description": "La plus grande étendue de glace non polaire du monde, à cheval sur trois pays."
   },
   {
    "id": "WHS-4",
@@ -2371,7 +2371,7 @@
    "categorie": "naturel",
    "anneeInscription": 1983,
    "imageCommons": "Wood-Buffalo-NP Waldbison 98-07-02.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1983 — Canada."
+   "description": "Le plus grand parc national du Canada, dernier refuge du bison sauvage et delta d'oiseaux migrateurs."
   },
   {
    "id": "WHS-419",
@@ -2386,7 +2386,7 @@
    "categorie": "naturel",
    "anneeInscription": 1987,
    "imageCommons": "Western Brook Pond Newfoundland Canada DSC 6405.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Canada."
+   "description": "Fjords sculptés par les glaciers et roches du manteau terrestre affleurant à ciel ouvert."
   },
   {
    "id": "WHS-71",
@@ -2401,7 +2401,7 @@
    "categorie": "naturel",
    "anneeInscription": 1979,
    "imageCommons": "DinosaurProvincialParkHoodoo.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1979 — Canada."
+   "description": "L'un des plus riches gisements de fossiles de dinosaures au monde, niché dans des badlands lunaires."
   },
   {
    "id": "WHS-1597",
@@ -2431,7 +2431,7 @@
    "categorie": "naturel",
    "anneeInscription": 1984,
    "imageCommons": "Longs Peak.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1984 — Canada."
+   "description": "Sommets déchiquetés, glaciers et sources chaudes le long de la ligne de partage continentale."
   },
   {
    "id": "WHS-158",
@@ -2611,7 +2611,7 @@
    "categorie": "naturel",
    "anneeInscription": 1999,
    "imageCommons": "Cascada en El Nicho.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Cuba."
+   "description": "La plus haute terrasse marine soulevée du monde, escalier géologique vers l'océan."
   },
   {
    "id": "WHS-814",
@@ -2656,7 +2656,7 @@
    "categorie": "naturel",
    "anneeInscription": 2004,
    "imageCommons": "Greenland Ilulissat1.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Groenland."
+   "description": "Un glacier vêle directement dans l'océan Arctique, icebergs à la dérive jusqu'à l'horizon."
   },
   {
    "id": "WHS-1536",
@@ -2716,7 +2716,7 @@
    "categorie": "mixte",
    "anneeInscription": 1979,
    "imageCommons": "Parque Tikal Guatemala 2019.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1979 — Guatemala."
+   "description": "Les temples-pyramides mayas de Tikal percent la canopée de la jungle du Petén."
   },
   {
    "id": "WHS-149",
@@ -2851,7 +2851,7 @@
    "categorie": "culturel",
    "anneeInscription": 1989,
    "imageCommons": "Chichen Itza 3.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1989 — Mexique."
+   "description": "La pyramide de Kukulcán, où l'ombre d'un serpent descend l'escalier aux équinoxes."
   },
   {
    "id": "WD-Q1348507",
@@ -2986,7 +2986,7 @@
    "categorie": "culturel",
    "anneeInscription": 1987,
    "imageCommons": "ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1987 — Mexique."
+   "description": "La pyramide du Soleil s'élève sur l'avenue des Morts, cité qui éclipsait Rome à son apogée."
   },
   {
    "id": "WHS-1061",
@@ -3001,7 +3001,7 @@
    "categorie": "mixte",
    "anneeInscription": 2002,
    "imageCommons": "In Calakmul, Mexico (8726963632).jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2002 — Mexique."
+   "description": "Cité maya engloutie par la jungle du Yucatán, plus de six mille structures encore ensevelies."
   },
   {
    "id": "WHS-585",
@@ -3196,7 +3196,7 @@
    "categorie": "naturel",
    "anneeInscription": 1981,
    "imageCommons": "Pteroglossus-torquatus-001.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1981 — Panama."
+   "description": "La jungle la plus dense d'Amérique centrale, dernier refuge de l'harpie féroce."
   },
   {
    "id": "WHS-1138",
@@ -3286,7 +3286,7 @@
    "categorie": "naturel",
    "anneeInscription": 2004,
    "imageCommons": "Pitonpair.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2004 — Sainte-Lucie."
+   "description": "Deux pitons volcaniques jumeaux surgissant de la mer des Caraïbes, symbole de Sainte-Lucie."
   },
   {
    "id": "WHS-675",
@@ -3631,7 +3631,7 @@
    "categorie": "naturel",
    "anneeInscription": 1978,
    "imageCommons": "Grand Prismatic Spring 2013.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1978 — États-Unis."
+   "description": "Le premier parc national du monde, geysers, sources chaudes et la plus grande caldeira active des États-Unis."
   },
   {
    "id": "WHS-308",
@@ -3646,7 +3646,7 @@
    "categorie": "naturel",
    "anneeInscription": 1984,
    "imageCommons": "Half Dome with Eastern Yosemite Valley (50MP).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1984 — États-Unis."
+   "description": "Falaises de granite vertigineuses, dont El Capitan et Half Dome, sculptées par les glaciers."
   },
   {
    "id": "WHS-76",
@@ -3676,7 +3676,7 @@
    "categorie": "naturel",
    "anneeInscription": 1979,
    "imageCommons": "10 Grand Canyon Navajo Point viewpoint terrace, Grand Canyon National Park, USA - American nature.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1979 — États-Unis."
+   "description": "Un kilomètre et demi de profondeur, deux milliards d'années d'histoire géologique à ciel ouvert."
   },
   {
    "id": "WD-Q367943",
@@ -3781,7 +3781,7 @@
    "categorie": "naturel",
    "anneeInscription": 1984,
    "imageCommons": "43 - Iguazu - Décembre 2007.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1984 — Argentine."
+   "description": "Deux cent soixante-quinze chutes qui hurlent dans la forêt subtropicale — la Gorge du Diable en son centre."
   },
   {
    "id": "WHS-936",
@@ -3826,7 +3826,7 @@
    "categorie": "naturel",
    "anneeInscription": 2017,
    "imageCommons": "Cerro y glaciar Torrecillas - Lago Menéndez - Parque Nacional Los Alerces - Chubut - Argentina - panoramio.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2017 — Argentine."
+   "description": "Forêts d'alerces millénaires reflétées dans des lacs glaciaires turquoise."
   },
   {
    "id": "WHS-145",
@@ -3841,7 +3841,7 @@
    "categorie": "naturel",
    "anneeInscription": 1981,
    "imageCommons": "Perito moreno argentinië.JPEG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1981 — Argentine."
+   "description": "Le Perito Moreno, glacier vivant qui vêle dans un fracas bleu jusqu'au lac Argentino."
   },
   {
    "id": "WHS-966",
@@ -4141,7 +4141,7 @@
    "categorie": "naturel",
    "anneeInscription": 1986,
    "imageCommons": "00 1854 Iguazú-Wasserfälle - Südamerika.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Brésil."
+   "description": "Le versant brésilien des mêmes chutes qu'Iguazú — vue panoramique sur le rideau d'eau argentin."
   },
   {
    "id": "WHS-1747",
@@ -4156,7 +4156,7 @@
    "categorie": "naturel",
    "anneeInscription": 2025,
    "imageCommons": "Vale do Peruaçú.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2025 — Brésil."
+   "description": "Un dédale de grottes calcaires creusées par la rivière Peruaçu, peint d'art rupestre ancestral."
   },
   {
    "id": "WHS-309",
@@ -4276,7 +4276,7 @@
    "categorie": "naturel",
    "anneeInscription": 2024,
    "imageCommons": "Lençóis Maranhenses 2018.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Brésil."
+   "description": "Des dunes de sable blanc criblées de lagunes d'eau de pluie bleu turquoise, à perte de vue."
   },
   {
    "id": "WHS-1035",
@@ -4366,7 +4366,7 @@
    "categorie": "culturel",
    "anneeInscription": 1995,
    "imageCommons": "Osterinsel Krater-Rano Kao.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1995 — Chili."
+   "description": "Les moai de pierre de l'île de Pâques, figés depuis des siècles face à l'océan."
   },
   {
    "id": "WHS-1459",
@@ -4531,7 +4531,7 @@
    "categorie": "mixte",
    "anneeInscription": 2018,
    "imageCommons": "Chiribiquete view.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2018 — Colombie."
+   "description": "La plus grande réserve forestière tropicale protégée de Colombie, refuge du jaguar."
   },
   {
    "id": "WHS-1216",
@@ -4546,7 +4546,7 @@
    "categorie": "naturel",
    "anneeInscription": 2006,
    "imageCommons": "Malpelo nazca booby NOAA.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2006 — Colombie."
+   "description": "Île volcanique isolée dans le Pacifique, l'une des plus grandes concentrations de requins-marteaux au monde."
   },
   {
    "id": "WD-Q38120",
@@ -4591,7 +4591,7 @@
    "categorie": "mixte",
    "anneeInscription": 1983,
    "imageCommons": "Machu Picchu Panorama.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1983 — Pérou."
+   "description": "La cité perdue des Incas, suspendue entre deux pics andins au-dessus des nuages."
   },
   {
    "id": "WD-Q28025526",
@@ -4711,7 +4711,7 @@
    "categorie": "mixte",
    "anneeInscription": 1990,
    "imageCommons": "Quebrada Churo- Parque Nacional del Rio Abiseo.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1990 — Pérou."
+   "description": "Ruines précolombiennes noyées dans le brouillard des forêts de nuages péruviennes."
   },
   {
    "id": "WHS-333",
@@ -4726,7 +4726,7 @@
    "categorie": "naturel",
    "anneeInscription": 1985,
    "imageCommons": "Llanganuco ancash.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Pérou."
+   "description": "Le plus haut massif tropical du monde, glaciers andins culminant à plus de 6 700 mètres."
   },
   {
    "id": "WHS-402",
@@ -4876,7 +4876,7 @@
    "categorie": "naturel",
    "anneeInscription": 1994,
    "imageCommons": "Canaima 34.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Venezuela."
+   "description": "Le plateau tabulaire d'Auyán-tepui, d'où plonge le Salto Ángel, la plus haute chute du monde."
   },
   {
    "id": "WD-Q1806478",
@@ -4906,7 +4906,7 @@
    "categorie": "naturel",
    "anneeInscription": 1978,
    "imageCommons": "Galápagos Islands ESA23188644.jpeg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1978 — Équateur."
+   "description": "Le laboratoire vivant qui inspira Darwin, tortues géantes et iguanes marins uniques au monde."
   },
   {
    "id": "WHS-2",
@@ -4936,7 +4936,7 @@
    "categorie": "naturel",
    "anneeInscription": 1983,
    "imageCommons": "Ecuador SanguayNationalPark.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1983 — Équateur."
+   "description": "Volcan actif culminant au-dessus de la forêt amazonienne équatorienne."
   },
   {
    "id": "WD-Q431031",
@@ -5056,7 +5056,7 @@
    "categorie": "naturel",
    "anneeInscription": 2023,
    "imageCommons": "Rub al Khali 002.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2023 — Arabie saoudite."
+   "description": "Un océan de dunes rouges au cœur du Rub al-Khali, le plus grand désert de sable au monde."
   },
   {
    "id": "WHS-1712",
@@ -5311,7 +5311,7 @@
    "categorie": "culturel",
    "anneeInscription": 2019,
    "imageCommons": "Bagan, Myanmar, Htilominlo Temple and other Buddhist stupas in Bagan plain.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2019 — Birmanie."
+   "description": "Plus de deux mille temples et stûpas de brique émergeant de la plaine à l'aube."
   },
   {
    "id": "WHS-1444",
@@ -5356,7 +5356,7 @@
    "categorie": "culturel",
    "anneeInscription": 1992,
    "imageCommons": "Angkor Wat ausSO.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Cambodge."
+   "description": "La plus vaste cité religieuse jamais construite, Angkor Vat s'éveille dans la brume au lever du soleil."
   },
   {
    "id": "WD-Q592846",
@@ -5461,7 +5461,7 @@
    "categorie": "mixte",
    "anneeInscription": 2025,
    "imageCommons": "0438 - Nordkorea 2015 - Kumgang Gebirge - Kuryong Fasserfall (22543108597).jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2025 — Corée du Nord."
+   "description": "Pics de granit acérés et cascades du « Diamond Mountain », vénéré depuis des siècles."
   },
   {
    "id": "WHS-816",
@@ -5671,7 +5671,7 @@
    "categorie": "naturel",
    "anneeInscription": 2007,
    "imageCommons": "Hallasan 2.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Corée du Sud."
+   "description": "Un tube de lave géant et le pic volcanique du Hallasan, sommet de la Corée du Sud."
   },
   {
    "id": "WD-Q17541",
@@ -5956,7 +5956,7 @@
    "categorie": "mixte",
    "anneeInscription": null,
    "imageCommons": "Abhishek532 LamuneyValley.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO — Inde."
+   "description": "Le troisième plus haut sommet du monde, vénéré comme une divinité par les peuples du Sikkim."
   },
   {
    "id": "WHS-338",
@@ -5971,7 +5971,7 @@
    "categorie": "naturel",
    "anneeInscription": 1985,
    "imageCommons": "Capped langur in manas.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1985 — Inde."
+   "description": "Refuge du rhinocéros unicorne indien et du tigre du Bengale, au pied de l'Himalaya."
   },
   {
    "id": "WHS-452",
@@ -6016,7 +6016,7 @@
    "categorie": "culturel",
    "anneeInscription": 1991,
    "imageCommons": "Borobudur-Nothwest-view.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Indonésie."
+   "description": "Le plus grand monument bouddhiste du monde, ses stûpas gravés de bas-reliefs."
   },
   {
    "id": "WD-Q515253",
@@ -6076,7 +6076,7 @@
    "categorie": "naturel",
    "anneeInscription": 1991,
    "imageCommons": "Ujung Kulon National Park, 2014.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Indonésie."
+   "description": "Dernier refuge du rhinocéros de Java, presque disparu à l'état sauvage."
   },
   {
    "id": "WHS-609",
@@ -6091,7 +6091,7 @@
    "categorie": "naturel",
    "anneeInscription": 1991,
    "imageCommons": "Komodo dragon at Komodo National Park.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Indonésie."
+   "description": "Royaume du dragon de Komodo, le plus grand lézard vivant de la planète."
   },
   {
    "id": "WHS-955",
@@ -6166,7 +6166,7 @@
    "categorie": "mixte",
    "anneeInscription": 2016,
    "imageCommons": "Ur-Nassiriyah.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2016 — Irak."
+   "description": "Les marais mésopotamiens où vivaient les Sumériens, roseaux et maisons flottantes."
   },
   {
    "id": "WHS-1130",
@@ -6241,7 +6241,7 @@
    "categorie": "culturel",
    "anneeInscription": 1979,
    "imageCommons": "تخت جمشيد دروازه ملل Persepolice Fars Marvdasht Shiraz - panoramio.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1979 — Iran."
+   "description": "Les colonnes de Persépolis, capitale cérémonielle de l'empire perse, brûlée par Alexandre."
   },
   {
    "id": "WHS-1208",
@@ -6301,7 +6301,7 @@
    "categorie": "naturel",
    "anneeInscription": 2016,
    "imageCommons": "Sand castles - Dasht-e Lut desert - Kerman.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2016 — Iran."
+   "description": "L'un des endroits les plus chauds de la planète, yardangs sculptés par le vent sur des dizaines de kilomètres."
   },
   {
    "id": "WHS-1716",
@@ -6781,7 +6781,7 @@
    "categorie": "culturel",
    "anneeInscription": 1994,
    "imageCommons": "Kinkakuji 2004-09-21.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Japon."
+   "description": "Plus de mille ans de temples et jardins zen, dont le pavillon d'or du Kinkaku-ji."
   },
   {
    "id": "WHS-661",
@@ -7051,7 +7051,7 @@
    "categorie": "mixte",
    "anneeInscription": 2011,
    "imageCommons": "Wadi Rum in December.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2011 — Jordanie."
+   "description": "Vallée de grès rose où Lawrence d'Arabie a écrit sa légende, dunes et arches naturelles."
   },
   {
    "id": "WHS-1230",
@@ -7351,7 +7351,7 @@
    "categorie": "naturel",
    "anneeInscription": 2000,
    "imageCommons": "Mulu.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Malaisie."
+   "description": "Le plus grand réseau de grottes calcaires du monde, chambre assez vaste pour quarante Boeing 747."
   },
   {
    "id": "WHS-1012",
@@ -7486,7 +7486,7 @@
    "categorie": "naturel",
    "anneeInscription": 1979,
    "imageCommons": "Everest, Nuptse, Khumbu Glacier, Nepal, Himalayas.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1979 — Népal."
+   "description": "L'Everest domine ce parc, où le yéti est réputé rôder entre les monastères sherpas."
   },
   {
    "id": "WHS-666",
@@ -7516,7 +7516,7 @@
    "categorie": "naturel",
    "anneeInscription": 1984,
    "imageCommons": "Chitwan swamp.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1984 — Népal."
+   "description": "Dernier grand bastion du rhinocéros unicorne et du tigre du Bengale au Népal."
   },
   {
    "id": "WHS-121",
@@ -7831,7 +7831,7 @@
    "categorie": "naturel",
    "anneeInscription": 1999,
    "imageCommons": "Puerto Princesa Underground River.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1999 — Philippines."
+   "description": "Une rivière navigable disparaît sous terre pour huit kilomètres, l'une des plus longues grottes du monde."
   },
   {
    "id": "WHS-722",
@@ -7861,7 +7861,7 @@
    "categorie": "naturel",
    "anneeInscription": 1993,
    "imageCommons": "Tubbataha Shark.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1993 — Philippines."
+   "description": "Atoll corallien isolé au milieu de la mer de Sulu, requins-marteaux et tortues vertes."
   },
   {
    "id": "WD-Q4117959",
@@ -8026,7 +8026,7 @@
    "categorie": "culturel",
    "anneeInscription": 2008,
    "imageCommons": "Hakka china.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2008 — République populaire de Chine."
+   "description": "Des tours de terre circulaires, forteresses-villages hakka pouvant loger tout un clan."
   },
   {
    "id": "WHS-1335",
@@ -8041,7 +8041,7 @@
    "categorie": "naturel",
    "anneeInscription": 2010,
    "imageCommons": "Danxia 0816.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — République populaire de Chine."
+   "description": "Montagnes striées rouge et ocre, sculptées par des millions d'années d'érosion en strates colorées."
   },
   {
    "id": "WHS-1638",
@@ -8056,7 +8056,7 @@
    "categorie": "naturel",
    "anneeInscription": 2024,
    "imageCommons": "Small Dunes of Badain Jaran Desert.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — République populaire de Chine."
+   "description": "Parmi les plus hautes dunes fixées du monde, lacs cachés entre des monts de sable géants."
   },
   {
    "id": "WHS-1559",
@@ -8101,7 +8101,7 @@
    "categorie": "naturel",
    "anneeInscription": 2017,
    "imageCommons": "Hoh Xil.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2017 — République populaire de Chine."
+   "description": "Le plus haut et le plus vaste plateau sauvage de Chine, troupeaux d'antilopes du Tibet."
   },
   {
    "id": "WHS-638",
@@ -8116,7 +8116,7 @@
    "categorie": "naturel",
    "anneeInscription": 1992,
    "imageCommons": "Water-of-Five-colored-Pond Huanglong Sichuan China.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — République populaire de Chine."
+   "description": "Des bassins de travertin turquoise en cascade, encadrés de pics enneigés du Sichuan."
   },
   {
    "id": "WHS-1292",
@@ -8131,7 +8131,7 @@
    "categorie": "naturel",
    "anneeInscription": 2008,
    "imageCommons": "19190-SanQingShan (45434925915).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2008 — République populaire de Chine."
+   "description": "Pitons de granite déchiquetés émergeant d'une mer de nuages, pins accrochés à la roche nue."
   },
   {
    "id": "WHS-437",
@@ -8146,7 +8146,7 @@
    "categorie": "mixte",
    "anneeInscription": 1987,
    "imageCommons": "泰山 南天门.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1987 — République populaire de Chine."
+   "description": "La plus sacrée des cinq montagnes taoïstes, gravie par des empereurs depuis plus de deux mille ans."
   },
   {
    "id": "WHS-547",
@@ -8161,7 +8161,7 @@
    "categorie": "mixte",
    "anneeInscription": 1990,
    "imageCommons": "Huangshan fengjing.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1990 — République populaire de Chine."
+   "description": "Les « Monts Jaunes », pins tordus et pics de granite ayant inspiré des siècles de peinture chinoise."
   },
   {
    "id": "WHS-911",
@@ -8176,7 +8176,7 @@
    "categorie": "mixte",
    "anneeInscription": 1999,
    "imageCommons": "Wuyi Mountains Sea of clouds 4.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1999 — République populaire de Chine."
+   "description": "Falaises rouges et rivière serpentine, berceau du thé oolong et sanctuaire taoïste-confucéen."
   },
   {
    "id": "WHS-439",
@@ -8431,7 +8431,7 @@
    "categorie": "naturel",
    "anneeInscription": 2013,
    "imageCommons": "Pamir Mountains, Tajikistan, 06-04-2008.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2013 — Tadjikistan."
+   "description": "Les « Pamirs », toit du monde d'Asie centrale, sommets de plus de sept mille mètres."
   },
   {
    "id": "WHS-1141",
@@ -8686,7 +8686,7 @@
    "categorie": "naturel",
    "anneeInscription": 1991,
    "imageCommons": "Thung Yai Ramit-River.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Thaïlande."
+   "description": "L'une des dernières grandes forêts intactes d'Asie du Sud-Est, tigres et éléphants sauvages."
   },
   {
    "id": "WD-Q680813",
@@ -8776,7 +8776,7 @@
    "categorie": "naturel",
    "anneeInscription": 1994,
    "imageCommons": "Halong ensemble (colour corrected).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Vietnam."
+   "description": "Près de deux mille îlots karstiques surgissant d'une mer émeraude, immortalisés par la légende du dragon."
   },
   {
    "id": "VIR-dd71620f5f0",
@@ -8866,7 +8866,7 @@
    "categorie": "mixte",
    "anneeInscription": 2014,
    "imageCommons": "Trang An Scenic Landscape Complex, northern Vietnam (354) (38540830421).jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 2014 — Vietnam."
+   "description": "Rivières serpentant entre des pitons karstiques couverts de jungle, décor naturel de blockbusters."
   },
   {
    "id": "WHS-948",
@@ -9736,7 +9736,7 @@
    "categorie": "naturel",
    "anneeInscription": 2024,
    "imageCommons": "Vjetrenica Cave.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2024 — Bosnie-Herzégovine."
+   "description": "L'une des plus longues cavernes d'Europe, rivière souterraine et espèces trouvées nulle part ailleurs."
   },
   {
    "id": "WHS-217",
@@ -9796,7 +9796,7 @@
    "categorie": "naturel",
    "anneeInscription": 1983,
    "imageCommons": "Bansko ski 2025 28.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1983 — Bulgarie."
+   "description": "Forêts de pins millénaires et lacs glaciaires dans les montagnes du Pirin."
   },
   {
    "id": "WHS-44",
@@ -9946,7 +9946,7 @@
    "categorie": "naturel",
    "anneeInscription": 1979,
    "imageCommons": "Plitvice Lakes National Park (2).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1979 — Croatie."
+   "description": "Seize lacs en cascade, d'un turquoise irréel, reliés par des chutes et des passerelles de bois."
   },
   {
    "id": "WHS-1240",
@@ -10216,7 +10216,7 @@
    "categorie": "culturel",
    "anneeInscription": null,
    "imageCommons": "Alhambra detail.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO — Espagne."
+   "description": "Palais mauresque aux cours d'eau et de céramique, dominant Grenade depuis sa colline rouge."
   },
   {
    "id": "WHS-378",
@@ -10381,7 +10381,7 @@
    "categorie": "naturel",
    "anneeInscription": 1994,
    "imageCommons": "Vista de las marismas del Parque Doñana.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1994 — Espagne."
+   "description": "Le plus grand espace naturel protégé d'Europe, zone humide où hiverne des centaines de milliers d'oiseaux."
   },
   {
    "id": "WHS-380",
@@ -10396,7 +10396,7 @@
    "categorie": "naturel",
    "anneeInscription": 1986,
    "imageCommons": "Bosque Encantado, Parque nacional de Garajonay, La Gomera, España, 2012-12-14, DD 19.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Espagne."
+   "description": "Forêt de lauriers géants figée depuis l'ère tertiaire, enveloppée de brume permanente."
   },
   {
    "id": "WHS-1258",
@@ -10411,7 +10411,7 @@
    "categorie": "naturel",
    "anneeInscription": 2007,
    "imageCommons": "Roque Cinchado und Teide (Zuschnitt).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2007 — Espagne."
+   "description": "Le plus haut sommet d'Espagne, volcan surgissant d'une mer de nuages aux Canaries."
   },
   {
    "id": "WHS-822",
@@ -11011,7 +11011,7 @@
    "categorie": "mixte",
    "anneeInscription": 1988,
    "imageCommons": "Der Berg Athos.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1988 — Grèce."
+   "description": "République monastique autonome où vingt monastères orthodoxes s'accrochent à la péninsule depuis mille ans."
   },
   {
    "id": "WHS-456",
@@ -11671,7 +11671,7 @@
    "categorie": "culturel",
    "anneeInscription": 1997,
    "imageCommons": "Campania Pompei3 tango7174.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1997 — Italie."
+   "description": "Une ville romaine figée en une nuit sous les cendres du Vésuve, fresques et pain carbonisé intacts."
   },
   {
    "id": "WHS-398",
@@ -12061,7 +12061,7 @@
    "categorie": "naturel",
    "anneeInscription": 1980,
    "imageCommons": "Durmitor - near Minin bogaz.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1980 — Monténégro."
+   "description": "Le plus grand canyon d'Europe, sculpté par la rivière Tara dans les Alpes dinariques."
   },
   {
    "id": "WD-Q746223",
@@ -12151,7 +12151,7 @@
    "categorie": "naturel",
    "anneeInscription": 2005,
    "imageCommons": "Village in Norway.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2005 — Norvège."
+   "description": "Geirangerfjord et Nærøyfjord : des parois vertigineuses plongent dans des eaux d'un vert glacier."
   },
   {
    "id": "WHS-1486",
@@ -12961,7 +12961,7 @@
    "categorie": "culturel",
    "anneeInscription": 1986,
    "imageCommons": "Avebury henge and village UK.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Royaume-Uni."
+   "description": "Un cercle de mégalithes dressés il y a cinq mille ans, dont on ignore toujours comment ils furent érigés."
   },
   {
    "id": "WHS-372",
@@ -13036,7 +13036,7 @@
    "categorie": "naturel",
    "anneeInscription": 1986,
    "imageCommons": "Giant's Causeway (36834542085).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Royaume-Uni."
+   "description": "Quarante mille colonnes de basalte hexagonales, nées d'une coulée de lave selon la légende d'un géant."
   },
   {
    "id": "WHS-374",
@@ -13111,7 +13111,7 @@
    "categorie": "culturel",
    "anneeInscription": 2000,
    "imageCommons": "Казанский кремль. Панорама с колеса обозрения.jpg",
-   "description": "Site culturel du patrimoine mondial de l'UNESCO, inscrit en 2000 — Russie."
+   "description": "La forteresse tatare aux murs blancs, où mosquée et cathédrale se dressent côte à côte."
   },
   {
    "id": "WHS-900",
@@ -13171,7 +13171,7 @@
    "categorie": "naturel",
    "anneeInscription": 1996,
    "imageCommons": "Olkhon Island and Lake Baikal.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Russie."
+   "description": "Le plus profond et le plus ancien lac du monde, contenant un cinquième de l'eau douce liquide de la planète."
   },
   {
    "id": "WHS-657",
@@ -13306,7 +13306,7 @@
    "categorie": "naturel",
    "anneeInscription": 2010,
    "imageCommons": "Plato Putorana 01.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2010 — Russie."
+   "description": "Un plateau volcanique si reculé qu'il ne fut cartographié qu'au XXe siècle, canyons vertigineux."
   },
   {
    "id": "WHS-544",
@@ -13366,7 +13366,7 @@
    "categorie": "naturel",
    "anneeInscription": 1996,
    "imageCommons": "D0807I14-HarbourTour.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1996 — Russie."
+   "description": "Volcans actifs et geysers fumants au bout du monde, dans une péninsule que l'on n'atteint qu'en hélicoptère."
   },
   {
    "id": "WHS-1253",
@@ -13486,7 +13486,7 @@
    "categorie": "naturel",
    "anneeInscription": 1986,
    "imageCommons": "SkocjanskeJame 2013jpg.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1986 — Slovénie."
+   "description": "Une rivière disparaît dans un gouffre pour creuser l'une des plus grandes cavernes d'Europe."
   },
   {
    "id": "WHS-1643",
@@ -13606,7 +13606,7 @@
    "categorie": "naturel",
    "anneeInscription": 2001,
    "imageCommons": "Aerial image of Finsteraarhorn (view from the east).jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2001 — Suisse."
+   "description": "Le plus long glacier des Alpes, l'Aletsch, coule sous l'ombre de l'Eiger et de la Jungfrau."
   },
   {
    "id": "WHS-884",
@@ -14041,7 +14041,7 @@
    "categorie": "mixte",
    "anneeInscription": 1985,
    "imageCommons": "Vallegoreme2.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1985 — Turquie."
+   "description": "Cheminées de fées troglodytes, églises byzantines creusées à même la roche tendre."
   },
   {
    "id": "WHS-1018",
@@ -14056,7 +14056,7 @@
    "categorie": null,
    "anneeInscription": null,
    "imageCommons": "Ephesus Celsus Library Façade.jpg",
-   "description": "Site du patrimoine mondial de l'UNESCO — Turquie."
+   "description": "La bibliothèque de Celsus se dresse encore, vestige de l'une des plus grandes villes de l'Antiquité."
   },
   {
    "id": "WHS-1518",
@@ -14446,7 +14446,7 @@
    "categorie": "naturel",
    "anneeInscription": 1981,
    "imageCommons": "GreatBarrierReef-EO.JPG",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1981 — Australie."
+   "description": "Le plus grand organisme vivant de la planète, visible depuis l'espace."
   },
   {
    "id": "WHS-1577",
@@ -14476,7 +14476,7 @@
    "categorie": "naturel",
    "anneeInscription": 1992,
    "imageCommons": "Fraser Island view from Indian Head.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1992 — Australie."
+   "description": "La plus grande île de sable du monde, forêts tropicales poussant à même les dunes."
   },
   {
    "id": "WHS-186",
@@ -14491,7 +14491,7 @@
    "categorie": "naturel",
    "anneeInscription": 1982,
    "imageCommons": "LordHoweIslandFromKimsLookout.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1982 — Australie."
+   "description": "Îlot volcanique isolé où le mont Gower plonge dans un lagon aux eaux limpides."
   },
   {
    "id": "WHS-1709",
@@ -14536,7 +14536,7 @@
    "categorie": "mixte",
    "anneeInscription": 1987,
    "imageCommons": "UluruClip3ArtC1941.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1987 — Australie."
+   "description": "Le monolithe rouge d'Uluru, sacré pour les Anangu, change de couleur au fil du jour."
   },
   {
    "id": "WHS-147",
@@ -14551,7 +14551,7 @@
    "categorie": "mixte",
    "anneeInscription": 1981,
    "imageCommons": "Kakadu (AU), Kakadu National Park, Nadap Lookout -- 2019 -- 4200.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1981 — Australie."
+   "description": "Art rupestre aborigène vieux de dizaines de milliers d'années, zones humides infestées de crocodiles."
   },
   {
    "id": "WHS-1094",
@@ -14566,7 +14566,7 @@
    "categorie": "naturel",
    "anneeInscription": 2003,
    "imageCommons": "1 Purnululu Nationalpark - Australien.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2003 — Australie."
+   "description": "Les « ruches » rayées de grès orange et noir du Bungle Bungle Range, invisibles jusqu'en 1983."
   },
   {
    "id": "WHS-1369",
@@ -14581,7 +14581,7 @@
    "categorie": "naturel",
    "anneeInscription": 2011,
    "imageCommons": "00 2875 Western Australia - Ningaloo Reef.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 2011 — Australie."
+   "description": "Nager aux côtés des requins-baleines sur le plus long récif frangeant du monde."
   },
   {
    "id": "WHS-578",
@@ -14596,7 +14596,7 @@
    "categorie": "naturel",
    "anneeInscription": 1991,
    "imageCommons": null,
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1991 — Australie."
+   "description": "Les stromatolites vivants les plus anciens de la planète, dans une baie hypersalée turquoise."
   },
   {
    "id": "WHS-486",
@@ -14611,7 +14611,7 @@
    "categorie": "naturel",
    "anneeInscription": 1988,
    "imageCommons": "Daintree National Park.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1988 — Australie."
+   "description": "La plus ancienne forêt tropicale continue du monde, plus vieille que l'Amazonie."
   },
   {
    "id": "WD-Q111386943",
@@ -14791,7 +14791,7 @@
    "categorie": "mixte",
    "anneeInscription": 1990,
    "imageCommons": "Tongariro Mahuia River n.jpg",
-   "description": "Site mixte (culturel & naturel) du patrimoine mondial de l'UNESCO, inscrit en 1990 — Nouvelle-Zélande."
+   "description": "Volcans sacrés maoris qui ont prêté leurs pentes au Mordor du Seigneur des Anneaux."
   },
   {
    "id": "WHS-551",
@@ -14806,7 +14806,7 @@
    "categorie": "naturel",
    "anneeInscription": 1990,
    "imageCommons": "MilfordSound.jpg",
-   "description": "Site naturel du patrimoine mondial de l'UNESCO, inscrit en 1990 — Nouvelle-Zélande."
+   "description": "Le « pays des eaux de jade », fjords, glaciers et forêts pluviales de Nouvelle-Zélande."
   },
   {
    "id": "WD-Q2299343",
