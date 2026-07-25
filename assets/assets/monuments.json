@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "source": "Wikidata (UNESCO World Heritage, propriété P757) — CC0 + couche virale (lieux mondialement connus, coordonnées Wikidata)",
  "count": 998,
  "monuments": [
@@ -500,7 +500,7 @@
   },
   {
    "id": "WHS-1226",
-   "nom": "Stone Circles of Senegambia",
+   "nom": "Cercles mégalithiques de Sénégambie",
    "pays": "Gambie",
    "paysIso": "GM",
    "continent": "Afrique",
@@ -5315,7 +5315,7 @@
   },
   {
    "id": "WHS-1444",
-   "nom": "Pyu Ancient Cities",
+   "nom": "Anciennes cités pyu",
    "pays": "Birmanie",
    "paysIso": "MM",
    "continent": "Asie",
