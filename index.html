@@ -43,5 +43,28 @@
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
   <script src="flutter_bootstrap.js" async></script>
+
+  <!--
+    Enregistrement du service worker, fait à la main.
+
+    Le chargeur de Flutter ne s'en charge plus que si une inscription existe
+    DÉJÀ (son propre service worker est déprécié) : un nouvel utilisateur
+    n'en obtenait donc jamais, et l'app retéléchargeait ~7 Mo à chaque
+    lancement — et refusait de s'ouvrir sans réseau.
+
+    `826c377731fd` est remplacé par l'empreinte du build (voir
+    tool/finaliser_web.sh) : c'est elle qui purge le cache au déploiement.
+  -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker
+          .register('flutter_service_worker.js?v=826c377731fd')
+          .catch(function (e) {
+            console.warn('Service worker non enregistré :', e);
+          });
+      });
+    }
+  </script>
 </body>
 </html>
