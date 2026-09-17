@@ -426,8 +426,10 @@ class CompiledApp {
       _1299: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
       _1300: (x0,x1) => x0.createElement(x1),
       _1301: (x0,x1,x2) => x0.setAttribute(x1,x2),
+      _1307: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
       _1309: (x0,x1) => x0.canShare(x1),
       _1310: (x0,x1) => x0.share(x1),
+      _1312: x0 => ({text: x0}),
       _1314: (x0,x1) => ({files: x0,text: x1}),
       _1316: x0 => ({files: x0}),
       _1317: x0 => x0.click(),
@@ -1084,6 +1086,7 @@ class CompiledApp {
       _12508: x0 => x0.message,
       _13251: () => globalThis.console,
       _13290: (x0,x1) => x0.error(x1),
+      _13303: (x0,x1,x2) => globalThis.history.replaceState(x0,x1,x2),
 
     };
 
