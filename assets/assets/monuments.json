@@ -13024,6 +13024,21 @@
    "description": "Du granit rouge qui plonge dans le bleu."
   },
   {
+   "id": "WHS-344",
+   "nom": "Pont du Gard",
+   "pays": "France",
+   "paysIso": "FR",
+   "continent": "Europe",
+   "latitude": 43.9473,
+   "longitude": 4.5355,
+   "rayonValidationMetres": 400.0,
+   "niveau": "facile",
+   "categorie": "culturel",
+   "anneeInscription": 1985,
+   "imageCommons": "Pont du Gard BLS.jpg",
+   "description": "Aqueduc romain à trois étages d'arches, prouesse d'ingénierie antique enjambant le Gardon."
+  },
+  {
    "id": "WHS-601",
    "nom": "Abbaye Royale de Saint-Remi de Reims",
    "pays": "France",
@@ -13097,21 +13112,6 @@
    "anneeInscription": 1992,
    "imageCommons": "Bourges-Kathedrale-110-2008-gje.jpg",
    "description": "Cathédrale gothique à cinq nefs sans transept, vitraux du XIIIe siècle dominant la ville de Bourges."
-  },
-  {
-   "id": "WHS-344",
-   "nom": "Pont du Gard",
-   "pays": "France",
-   "paysIso": "FR",
-   "continent": "Europe",
-   "latitude": 43.9473,
-   "longitude": 4.5355,
-   "rayonValidationMetres": 400.0,
-   "niveau": "facile",
-   "categorie": "culturel",
-   "anneeInscription": 1985,
-   "imageCommons": "Pont du Gard BLS.jpg",
-   "description": "Aqueduc romain à trois étages d'arches, prouesse d'ingénierie antique enjambant le Gardon."
   },
   {
    "id": "WHS-404",
