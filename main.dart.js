@@ -107063,7 +107063,7 @@ p=A.aP(24)
 o=A.cY(B.p,1)
 n=i.x
 m=t.p
-p=A.b([B.cn,B.S5,B.f6,new A.a9O(i,h,j),B.cL,s,B.b0,r,B.cn,A.eA(A.b0(j,A.X("+"+A.kt(n)+" points \xb7 "+A.oZ(n),j,j,j,B.an_,j,j,j),B.m,j,j,new A.aS(q,j,o,p,j,j,B.v),j,j,j,B.vg,j,j,j),j,j)],m)
+p=A.b([B.cn,B.S4,B.f6,new A.a9O(i,h,j),B.cL,s,B.b0,r,B.cn,A.eA(A.b0(j,A.X("+"+A.kt(n)+" points \xb7 "+A.oZ(n),j,j,j,B.an_,j,j,j),B.m,j,j,new A.aS(q,j,o,p,j,j,B.v),j,j,j,B.vg,j,j,j),j,j)],m)
 if(k.w!=null){s=A.b([B.an.al(0.28),B.an.al(0.06)],t.c)
 r=A.aP(14)
 q=A.cY(B.an,1)
@@ -107128,7 +107128,7 @@ D(a){var s=null,r=A.mP("assets/images/"+this.c.a+".jpg",s,new A.aTN(),!1,B.c0,24
 return A.h1(A.aP(20),A.et(B.b2,A.b([new A.zl(B.vr,r,s),new A.dh(q,!1,r,s)],t.p),B.B,B.aT,s),B.ah)}}
 A.aTN.prototype={
 $3(a,b,c){var s=null
-return A.b0(s,B.S4,B.m,B.bM,s,s,s,240,s,s,s,s,s)},
+return A.b0(s,B.S3,B.m,B.bM,s,s,s,240,s,s,s,s,s)},
 $S:50}
 A.a7A.prototype={
 D(a){var s=null,r=A.aP(14),q=A.cY(B.p.al(0.6),1),p=this.c,o=t.p
@@ -109817,7 +109817,7 @@ f.push(B.av3)
 f.push(B.r_)
 f.push(new A.a4l(n.e,n.galS(),n.gavn(),c))
 if(n.e)B.b.L(f,A.b([B.cn,B.cz],d))
-B.b.L(f,A.b([B.f6,B.S3],d))
+B.b.L(f,A.b([B.f6,B.S5],d))
 return A.eE(!0,A.aY(A.b([B.W3,A.bI(A.py(A.aY(f,B.b7,B.h,B.l),B.vk,B.ag),1)],d),B.o,B.h,B.l),!1,B.a3,!0)},
 $S:737}
 A.aSg.prototype={
@@ -109928,7 +109928,7 @@ return A.b0(q,b,B.m,q,q,new A.aS(q,q,q,q,A.b([new A.bO(r*1.2,B.Q,B.p.al(0.1+r*0.
 $S:46}
 A.a7f.prototype={
 D(a){var s=null,r=A.avn(s,s,s,s,s,s,s,s,s,B.f,s,s,B.VV,s,s,new A.br(B.f.al(0.7),1,B.G,-1),s,s,s,s),q=A.aP(20),p=t.p
-return A.b0(s,A.aY(A.b([B.arS,B.eo,A.X("Tes voyages rejou\xe9s en 20 secondes, plein \xe9cran \u2014 pr\xeats \xe0 filmer.",s,s,s,A.cD(s,s,B.f.al(0.88),s,s,s,s,s,s,s,s,13,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s,s),B.cb,A.lm(B.Yc,B.ase,this.c,A.oy(B.f,B.dG,B.qZ,s,s,s,s)),B.b5,A.bo(A.b([A.bI(A.YN(B.XH,B.rn,this.d,r),1),B.bk,A.bI(A.YN(B.Yi,B.asm,this.e,r),1)],p),B.o,B.h,B.l,0,s)],p),B.b7,B.h,B.l),B.m,s,s,new A.aS(s,s,s,q,s,B.wo,B.v),s,s,s,B.kb,s,s,s)}}
+return A.b0(s,A.aY(A.b([B.arS,B.eo,A.X("Tes voyages rejou\xe9s en 20 secondes, plein \xe9cran \u2014 pr\xeats \xe0 filmer.",s,s,s,A.cD(s,s,B.f.al(0.88),s,s,s,s,s,s,s,s,13,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s,s),B.cb,A.lm(B.Yc,B.asd,this.c,A.oy(B.f,B.dG,B.qZ,s,s,s,s)),B.b5,A.bo(A.b([A.bI(A.YN(B.XH,B.rn,this.d,r),1),B.bk,A.bI(A.YN(B.Yi,B.asm,this.e,r),1)],p),B.o,B.h,B.l,0,s)],p),B.b7,B.h,B.l),B.m,s,s,new A.aS(s,s,s,q,s,B.wo,B.v),s,s,s,B.kb,s,s,s)}}
 A.N8.prototype={
 a7(){return new A.N9()}}
 A.N9.prototype={
@@ -109968,10 +109968,10 @@ $0(){return this.a.d=this.b},
 $S:0}
 A.a4l.prototype={
 D(a){var s,r=null,q=this.c,p=q?r:this.d
-p=A.b1b(B.XK,B.asf,p,A.LN(r,r,r,r,r,r,r,r,r,B.am,r,r,r,r,r,r,r,r,r,r))
+p=A.b1b(B.XK,B.ase,p,A.LN(r,r,r,r,r,r,r,r,r,B.am,r,r,r,r,r,r,r,r,r,r))
 q=q?r:this.e
 s=t.p
-return A.aY(A.b([B.ar5,B.bp,A.a22(A.b([p,A.b1b(B.XI,B.arl,q,A.LN(r,r,r,r,r,r,r,r,r,B.am,r,r,r,r,r,r,r,r,r,r))],s),4,8),B.asb],s),B.I,B.h,B.l)}}
+return A.aY(A.b([B.ar5,B.bp,A.a22(A.b([p,A.b1b(B.XI,B.arl,q,A.LN(r,r,r,r,r,r,r,r,r,B.am,r,r,r,r,r,r,r,r,r,r))],s),4,8),B.asa],s),B.I,B.h,B.l)}}
 A.S3.prototype={
 bk(){this.bT()
 this.bN()
@@ -111201,7 +111201,7 @@ o=i?"\xc0 port\xe9e \u2014 "+o:A.h3(j.d)+"  "+o
 n=i?B.p:B.am
 k=A.b([q,B.bb,A.bI(A.aY(A.b([k,B.r0,A.X(o,m,m,m,A.cD(m,m,n,m,m,m,m,m,m,m,m,12.5,m,m,i?B.D:B.aD,m,m,!0,m,m,m,m,m,m,m,m),m,m,m)],p),B.I,B.h,B.l),1),B.ca],p)
 q=this.e
-if(i)k.push(A.ox(B.asa,q,A.oy(m,m,m,B.Vn,m,m,m)))
+if(i)k.push(A.ox(B.as9,q,A.oy(m,m,m,B.Vn,m,m,m)))
 else k.push(A.oJ(m,m,B.Yo,m,m,q,m,m,"Tenter le scan",m))
 return A.b0(m,A.bo(k,B.o,B.h,B.l,0,m),B.m,m,m,new A.aS(l,m,r,s,m,m,B.v),m,m,B.k8,B.ka,m,m,m)}}
 A.aQO.prototype={
@@ -111252,7 +111252,7 @@ o=A.bT(a,B.bs)
 r=o==null?p:o.gcs()
 o=Math.max(56,(r==null?B.Y:r).aJ(0,11)*1.2*2+14)
 q=t.p
-return A.aY(A.b([new A.aN(B.V0,A.bo(A.b([B.w9,B.dx,B.asi,B.dS,A.X(""+s.length,p,p,p,B.mD,p,p,p)],q),B.o,B.h,B.l,0,p),p),A.cz(A.Is(new A.aI7(s),s.length,p,B.aw,new A.aI8()),62+o,p)],q),B.I,B.h,B.l)},
+return A.aY(A.b([new A.aN(B.V0,A.bo(A.b([B.w9,B.dx,B.ash,B.dS,A.X(""+s.length,p,p,p,B.mD,p,p,p)],q),B.o,B.h,B.l,0,p),p),A.cz(A.Is(new A.aI7(s),s.length,p,B.aw,new A.aI8()),62+o,p)],q),B.I,B.h,B.l)},
 $S:109}
 A.aI6.prototype={
 $1(a){return a.gj6()&&!a.ghy()},
@@ -111382,7 +111382,7 @@ r=o.d
 q=A.b06(B.Yg,B.are,r?p:o.gagN())
 n.push(A.a22(A.b([q,A.kH(B.arn,r?p:o.gab8(),p)],s),4,8))
 o=o.d?p:new A.aIB(this,a)
-n.push(A.kH(B.as9,o,A.LN(p,p,p,p,p,p,p,p,p,B.cW,p,p,p,p,p,p,p,p,p,p)))
+n.push(A.kH(B.as8,o,A.LN(p,p,p,p,p,p,p,p,p,B.cW,p,p,p,p,p,p,p,p,p,p)))
 return A.aY(n,B.I,B.h,B.l)},
 auB(a){var s,r=new A.cc(Date.now(),0,!1).eG(a).a,q=B.e.bj(r,6e7)
 if(q<1)return"\xe0 l'instant"
@@ -111628,7 +111628,7 @@ case 4:j.mN(b)
 case 1:return A.o(q,r)}})
 return A.p($async$uE,r)},
 D(a){var s=this,r=null
-return new A.aN(new A.a3(24,0,24,24+A.bL(a,B.hA,t.l).w.f.d),A.aY(A.b([B.ash,B.bp,B.arH,B.dR,A.to(!1,!0,s.d,A.X8(r,r,r,r,r,r,"",r,!0,r,r,r,r,r,s.e,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"SON CODE",r,r,r,r,r,r,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,20,!1,r,new A.aLZ(s),B.NT,B.NM,B.jb),B.cb,A.ox(B.asn,s.gayI(),A.oy(r,r,B.Ni,r,r,r,r))],t.p),B.b7,B.h,B.a7),r)}}
+return new A.aN(new A.a3(24,0,24,24+A.bL(a,B.hA,t.l).w.f.d),A.aY(A.b([B.asg,B.bp,B.arH,B.dR,A.to(!1,!0,s.d,A.X8(r,r,r,r,r,r,"",r,!0,r,r,r,r,r,s.e,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"SON CODE",r,r,r,r,r,r,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,20,!1,r,new A.aLZ(s),B.NT,B.NM,B.jb),B.cb,A.ox(B.asn,s.gayI(),A.oy(r,r,B.Ni,r,r,r,r))],t.p),B.b7,B.h,B.a7),r)}}
 A.aLY.prototype={
 $0(){return this.a.e="Un code fait au moins 3 caract\xe8res."},
 $S:0}
@@ -120916,20 +120916,20 @@ B.O9=new A.v(!0,B.am,null,null,null,null,14,null,null,null,null,null,null,null,n
 B.aQ=new A.pH(2,"center")
 B.as7=new A.aG("Tes souvenirs viennent d'\xe9crire ta l\xe9gende.",null,B.O9,B.aQ,null,null,null,null,null,null,null)
 B.S1=new A.i9(B.E,null,null,B.as7,null)
-B.aA=new A.O(0.6196078431372549,0.09019607843137255,0.14901960784313725,0.1803921568627451,B.j)
-B.mF=new A.v(!0,B.aA,null,null,null,null,11.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.as8=new A.aG("Lore \xb7 version 2026-10-06.1912",null,B.mF,null,null,null,null,null,null,null,null)
-B.S3=new A.i9(B.E,null,null,B.as8,null)
 B.axo=new A.aFF(0,"material")
 B.Sg=new A.mu(null,null,null,null,null,null,null,null)
 B.cz=new A.i9(B.E,null,null,B.Sg,null)
 B.X3=new A.aX(58213,"MaterialIcons",!1)
 B.p=new A.O(1,1,0.35294117647058826,0.23529411764705882,B.j)
 B.Y3=new A.bF(B.X3,64,B.p,null,null)
-B.S4=new A.i9(B.E,null,null,B.Y3,null)
+B.S3=new A.i9(B.E,null,null,B.Y3,null)
 B.apG=new A.v(!0,B.p,null,"Bricolage",null,null,28,B.D,null,-0.3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.arZ=new A.aG("Lieu conquis !",null,B.apG,B.aQ,null,null,null,null,null,null,null)
-B.S5=new A.i9(B.E,null,null,B.arZ,null)
+B.S4=new A.i9(B.E,null,null,B.arZ,null)
+B.aA=new A.O(0.6196078431372549,0.09019607843137255,0.14901960784313725,0.1803921568627451,B.j)
+B.mF=new A.v(!0,B.aA,null,null,null,null,11.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.asi=new A.aG("Lore \xb7 version 2026-10-06.1914",null,B.mF,null,null,null,null,null,null,null,null)
+B.S5=new A.i9(B.E,null,null,B.asi,null)
 B.ab=new A.O(0.7019607843137254,1,1,1,B.j)
 B.Sc=new A.mu(null,null,null,B.ab,null,null,null,null)
 B.S7=new A.i9(B.E,null,null,B.Sc,null)
@@ -124470,8 +124470,8 @@ B.afP=new A.YP(1,"end")
 B.afQ=new A.YQ(0,"nearestOverlay")
 B.afR=new A.YQ(1,"rootOverlay")
 B.Vb=new A.a3(12,0,12,0)
-B.asc=new A.aG("Suivant",null,null,null,null,null,null,null,null,null,null)
-B.afS=new A.aN(B.Vb,B.asc,null)
+B.asb=new A.aG("Suivant",null,null,null,null,null,null,null,null,null,null)
+B.afS=new A.aN(B.Vb,B.asb,null)
 B.VS=new A.a3(6,0,0,0)
 B.Yb=new A.bF(B.ic,16,B.p,null,null)
 B.Iu=new A.aN(B.VS,B.Yb,null)
@@ -124488,10 +124488,10 @@ B.VQ=new A.a3(40,40,40,40)
 B.XX=new A.bF(B.p7,52,B.aA,null,null)
 B.cn=new A.ct(null,16,null,null)
 B.O0=new A.v(!0,B.M,null,"Bricolage",null,null,18,B.D,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.asd=new A.aG("Ta l\xe9gende commence ici",null,B.O0,null,null,null,null,null,null,null,null)
+B.asc=new A.aG("Ta l\xe9gende commence ici",null,B.O0,null,null,null,null,null,null,null,null)
 B.anE=new A.v(!0,B.am,null,null,null,null,13.5,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ar2=new A.aG("Chaque lieu conquis et chaque aventure v\xe9cue \xe9criront une ligne de ton histoire \u2014 ici, dans l'ordre o\xf9 tu les as v\xe9cus.",null,B.anE,B.aQ,null,null,null,null,null,null,null)
-B.a1J=s([B.XX,B.cn,B.asd,B.bp,B.ar2],t.p)
+B.a1J=s([B.XX,B.cn,B.asc,B.bp,B.ar2],t.p)
 B.Tu=new A.mx(B.ag,B.h,B.a7,B.o,null,B.bW,null,0,B.a1J,null)
 B.afW=new A.aN(B.VQ,B.Tu,null)
 B.V_=new A.a3(0,1,0,0)
@@ -124938,8 +124938,8 @@ B.as0=new A.aG("Partage impossible pour le moment.",null,null,null,null,null,nul
 B.akD=new A.lS(B.as0,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
 B.as6=new A.aG("Photo trop lourde \u2014 essaie une autre image.",null,null,null,null,null,null,null,null,null,null)
 B.akE=new A.lS(B.as6,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
-B.asg=new A.aG("Impossible d'ouvrir la galerie. Tu peux commencer sur place et importer tes photos plus tard.",null,null,null,null,null,null,null,null,null,null)
-B.akF=new A.lS(B.asg,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
+B.asf=new A.aG("Impossible d'ouvrir la galerie. Tu peux commencer sur place et importer tes photos plus tard.",null,null,null,null,null,null,null,null,null,null)
+B.akF=new A.lS(B.asf,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
 B.asl=new A.aG("Le partage n'a pas pu s'ouvrir. R\xe9essaie.",null,null,null,null,null,null,null,null,null,null)
 B.akG=new A.lS(B.asl,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
 B.Np=new A.Lc(0,"permissive")
@@ -125467,13 +125467,13 @@ B.aqw=new A.v(!0,B.f,null,null,null,null,11,B.D,null,1.4,null,null,null,null,nul
 B.as1=new A.aG("D\xc9COUVERTE DU JOUR",null,B.aqw,null,null,null,null,null,null,null,null)
 B.as4=new A.aG("Changer la photo",null,null,null,null,null,null,null,null,null,null)
 B.as5=new A.aG("SUCC\xc8S",null,B.eq,null,null,null,null,null,null,null,null)
-B.as9=new A.aG("Supprimer mon compte",null,null,null,null,null,null,null,null,null,null)
-B.asa=new A.aG("Conqu\xe9rir",null,B.rh,null,null,null,null,null,null,null,null)
-B.asb=new A.aG("Ta progression t'appartient : un fichier local, aucun compte. La restauration fusionne sans rien effacer.",null,B.mF,null,null,null,null,null,null,null,null)
-B.ase=new A.aG("Voir mon film",null,null,null,null,null,null,null,null,null,null)
-B.asf=new A.aG("Exporter",null,null,null,null,null,null,null,null,null,null)
-B.ash=new A.aG("Tu viens de la part de quelqu'un ?",null,B.rm,null,null,null,null,null,null,null,null)
-B.asi=new A.aG("TES PROCHAINES CIBLES",null,B.eq,null,null,null,null,null,null,null,null)
+B.as8=new A.aG("Supprimer mon compte",null,null,null,null,null,null,null,null,null,null)
+B.as9=new A.aG("Conqu\xe9rir",null,B.rh,null,null,null,null,null,null,null,null)
+B.asa=new A.aG("Ta progression t'appartient : un fichier local, aucun compte. La restauration fusionne sans rien effacer.",null,B.mF,null,null,null,null,null,null,null,null)
+B.asd=new A.aG("Voir mon film",null,null,null,null,null,null,null,null,null,null)
+B.ase=new A.aG("Exporter",null,null,null,null,null,null,null,null,null,null)
+B.asg=new A.aG("Tu viens de la part de quelqu'un ?",null,B.rm,null,null,null,null,null,null,null,null)
+B.ash=new A.aG("TES PROCHAINES CIBLES",null,B.eq,null,null,null,null,null,null,null,null)
 B.asj=new A.aG("Voir la fiche",null,null,null,null,null,null,null,null,null,null)
 B.ask=new A.aG("Conqu\xe9rir",null,null,null,null,null,null,null,null,null,null)
 B.asm=new A.aG("D\xe9fier un ami",null,null,null,null,null,null,null,null,null,null)
