@@ -106922,7 +106922,7 @@ for(r=k.e,q=r.length,n=0;n<r.length;r.length===q||(0,A.A)(r),++n){m=r[n]
 p=new A.b4(14,14)
 l=new A.br(B.p,1,B.G,-1)
 s.push(new A.pf(A.b0(j,A.bo(A.b([A.dV(m.d,B.p,j,28),B.bb,new A.kk(1,B.df,A.X("Succ\xe8s d\xe9bloqu\xe9 \u2014 "+m.b,j,j,j,B.ams,j,j,j),j)],h),B.o,B.h,B.l,0,j),B.m,j,j,new A.aS(B.c3,j,new A.ec(l,l,l,l),new A.cX(p,p,p,p),j,j,B.v),j,j,B.k8,B.e6,j,j,j),j))}B.b.L(g,s)}g.push(B.cL)
-g.push(A.lm(B.pf,B.arR,k.r?j:k.gai6(),j))
+g.push(A.lm(B.pf,B.arQ,k.r?j:k.gai6(),j))
 g.push(A.kH(B.Ob,new A.aGP(a),j))
 g=A.eE(!0,A.py(A.aY(g,B.b7,B.h,B.l),B.kc,B.ag),!1,B.a3,!0)
 s=k.d
@@ -107063,7 +107063,7 @@ p=A.aP(24)
 o=A.cY(B.p,1)
 n=i.x
 m=t.p
-p=A.b([B.cn,B.S4,B.f6,new A.a9O(i,h,j),B.cL,s,B.b0,r,B.cn,A.eA(A.b0(j,A.X("+"+A.kt(n)+" points \xb7 "+A.oZ(n),j,j,j,B.an_,j,j,j),B.m,j,j,new A.aS(q,j,o,p,j,j,B.v),j,j,j,B.vg,j,j,j),j,j)],m)
+p=A.b([B.cn,B.S5,B.f6,new A.a9O(i,h,j),B.cL,s,B.b0,r,B.cn,A.eA(A.b0(j,A.X("+"+A.kt(n)+" points \xb7 "+A.oZ(n),j,j,j,B.an_,j,j,j),B.m,j,j,new A.aS(q,j,o,p,j,j,B.v),j,j,j,B.vg,j,j,j),j,j)],m)
 if(k.w!=null){s=A.b([B.an.al(0.28),B.an.al(0.06)],t.c)
 r=A.aP(14)
 q=A.cY(B.an,1)
@@ -107077,7 +107077,7 @@ for(r=k.e,q=r.length,l=0;l<r.length;r.length===q||(0,A.A)(r),++l)s.push(new A.pf
 B.b.L(p,s)}p.push(B.r_)
 p.push(A.lm(B.pf,B.art,k.r?j:k.gawB(),j))
 p.push(B.b5)
-p.push(A.b5x(B.arS,new A.aI_(a,i)))
+p.push(A.b5x(B.arR,new A.aI_(a,i)))
 p.push(A.kH(B.Ob,new A.aI0(a),j))
 return A.hw(j,j,A.et(B.b2,A.b([A.eE(!0,A.py(A.aY(p,B.b7,B.h,B.l),B.kc,B.ag),!1,B.a3,!0),A.h5(A.dF(h,new A.aI1(k,i),j),!0,j)],m),B.B,B.aT,j),j,j)}}
 A.aHT.prototype={
@@ -107128,7 +107128,7 @@ D(a){var s=null,r=A.mP("assets/images/"+this.c.a+".jpg",s,new A.aTN(),!1,B.c0,24
 return A.h1(A.aP(20),A.et(B.b2,A.b([new A.zl(B.vr,r,s),new A.dh(q,!1,r,s)],t.p),B.B,B.aT,s),B.ah)}}
 A.aTN.prototype={
 $3(a,b,c){var s=null
-return A.b0(s,B.S3,B.m,B.bM,s,s,s,240,s,s,s,s,s)},
+return A.b0(s,B.S4,B.m,B.bM,s,s,s,240,s,s,s,s,s)},
 $S:50}
 A.a7A.prototype={
 D(a){var s=null,r=A.aP(14),q=A.cY(B.p.al(0.6),1),p=this.c,o=t.p
@@ -107534,7 +107534,7 @@ e=A.oZ(f)
 d=A.kt(f)
 h=h?c.KK(f):B.am
 l.push(new A.kk(1,B.df,new A.aN(B.UU,A.kl(b,A.b0(B.E,A.X(e+"\n"+d+" pts",b,b,b,new A.v(!0,h,b,b,b,b,11.5,B.a5,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b),B.aQ,b,b),B.m,b,b,new A.aS(k,b,new A.ec(j,j,j,j),new A.cX(i,i,i,i),b,b,B.v),b,b,b,B.UV,b,b,b),B.au,!1,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,new A.aJg(c,f),b,b,b,b,b,b,!1,B.cu),b),b))}l=A.bo(l,B.o,B.h,B.l,0,b)
-return new A.aN(new A.a3(20,8,20,20+a.f.d),A.py(A.aY(A.b([a0,B.aqU,B.eo,B.aqV,B.cn,r,B.cn,a1,B.d4,B.arg,B.b0,q,B.cb,B.aqT,B.b0,o,B.cb,B.ar_,B.b0,l,B.dR,A.cz(A.ox(B.arN,B.c.cv(s.a.a).length>=3?c.gakh():b,b),b,1/0)],p),B.I,B.h,B.a7),b,B.ag),b)},
+return new A.aN(new A.a3(20,8,20,20+a.f.d),A.py(A.aY(A.b([a0,B.aqU,B.eo,B.aqV,B.cn,r,B.cn,a1,B.d4,B.arg,B.b0,q,B.cb,B.aqT,B.b0,o,B.cb,B.ar_,B.b0,l,B.dR,A.cz(A.ox(B.arM,B.c.cv(s.a.a).length>=3?c.gakh():b,b),b,1/0)],p),B.I,B.h,B.a7),b,B.ag),b)},
 KK(a){var s
 switch(a.a){case 0:s=B.bL
 break
@@ -107719,7 +107719,7 @@ $1(a){return B.avM},
 $S:697}
 A.aK0.prototype={
 $1(a){var s=null,r=A.X("\xab "+this.b.a.c+" \xbb sera retir\xe9e de tes aventures.",s,s,s,s,s,s,s),q=this.a
-return A.b46(A.b([A.kH(B.ro,new A.aJZ(q),s),A.ox(B.ard,new A.aK_(q),s)],t.p),r,B.arP)},
+return A.b46(A.b([A.kH(B.ro,new A.aJZ(q),s),A.ox(B.ard,new A.aK_(q),s)],t.p),r,B.arO)},
 $S:698}
 A.aJZ.prototype={
 $0(){var s=this.a.c
@@ -107857,7 +107857,7 @@ return A.Cl(b,1+0.045*(0.5+0.5*Math.sin((s+this.b)*2*3.141592653589793)))},
 $S:84}
 A.Dy.prototype={
 D(a){var s=null
-return A.eE(!0,A.aY(A.b([A.b0r(B.XZ,new A.aQh(a),s,B.as5,s),A.b0r(B.Yf,new A.aQi(a),s,B.ar8,s)],t.p),B.o,B.h,B.a7),!1,B.a3,!0)}}
+return A.eE(!0,A.aY(A.b([A.b0r(B.XZ,new A.aQh(a),s,B.as4,s),A.b0r(B.Yf,new A.aQi(a),s,B.ar8,s)],t.p),B.o,B.h,B.a7),!1,B.a3,!0)}}
 A.aQh.prototype={
 $0(){A.c3(this.a,!1).mN("changer")
 return null},
@@ -108004,7 +108004,7 @@ break
 case 6:case 1:return A.o(q,r)
 case 2:return A.n(o.at(-1),r)}})
 return A.p($async$xF,r)},
-D(a){var s=null,r=A.bp(a,!1,t.Zd),q=this.e,p=q==null?s:new A.zX(B.Yz,new A.aKx(this,r,q),B.arM,s)
+D(a){var s=null,r=A.bp(a,!1,t.Zd),q=this.e,p=q==null?s:new A.zX(B.Yz,new A.aKx(this,r,q),B.arL,s)
 return A.hw(s,s,A.eE(!0,new A.e3(new A.aKy(this,q),s),!1,B.a3,!0),s,p)}}
 A.aKA.prototype={
 $1(a){var s=this.a
@@ -108208,7 +108208,7 @@ else{r=t.p
 q=A.b([],r)
 p=l==null
 if(!p)B.b.L(q,A.b([new A.acA(m,l,k,n),B.cb,new A.a3y(m,l,k,n),B.cb,new A.abb(m.e>l.e,new A.aLH(a),new A.aLI(a),n),B.my],r))
-else B.b.L(q,A.b([B.arK,B.dR],r))
+else B.b.L(q,A.b([B.arJ,B.dR],r))
 r=o.e
 q.push(new A.a7e(A.Us(A.qI(r==null?B.hH:r)),o.gajY(),o.gakw(),n))
 q.push(B.cb)
@@ -108280,10 +108280,10 @@ D(a){var s=null,r=this.c,q=r?this.d:this.e,p=A.oy(s,s,B.Ni,s,s,s,s),o=A.dV(r?B.i
 return A.lm(o,A.X(r?"Envoyer ma carte":"Partir \xe0 la conqu\xeate",s,s,s,s,s,s,s),q,p)}}
 A.a7e.prototype={
 D(a){var s=null,r=A.aP(20),q=A.cY(B.aL,1),p=t.p
-return A.b0(s,A.aY(A.b([B.ar3,B.bp,A.mJ(B.cQ,A.b7S(this.c,1,B.alI),B.cq),B.eo,B.arc,B.cb,A.bo(A.b([A.bI(A.YN(B.Ys,B.arB,this.d,A.avn(s,s,s,s,s,s,s,s,s,s,s,s,B.on,s,s,s,s,s,s,s)),5),B.bk,A.bI(A.lm(B.Y6,B.ar6,this.e,A.oy(s,s,s,B.on,s,s,s)),7)],p),B.o,B.h,B.l,0,s)],p),B.b7,B.h,B.l),B.m,s,s,new A.aS(B.f,s,q,r,B.eb,s,B.v),s,s,s,B.kb,s,s,s)}}
+return A.b0(s,A.aY(A.b([B.ar3,B.bp,A.mJ(B.cQ,A.b7S(this.c,1,B.alI),B.cq),B.eo,B.arc,B.cb,A.bo(A.b([A.bI(A.YN(B.Ys,B.arA,this.d,A.avn(s,s,s,s,s,s,s,s,s,s,s,s,B.on,s,s,s,s,s,s,s)),5),B.bk,A.bI(A.lm(B.Y6,B.ar6,this.e,A.oy(s,s,s,B.on,s,s,s)),7)],p),B.o,B.h,B.l,0,s)],p),B.b7,B.h,B.l),B.m,s,s,new A.aS(B.f,s,q,r,B.eb,s,B.v),s,s,s,B.kb,s,s,s)}}
 A.aa2.prototype={
 D(a){var s=this,r=null,q=A.aP(20),p=A.cY(B.aL,1)
-return A.b0(r,A.aY(A.b([A.X(s.f,r,r,r,B.cx,r,r,r),B.b5,A.to(!1,!1,s.c,A.X8(r,r,r,r,r,r,r,r,!0,r,r,r,3,r,s.d,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"XXXX-XXXX-XXXX",r,r,r,r,r,!0,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,!1,r,new A.aUc(s),B.NT,B.NM,B.jb),B.d4,A.b5x(B.arH,s.e)],t.p),B.b7,B.h,B.l),B.m,r,r,new A.aS(B.f,r,p,q,B.eb,r,B.v),r,r,r,B.kb,r,r,r)}}
+return A.b0(r,A.aY(A.b([A.X(s.f,r,r,r,B.cx,r,r,r),B.b5,A.to(!1,!1,s.c,A.X8(r,r,r,r,r,r,r,r,!0,r,r,r,3,r,s.d,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"XXXX-XXXX-XXXX",r,r,r,r,r,!0,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,!1,r,new A.aUc(s),B.NT,B.NM,B.jb),B.d4,A.b5x(B.arG,s.e)],t.p),B.b7,B.h,B.l),B.m,r,r,new A.aS(B.f,r,p,q,B.eb,r,B.v),r,r,r,B.kb,r,r,r)}}
 A.aUc.prototype={
 $1(a){return this.a.e.$0()},
 $S:26}
@@ -109405,7 +109405,7 @@ l(){this.d.l()
 this.gMB().l()
 this.agl()},
 D(a){var s,r,q,p,o=this,n=null,m=o.e,l=A.bL(a,B.dY,t.l).w.a.b<640,k=A.cz(n,l?12:32,n),j=l?44:64,i=A.cz(n,l?8:14,n),h=t.p
-i=A.b([k,new A.w6(j,B.p,B.dG,n),i,A.X("Lore",n,n,n,A.cD(n,n,B.M,n,n,n,n,n,"Bricolage",n,n,l?24:30,n,n,B.D,n,n,!0,n,-0.5,n,n,n,n,n,n),n,n,n),B.eo,B.arC],h)
+i=A.b([k,new A.w6(j,B.p,B.dG,n),i,A.X("Lore",n,n,n,A.cD(n,n,B.M,n,n,n,n,n,"Bricolage",n,n,l?24:30,n,n,B.D,n,n,!0,n,-0.5,n,n,n,n,n,n),n,n,n),B.eo,B.arB],h)
 s=$.XG
 if(s!=null)i.push(new A.aN(B.VH,new A.a2A(s,n),n))
 i.push(B.afZ)
@@ -109417,7 +109417,7 @@ q=j?22:8
 j=j?B.p:B.aA
 p=new A.b4(4,4)
 k.push(A.b_r(n,n,new A.aS(j,n,n,new A.cX(p,p,p,p),n,n,B.v),B.N,8,B.kd,n,q))}i.push(A.bo(k,B.o,B.fY,B.l,0,n))
-i.push(new A.aN(B.kc,m===2?A.aY(A.b([A.cz(A.lm(B.Y1,B.afV,o.gaqU(),n),n,1/0),A.kH(B.arZ,new A.aR6(o),n)],h),B.o,B.h,B.l):A.bo(A.b([A.kH(B.ars,new A.aR7(o),n),B.dS,A.ox(B.afS,new A.aR8(o),n)],h),B.o,B.h,B.l,0,n),n))
+i.push(new A.aN(B.kc,m===2?A.aY(A.b([A.cz(A.lm(B.Y1,B.afV,o.gaqU(),n),n,1/0),A.kH(B.arY,new A.aR6(o),n)],h),B.o,B.h,B.l):A.bo(A.b([A.kH(B.ars,new A.aR7(o),n),B.dS,A.ox(B.afS,new A.aR8(o),n)],h),B.o,B.h,B.l,0,n),n))
 k=A.eE(!0,A.aY(i,B.o,B.h,B.l),!1,B.a3,!0)
 m=o.r
 m=A.b([k,A.hS(n,A.eE(!0,m.length===0?A.kH(B.ary,o.gavB(),n):new A.aN(B.UY,A.bo(A.b([B.XU,B.hl,A.X("Code "+m,n,n,n,B.O4,n,n,n)],h),B.o,B.h,B.a7,0,n),n),!1,B.a3,!0),n,n,n,8,0,n)],h)
@@ -109817,7 +109817,7 @@ f.push(B.av3)
 f.push(B.r_)
 f.push(new A.a4l(n.e,n.galS(),n.gavn(),c))
 if(n.e)B.b.L(f,A.b([B.cn,B.cz],d))
-B.b.L(f,A.b([B.f6,B.S5],d))
+B.b.L(f,A.b([B.f6,B.S3],d))
 return A.eE(!0,A.aY(A.b([B.W3,A.bI(A.py(A.aY(f,B.b7,B.h,B.l),B.vk,B.ag),1)],d),B.o,B.h,B.l),!1,B.a3,!0)},
 $S:737}
 A.aSg.prototype={
@@ -109899,7 +109899,7 @@ A.a2T.prototype={
 D(a){var s,r=null,q=A.agL(A.agx(this.c)),p=A.V($.aeF(),t.ci)
 B.b.d5(p,new A.aGr(q))
 s=t.p
-return A.aY(A.b([A.bo(A.b([B.as6,B.dS,A.X(""+q.a+" / 12",r,r,r,B.O4,r,r,r)],s),B.o,B.h,B.l,0,r),B.d4,A.cz(A.Is(new A.aGs(this,p,q),p.length,r,B.aw,new A.aGt()),108,r)],s),B.I,B.h,B.l)}}
+return A.aY(A.b([A.bo(A.b([B.as5,B.dS,A.X(""+q.a+" / 12",r,r,r,B.O4,r,r,r)],s),B.o,B.h,B.l,0,r),B.d4,A.cz(A.Is(new A.aGs(this,p,q),p.length,r,B.aw,new A.aGt()),108,r)],s),B.I,B.h,B.l)}}
 A.aGr.prototype={
 $2(a,b){var s=this.a,r=s.u(0,a.a)?0:1
 return B.e.aM(r,s.u(0,b.a)?0:1)},
@@ -109928,7 +109928,7 @@ return A.b0(q,b,B.m,q,q,new A.aS(q,q,q,q,A.b([new A.bO(r*1.2,B.Q,B.p.al(0.1+r*0.
 $S:46}
 A.a7f.prototype={
 D(a){var s=null,r=A.avn(s,s,s,s,s,s,s,s,s,B.f,s,s,B.VV,s,s,new A.br(B.f.al(0.7),1,B.G,-1),s,s,s,s),q=A.aP(20),p=t.p
-return A.b0(s,A.aY(A.b([B.arT,B.eo,A.X("Tes voyages rejou\xe9s en 20 secondes, plein \xe9cran \u2014 pr\xeats \xe0 filmer.",s,s,s,A.cD(s,s,B.f.al(0.88),s,s,s,s,s,s,s,s,13,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s,s),B.cb,A.lm(B.Yc,B.ase,this.c,A.oy(B.f,B.dG,B.qZ,s,s,s,s)),B.b5,A.bo(A.b([A.bI(A.YN(B.XH,B.rn,this.d,r),1),B.bk,A.bI(A.YN(B.Yi,B.asm,this.e,r),1)],p),B.o,B.h,B.l,0,s)],p),B.b7,B.h,B.l),B.m,s,s,new A.aS(s,s,s,q,s,B.wo,B.v),s,s,s,B.kb,s,s,s)}}
+return A.b0(s,A.aY(A.b([B.arS,B.eo,A.X("Tes voyages rejou\xe9s en 20 secondes, plein \xe9cran \u2014 pr\xeats \xe0 filmer.",s,s,s,A.cD(s,s,B.f.al(0.88),s,s,s,s,s,s,s,s,13,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s,s),B.cb,A.lm(B.Yc,B.ase,this.c,A.oy(B.f,B.dG,B.qZ,s,s,s,s)),B.b5,A.bo(A.b([A.bI(A.YN(B.XH,B.rn,this.d,r),1),B.bk,A.bI(A.YN(B.Yi,B.asm,this.e,r),1)],p),B.o,B.h,B.l,0,s)],p),B.b7,B.h,B.l),B.m,s,s,new A.aS(s,s,s,q,s,B.wo,B.v),s,s,s,B.kb,s,s,s)}}
 A.N8.prototype={
 a7(){return new A.N9()}}
 A.N9.prototype={
@@ -110247,7 +110247,7 @@ else{n=q.gj6()?"Retirer de mes envies":"Ajouter \xe0 mes envies"
 m=q.gj6()?B.c3:B.f
 l=q.gj6()?B.p:B.aL
 k=q.gj6()?B.kx:B.vZ
-n=A.eE(!0,new A.aN(B.VC,A.bo(A.b([A.bW(!0,f,A.eg(!1,B.N,!0,f,A.fP(!1,f,!0,new A.aN(B.ve,A.dV(k,q.gj6()?B.p:B.am,f,22),f),B.hO,!0,f,f,f,f,f,f,f,f,f,new A.aQA(q,a,p),f,f,f,f),B.m,m,0,f,f,new A.eI(0,new A.br(l,1,B.G,-1)),f,f,B.aW),!1,f,f,!1,f,!1,f,f,f,f,f,f,f,f,n,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,B.F,f),B.bb,A.bI(A.lm(B.wa,B.arX,new A.aQB(a,p),f),1)],t.p),B.o,B.h,B.l,0,f),f),!1,B.a3,!0)}m=s.gMo()
+n=A.eE(!0,new A.aN(B.VC,A.bo(A.b([A.bW(!0,f,A.eg(!1,B.N,!0,f,A.fP(!1,f,!0,new A.aN(B.ve,A.dV(k,q.gj6()?B.p:B.am,f,22),f),B.hO,!0,f,f,f,f,f,f,f,f,f,new A.aQA(q,a,p),f,f,f,f),B.m,m,0,f,f,new A.eI(0,new A.br(l,1,B.G,-1)),f,f,B.aW),!1,f,f,!1,f,!1,f,f,f,f,f,f,f,f,n,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,B.F,f),B.bb,A.bI(A.lm(B.wa,B.arW,new A.aQB(a,p),f),1)],t.p),B.o,B.h,B.l,0,f),f),!1,B.a3,!0)}m=s.gMo()
 s=s.gZV()
 l=p.x
 k=t.p
@@ -110613,7 +110613,7 @@ $1(a){return a.gj6()&&!a.ghy()},
 $S:13}
 A.a5c.prototype={
 D(a){var s=null,r=this.c,q=t.p
-return A.aY(A.b([new A.aN(B.vi,A.bo(A.b([B.w9,B.dx,B.arU,B.dS,A.X(""+r.length,s,s,s,B.mD,s,s,s)],q),B.o,B.h,B.l,0,s),s),A.cz(A.Is(new A.aLO(this),r.length,B.i4,B.aw,new A.aLP()),132,s)],q),B.I,B.h,B.l)}}
+return A.aY(A.b([new A.aN(B.vi,A.bo(A.b([B.w9,B.dx,B.arT,B.dS,A.X(""+r.length,s,s,s,B.mD,s,s,s)],q),B.o,B.h,B.l,0,s),s),A.cz(A.Is(new A.aLO(this),r.length,B.i4,B.aw,new A.aLP()),132,s)],q),B.I,B.h,B.l)}}
 A.aLP.prototype={
 $2(a,b){return B.bk},
 $S:39}
@@ -110648,7 +110648,7 @@ A.aIH.prototype={
 $3(a,b,c){return A.Ip(5,b)},
 $S:73}
 A.a4k.prototype={
-D(a){var s=null,r=this.c,q=r.a,p=A.aP(18),o=A.B3(0,A.dF(this.d,new A.aKC(this),A.mP("assets/images/"+q.a+".jpg",s,new A.aKD(),!1,B.c0,s,s))),n=A.B3(0,A.lh(s,new A.aS(s,s,s,s,s,new A.fS(B.cQ,B.e_,B.aI,A.b([B.u.al(0.85),B.u.al(0.15)],t.c),s,s),B.v),B.cA)),m=t.p,l=A.aY(A.b([B.as2,B.b0,A.X(q.b,2,B.J,s,B.aq2,s,s,s),B.eo,A.X(A.h3(q.d)+"  "+q.c,s,s,s,B.ao3,s,s,s)],m),B.I,B.fY,B.l),k=r.gj6()?B.kx:B.vZ
+D(a){var s=null,r=this.c,q=r.a,p=A.aP(18),o=A.B3(0,A.dF(this.d,new A.aKC(this),A.mP("assets/images/"+q.a+".jpg",s,new A.aKD(),!1,B.c0,s,s))),n=A.B3(0,A.lh(s,new A.aS(s,s,s,s,s,new A.fS(B.cQ,B.e_,B.aI,A.b([B.u.al(0.85),B.u.al(0.15)],t.c),s,s),B.v),B.cA)),m=t.p,l=A.aY(A.b([B.as1,B.b0,A.X(q.b,2,B.J,s,B.aq2,s,s,s),B.eo,A.X(A.h3(q.d)+"  "+q.c,s,s,s,B.ao3,s,s,s)],m),B.I,B.fY,B.l),k=r.gj6()?B.kx:B.vZ
 k=A.dV(k,r.gj6()?B.p:B.f,s,s)
 r=r.gj6()?"Retirer de mes envies":"Ajouter \xe0 mes envies"
 return new A.aN(B.Vt,A.eg(!1,B.N,!0,p,A.fP(!1,s,!0,new A.eB(B.PP,A.et(B.cQ,A.b([o,n,new A.aN(B.Vh,l,s),A.hS(s,A.oJ(s,s,k,s,s,new A.aKE(a,q),s,s,r,s),s,s,s,8,8,s)],m),B.B,B.aT,s),s),s,!0,s,s,s,s,s,s,s,s,s,new A.aKF(a,q),s,s,s,s),B.ah,s,0,s,s,s,s,s,B.aW),s)}}
@@ -110872,14 +110872,14 @@ r.ae(t.Pu).f.jq(A.th(s,s,s,B.cW,s,B.B,s,A.X(a,s,s,s,s,s,s,s),s,B.dJ,s,s,s,s,s,s,
 D(a){var s,r,q,p,o=this,n=null,m=o.a.c!=null?A.uy(B.ask,n):n,l=t.p,k=A.b([],l)
 if(o.a.c==null)k.push(B.oW)
 s=A.b([],l)
-if(o.a.c==null){r=A.b([B.arY,B.cb],l)
+if(o.a.c==null){r=A.b([B.arX,B.cb],l)
 B.b.L(r,o.ais())
 r.push(B.cn)
 r.push(new A.aaV(o.r,o.gZj(),n))
 r.push(B.av_)
 B.b.L(s,r)}else{r=o.axd()
 q=o.r
-p=A.lm(B.wa,B.arA,q?n:o.gavF(),n)
+p=A.lm(B.wa,B.arz,q?n:o.gavF(),n)
 B.b.L(s,A.b([r,B.cL,p,B.b5,A.b06(B.XM,B.arb,q?n:o.gaqT())],l))}if(o.r){r=A.b([B.f6,B.cz],l)
 q=o.w
 if(q!=null)B.b.L(r,A.b([B.b5,A.eA(A.X(q,n,n,n,B.cx,n,n,n),n,n)],l))
@@ -111320,7 +111320,7 @@ p=q!=null
 if(p&&s.a.d!=null){p=A.ba(r,!0,!1,!1,!1)
 return"Le navigateur "+(p.b.test(q)?"d'"+q:"de "+q)+" ne permet pas de publier une image. Copie le message, ou ouvre Lore dans "+n+" pour partager ta carte en story."}if(p){p=A.ba(r,!0,!1,!1,!1)
 return"Le navigateur "+(p.b.test(q)?"d'"+q:"de "+q)+" ne permet pas de partager directement. Copie le message et colle-le dans une conversation."}return s.a.d!=null?"Ton navigateur ne permet pas de partager directement. Copie le message, et enregistre l'image pour la publier.":"Copie le message et colle-le o\xf9 tu veux."},
-D(a){var s,r,q=this,p=null,o=A.b2i(q.a.f),n=q.a.d,m=A.bL(a,B.dY,t.l).w,l=t.p,k=A.b([B.arG,B.b0,A.X(q.galR(),p,p,p,B.amI,p,p,p)],l),j=n!=null
+D(a){var s,r,q=this,p=null,o=A.b2i(q.a.f),n=q.a.d,m=A.bL(a,B.dY,t.l).w,l=t.p,k=A.b([B.arF,B.b0,A.X(q.galR(),p,p,p,B.amI,p,p,p)],l),j=n!=null
 if(j)B.b.L(k,A.b([B.cn,A.eA(A.h1(A.aP(14),A.WW(n,p,p,!1,m.a.b*0.34,p),B.ah),p,p)],l))
 if(q.e){m=A.aP(12)
 s=A.cY(B.aL,1)
@@ -111367,7 +111367,7 @@ if(o.ga5u()===B.vw)return B.as
 s=A.aP(18)
 r=A.cY(B.aL,1)
 q=o.ga5u()===B.vx?new A.a3B(o,p):new A.Nv(o,p)
-return A.aY(A.b([B.arF,B.b5,A.b0(p,q,B.m,p,p,new A.aS(B.f,p,r,s,B.eb,p,B.v),p,p,p,B.i5,p,p,p)],t.p),B.I,B.h,B.l)}}
+return A.aY(A.b([B.arE,B.b5,A.b0(p,q,B.m,p,p,new A.aS(B.f,p,r,s,B.eb,p,B.v),p,p,p,B.i5,p,p,p)],t.p),B.I,B.h,B.l)}}
 A.a3B.prototype={
 D(a){var s,r,q,p=null,o=this.c,n=o.c
 n=n==null?p:n.d
@@ -111476,7 +111476,7 @@ if(k!=null){l=A.X("Si tu continues, ses conqu\xeates et ses aventures seront ajo
 s=m.d
 r=A.ox(B.ar9,s?n:m.gaAQ(),n)
 q=t.p
-return A.aY(A.b([B.arV,B.b0,l,B.d4,A.a22(A.b([r,A.kH(B.ro,s?n:m.gazF(),n)],q),4,8)],q),B.I,B.h,B.l)}l=o.d
+return A.aY(A.b([B.arU,B.b0,l,B.d4,A.a22(A.b([r,A.kH(B.ro,s?n:m.gazF(),n)],q),4,8)],q),B.I,B.h,B.l)}l=o.d
 s=o.e
 r=t.p
 q=A.b([A.X(o.f?"Un compte met tes conqu\xeates \xe0 l'abri et les fait suivre d'un appareil \xe0 l'autre.":"Retrouve tes conqu\xeates sur cet appareil.",n,n,n,B.cM,n,n,n),B.d4,A.to(!1,!1,l,B.YZ,!0,n,B.NS,n,!1,new A.aKJ(o),n,n,B.hn,n),B.b5,A.to(n,!1,s,B.Z1,!0,n,n,n,!0,new A.aKK(o),n,n,B.hn,n)],r)
@@ -111487,7 +111487,7 @@ l=!(B.c.u(l.a.a,"@")&&s.a.a.length>=6)||m.d?n:o.gahm()
 q.push(A.cz(A.ox(A.X(o.f?"Cr\xe9er mon compte":"Me connecter",n,n,n,n,n,n,n),l,n),n,1/0))
 l=m.d?n:new A.aKL(o)
 q.push(new A.f8(B.cQ,n,n,A.kH(A.X(o.f?"J'ai d\xe9j\xe0 un compte":"Cr\xe9er un compte",n,n,n,n,n,n,n),l,n),n))
-q.push(B.arQ)
+q.push(B.arP)
 return A.aY(q,B.I,B.h,B.l)}}
 A.aKJ.prototype={
 $1(a){return this.a.O(new A.aKI())},
@@ -111628,7 +111628,7 @@ case 4:j.mN(b)
 case 1:return A.o(q,r)}})
 return A.p($async$uE,r)},
 D(a){var s=this,r=null
-return new A.aN(new A.a3(24,0,24,24+A.bL(a,B.hA,t.l).w.f.d),A.aY(A.b([B.ash,B.bp,B.arI,B.dR,A.to(!1,!0,s.d,A.X8(r,r,r,r,r,r,"",r,!0,r,r,r,r,r,s.e,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"SON CODE",r,r,r,r,r,r,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,20,!1,r,new A.aLZ(s),B.NT,B.NM,B.jb),B.cb,A.ox(B.asn,s.gayI(),A.oy(r,r,B.Ni,r,r,r,r))],t.p),B.b7,B.h,B.a7),r)}}
+return new A.aN(new A.a3(24,0,24,24+A.bL(a,B.hA,t.l).w.f.d),A.aY(A.b([B.ash,B.bp,B.arH,B.dR,A.to(!1,!0,s.d,A.X8(r,r,r,r,r,r,"",r,!0,r,r,r,r,r,s.e,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"SON CODE",r,r,r,r,r,r,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,20,!1,r,new A.aLZ(s),B.NT,B.NM,B.jb),B.cb,A.ox(B.asn,s.gayI(),A.oy(r,r,B.Ni,r,r,r,r))],t.p),B.b7,B.h,B.a7),r)}}
 A.aLY.prototype={
 $0(){return this.a.e="Un code fait au moins 3 caract\xe8res."},
 $S:0}
@@ -120914,22 +120914,22 @@ B.jB=new A.oc(2,"mixte")
 B.am=new A.O(0.6901960784313725,0.09019607843137255,0.14901960784313725,0.1803921568627451,B.j)
 B.O9=new A.v(!0,B.am,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aQ=new A.pH(2,"center")
-B.as8=new A.aG("Tes souvenirs viennent d'\xe9crire ta l\xe9gende.",null,B.O9,B.aQ,null,null,null,null,null,null,null)
-B.S1=new A.i9(B.E,null,null,B.as8,null)
+B.as7=new A.aG("Tes souvenirs viennent d'\xe9crire ta l\xe9gende.",null,B.O9,B.aQ,null,null,null,null,null,null,null)
+B.S1=new A.i9(B.E,null,null,B.as7,null)
+B.aA=new A.O(0.6196078431372549,0.09019607843137255,0.14901960784313725,0.1803921568627451,B.j)
+B.mF=new A.v(!0,B.aA,null,null,null,null,11.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.as8=new A.aG("Lore \xb7 version 2026-10-06.1922",null,B.mF,null,null,null,null,null,null,null,null)
+B.S3=new A.i9(B.E,null,null,B.as8,null)
 B.axo=new A.aFF(0,"material")
 B.Sg=new A.mu(null,null,null,null,null,null,null,null)
 B.cz=new A.i9(B.E,null,null,B.Sg,null)
 B.X3=new A.aX(58213,"MaterialIcons",!1)
 B.p=new A.O(1,1,0.35294117647058826,0.23529411764705882,B.j)
 B.Y3=new A.bF(B.X3,64,B.p,null,null)
-B.S3=new A.i9(B.E,null,null,B.Y3,null)
+B.S4=new A.i9(B.E,null,null,B.Y3,null)
 B.apG=new A.v(!0,B.p,null,"Bricolage",null,null,28,B.D,null,-0.3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.as_=new A.aG("Lieu conquis !",null,B.apG,B.aQ,null,null,null,null,null,null,null)
-B.S4=new A.i9(B.E,null,null,B.as_,null)
-B.aA=new A.O(0.6196078431372549,0.09019607843137255,0.14901960784313725,0.1803921568627451,B.j)
-B.mF=new A.v(!0,B.aA,null,null,null,null,11.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arz=new A.aG("Lore \xb7 version 2026-10-06.1919",null,B.mF,null,null,null,null,null,null,null,null)
-B.S5=new A.i9(B.E,null,null,B.arz,null)
+B.arZ=new A.aG("Lieu conquis !",null,B.apG,B.aQ,null,null,null,null,null,null,null)
+B.S5=new A.i9(B.E,null,null,B.arZ,null)
 B.ab=new A.O(0.7019607843137254,1,1,1,B.j)
 B.Sc=new A.mu(null,null,null,B.ab,null,null,null,null)
 B.S7=new A.i9(B.E,null,null,B.Sc,null)
@@ -121481,16 +121481,16 @@ B.Ug=new A.GJ(null,null)
 B.W9=new A.kk(1,B.df,B.Ug,null)
 B.a5=new A.iX(700)
 B.mH=new A.v(!0,B.M,null,null,null,null,14.5,B.a5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arO=new A.aG("Qu'y a-t-il \xe0 conqu\xe9rir pr\xe8s de toi ?",null,B.mH,null,null,null,null,null,null,null,null)
+B.arN=new A.aG("Qu'y a-t-il \xe0 conqu\xe9rir pr\xe8s de toi ?",null,B.mH,null,null,null,null,null,null,null,null)
 B.cw=new A.ct(null,2,null,null)
 B.cM=new A.v(!0,B.am,null,null,null,null,12.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.arv=new A.aG("Ta position reste sur ton t\xe9l\xe9phone.",null,B.cM,null,null,null,null,null,null,null,null)
-B.a61=s([B.arO,B.cw,B.arv],t.p)
+B.a61=s([B.arN,B.cw,B.arv],t.p)
 B.Tv=new A.mx(B.ag,B.h,B.l,B.I,null,B.bW,null,0,B.a61,null)
 B.Wa=new A.kk(1,B.df,B.Tv,null)
 B.J=new A.LV(2,"ellipsis")
-B.arJ=new A.aG("Ta l\xe9gende",null,B.mB,null,null,null,B.J,null,1,null,null)
-B.Wb=new A.kk(1,B.df,B.arJ,null)
+B.arI=new A.aG("Ta l\xe9gende",null,B.mB,null,null,null,B.J,null,1,null,null)
+B.Wb=new A.kk(1,B.df,B.arI,null)
 B.Wc=new A.Hf(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.kf=new A.os(!1,!1,!1,!1)
 B.kg=new A.os(!1,!1,!1,!0)
@@ -121544,8 +121544,8 @@ B.akT=new A.a0C(null)
 B.Wy=new A.vr(B.cq,B.e_,B.akT,null)
 B.WA=new A.fN(1,B.c7,B.Wy,null)
 B.eq=new A.v(!0,B.aA,null,null,null,null,12.5,B.D,null,1.2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arW=new A.aG("AVENTURES V\xc9CUES",null,B.eq,null,null,null,B.J,null,1,null,null)
-B.WB=new A.fN(1,B.c7,B.arW,null)
+B.arV=new A.aG("AVENTURES V\xc9CUES",null,B.eq,null,null,null,B.J,null,1,null,null)
+B.WB=new A.fN(1,B.c7,B.arV,null)
 B.WC=new A.zY(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vO=new A.Hn(0,"Start")
 B.ko=new A.Hn(1,"Update")
@@ -124475,15 +124475,15 @@ B.afS=new A.aN(B.Vb,B.asc,null)
 B.VS=new A.a3(6,0,0,0)
 B.Yb=new A.bF(B.ic,16,B.p,null,null)
 B.Iu=new A.aN(B.VS,B.Yb,null)
-B.as3=new A.aG("Ta l\xe9gende",null,B.mB,null,null,null,null,null,null,null,null)
-B.afT=new A.aN(B.vh,B.as3,null)
+B.as2=new A.aG("Ta l\xe9gende",null,B.mB,null,null,null,null,null,null,null,null)
+B.afT=new A.aN(B.vh,B.as2,null)
 B.V2=new A.a3(0,28,0,0)
 B.cx=new A.v(!0,B.am,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.arm=new A.aG("Tes lieux conquis \xe9criront la frise, dat\xe9s par ta premi\xe8re visite.",null,B.cx,B.aQ,null,null,null,null,null,null,null)
 B.afU=new A.aN(B.V2,B.arm,null)
 B.V5=new A.a3(0,4,0,4)
-B.as0=new A.aG("Allumer ma carte avec mes photos",null,null,null,null,null,null,null,null,null,null)
-B.afV=new A.aN(B.V5,B.as0,null)
+B.as_=new A.aG("Allumer ma carte avec mes photos",null,null,null,null,null,null,null,null,null,null)
+B.afV=new A.aN(B.V5,B.as_,null)
 B.VQ=new A.a3(40,40,40,40)
 B.XX=new A.bF(B.p7,52,B.aA,null,null)
 B.cn=new A.ct(null,16,null,null)
@@ -124516,8 +124516,8 @@ B.aks=new A.ct(18,18,B.Sf,null)
 B.ag0=new A.aN(B.ka,B.aks,null)
 B.UZ=new A.a3(0,18,0,0)
 B.anN=new A.v(!0,B.aA,null,null,null,null,12.5,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arE=new A.aG("\ud83d\udca1 \xc9pingle des envies depuis les fiches de lieux \u2014 elles t'attendront ici comme prochaines cibles.",null,B.anN,B.aQ,null,null,null,null,null,null,null)
-B.ag1=new A.aN(B.UZ,B.arE,null)
+B.arD=new A.aG("\ud83d\udca1 \xc9pingle des envies depuis les fiches de lieux \u2014 elles t'attendront ici comme prochaines cibles.",null,B.anN,B.aQ,null,null,null,null,null,null,null)
+B.ag1=new A.aN(B.UZ,B.arD,null)
 B.ag2=new A.Jh(null)
 B.cJ=new A.YV(0,"fill")
 B.ba=new A.YV(1,"stroke")
@@ -124631,8 +124631,8 @@ B.hj=new A.jM(null,null)
 B.ab5=new A.w6(22,B.f,B.uG,null)
 B.ca=new A.ct(8,null,null,null)
 B.amK=new A.v(!0,B.f,null,"Bricolage",null,null,19,B.D,null,5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arD=new A.aG("LORE",null,B.amK,null,null,null,null,null,null,null,null)
-B.a0R=s([B.ab5,B.ca,B.arD],t.p)
+B.arC=new A.aG("LORE",null,B.amK,null,null,null,null,null,null,null,null)
+B.a0R=s([B.ab5,B.ca,B.arC],t.p)
 B.ai8=new A.nn(B.aw,B.h,B.a7,B.o,null,B.bW,null,0,B.a0R,null)
 B.XP=new A.bF(B.ic,null,B.p,null,null)
 B.bk=new A.ct(10,null,null,null)
@@ -124643,8 +124643,8 @@ B.ai9=new A.nn(B.aw,B.fY,B.l,B.o,null,B.bW,null,0,B.a2N,null)
 B.WY=new A.aX(57929,"MaterialIcons",!1)
 B.Ym=new A.bF(B.WY,20,B.cW,null,null)
 B.anr=new A.v(!0,B.cW,null,null,null,null,15,B.D,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arL=new A.aG("Pas encore\u2026",null,B.anr,null,null,null,null,null,null,null,null)
-B.a4_=s([B.Ym,B.ca,B.arL],t.p)
+B.arK=new A.aG("Pas encore\u2026",null,B.anr,null,null,null,null,null,null,null,null)
+B.a4_=s([B.Ym,B.ca,B.arK],t.p)
 B.aia=new A.nn(B.aw,B.h,B.l,B.o,null,B.bW,null,0,B.a4_,null)
 B.aib=new A.Kv(1333)
 B.qv=new A.Kv(2222)
@@ -124932,12 +124932,12 @@ B.akz=new A.nv(5,"timeout")
 B.akA=new A.xf(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aor=new A.v(!0,B.f,null,"Manrope",null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.akB=new A.xf(B.M,null,null,B.aor,null,null,null,null,null,null,null,null,null,null)
-B.as4=new A.aG("Aucune position trouv\xe9e dans ces photos \u2014 pas grave, tu commenceras sur place. (Sur iPhone : Options \u2192 Toutes les donn\xe9es photo au moment de choisir.)",null,null,null,null,null,null,null,null,null,null)
-B.akC=new A.lS(B.as4,null,null,null,null,null,null,null,null,null,null,null,null,B.v2,!1,null,null,null,B.B,null)
-B.as1=new A.aG("Partage impossible pour le moment.",null,null,null,null,null,null,null,null,null,null)
-B.akD=new A.lS(B.as1,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
-B.as7=new A.aG("Photo trop lourde \u2014 essaie une autre image.",null,null,null,null,null,null,null,null,null,null)
-B.akE=new A.lS(B.as7,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
+B.as3=new A.aG("Aucune position trouv\xe9e dans ces photos \u2014 pas grave, tu commenceras sur place. (Sur iPhone : Options \u2192 Toutes les donn\xe9es photo au moment de choisir.)",null,null,null,null,null,null,null,null,null,null)
+B.akC=new A.lS(B.as3,null,null,null,null,null,null,null,null,null,null,null,null,B.v2,!1,null,null,null,B.B,null)
+B.as0=new A.aG("Partage impossible pour le moment.",null,null,null,null,null,null,null,null,null,null)
+B.akD=new A.lS(B.as0,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
+B.as6=new A.aG("Photo trop lourde \u2014 essaie une autre image.",null,null,null,null,null,null,null,null,null,null)
+B.akE=new A.lS(B.as6,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
 B.asg=new A.aG("Impossible d'ouvrir la galerie. Tu peux commencer sur place et importer tes photos plus tard.",null,null,null,null,null,null,null,null,null,null)
 B.akF=new A.lS(B.asg,null,null,null,null,null,null,null,null,null,null,null,null,B.dJ,!1,null,null,null,B.B,null)
 B.asl=new A.aG("Le partage n'a pas pu s'ouvrir. R\xe9essaie.",null,null,null,null,null,null,null,null,null,null)
@@ -125440,33 +125440,33 @@ B.ro=new A.aG("Annuler",null,null,null,null,null,null,null,null,null,null)
 B.aru=new A.aG("Ton compte et tout ce qu'il sauvegarde en ligne seront effac\xe9s d\xe9finitivement.\n\nTes conqu\xeates et tes aventures restent sur cet appareil.",null,B.O9,null,null,null,null,null,null,null,null)
 B.arx=new A.aG("Actualiser",null,null,null,null,null,null,null,null,null,null)
 B.ary=new A.aG("J'ai un code",null,B.ho,null,null,null,null,null,null,null,null)
-B.arA=new A.aG("Je suis sur place \u2014 scanner",null,null,null,null,null,null,null,null,null,null)
+B.arz=new A.aG("Je suis sur place \u2014 scanner",null,null,null,null,null,null,null,null,null,null)
 B.Ob=new A.aG("Continuer",null,B.ho,null,null,null,null,null,null,null,null)
-B.arB=new A.aG("Copier",null,null,null,null,!1,null,null,1,null,null)
+B.arA=new A.aG("Copier",null,null,null,null,!1,null,null,1,null,null)
 B.anh=new A.v(!0,B.am,null,null,null,null,13,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arC=new A.aG("\xc9cris ta l\xe9gende.",null,B.anh,null,null,null,null,null,null,null,null)
-B.arF=new A.aG("TON COMPTE",null,B.eq,null,null,null,null,null,null,null,null)
-B.arG=new A.aG("Partager",null,B.rm,null,null,null,null,null,null,null,null)
-B.arH=new A.aG("Comparer",null,null,null,null,null,null,null,null,null,null)
-B.arI=new A.aG("Entre le code du cr\xe9ateur qui t'a fait d\xe9couvrir Lore : il en sera cr\xe9dit\xe9. C'est facultatif, et \xe7a ne change rien pour toi.",null,B.O_,null,null,null,null,null,null,null,null)
-B.arK=new A.aG("Qui a le plus v\xe9cu ? \xc9changez vos codes : Lore compare vos deux carnets et d\xe9signe un vainqueur, aux points.",null,B.O2,null,null,null,null,null,null,null,null)
-B.arM=new A.aG("Cr\xe9er",null,null,null,null,null,null,null,null,null,null)
-B.arN=new A.aG("Ajouter \xe0 mes aventures",null,null,null,null,null,null,null,null,null,null)
-B.arP=new A.aG("Supprimer cette aventure ?",null,null,null,null,null,null,null,null,null,null)
-B.arQ=new A.aG("Rien n'est obligatoire : sans compte, Lore fonctionne tel quel, hors ligne, sur cet appareil.",null,B.mF,null,null,null,null,null,null,null,null)
-B.arR=new A.aG("Partager ma moisson",null,null,null,null,null,null,null,null,null,null)
-B.arS=new A.aG("Voir la fiche du lieu",null,null,null,null,null,null,null,null,null,null)
+B.arB=new A.aG("\xc9cris ta l\xe9gende.",null,B.anh,null,null,null,null,null,null,null,null)
+B.arE=new A.aG("TON COMPTE",null,B.eq,null,null,null,null,null,null,null,null)
+B.arF=new A.aG("Partager",null,B.rm,null,null,null,null,null,null,null,null)
+B.arG=new A.aG("Comparer",null,null,null,null,null,null,null,null,null,null)
+B.arH=new A.aG("Entre le code du cr\xe9ateur qui t'a fait d\xe9couvrir Lore : il en sera cr\xe9dit\xe9. C'est facultatif, et \xe7a ne change rien pour toi.",null,B.O_,null,null,null,null,null,null,null,null)
+B.arJ=new A.aG("Qui a le plus v\xe9cu ? \xc9changez vos codes : Lore compare vos deux carnets et d\xe9signe un vainqueur, aux points.",null,B.O2,null,null,null,null,null,null,null,null)
+B.arL=new A.aG("Cr\xe9er",null,null,null,null,null,null,null,null,null,null)
+B.arM=new A.aG("Ajouter \xe0 mes aventures",null,null,null,null,null,null,null,null,null,null)
+B.arO=new A.aG("Supprimer cette aventure ?",null,null,null,null,null,null,null,null,null,null)
+B.arP=new A.aG("Rien n'est obligatoire : sans compte, Lore fonctionne tel quel, hors ligne, sur cet appareil.",null,B.mF,null,null,null,null,null,null,null,null)
+B.arQ=new A.aG("Partager ma moisson",null,null,null,null,null,null,null,null,null,null)
+B.arR=new A.aG("Voir la fiche du lieu",null,null,null,null,null,null,null,null,null,null)
 B.ana=new A.v(!0,B.f,null,"Bricolage",null,null,18,B.D,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.arT=new A.aG("Montre ta l\xe9gende",null,B.ana,null,null,null,null,null,null,null,null)
-B.arU=new A.aG("TES ENVIES",null,B.eq,null,null,null,null,null,null,null,null)
-B.arV=new A.aG("Ce t\xe9l\xe9phone contient le carnet d'un autre compte.",null,B.rj,null,null,null,null,null,null,null,null)
-B.arX=new A.aG("Scanner ce lieu",null,null,null,null,null,null,null,null,null,null)
-B.arY=new A.aG("Valide un lieu au GPS, ou depuis tes photos de voyage.",null,B.cx,null,null,null,null,null,null,null,null)
-B.arZ=new A.aG("Je commencerai sur place",null,B.ho,null,null,null,null,null,null,null,null)
+B.arS=new A.aG("Montre ta l\xe9gende",null,B.ana,null,null,null,null,null,null,null,null)
+B.arT=new A.aG("TES ENVIES",null,B.eq,null,null,null,null,null,null,null,null)
+B.arU=new A.aG("Ce t\xe9l\xe9phone contient le carnet d'un autre compte.",null,B.rj,null,null,null,null,null,null,null,null)
+B.arW=new A.aG("Scanner ce lieu",null,null,null,null,null,null,null,null,null,null)
+B.arX=new A.aG("Valide un lieu au GPS, ou depuis tes photos de voyage.",null,B.cx,null,null,null,null,null,null,null,null)
+B.arY=new A.aG("Je commencerai sur place",null,B.ho,null,null,null,null,null,null,null,null)
 B.aqw=new A.v(!0,B.f,null,null,null,null,11,B.D,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.as2=new A.aG("D\xc9COUVERTE DU JOUR",null,B.aqw,null,null,null,null,null,null,null,null)
-B.as5=new A.aG("Changer la photo",null,null,null,null,null,null,null,null,null,null)
-B.as6=new A.aG("SUCC\xc8S",null,B.eq,null,null,null,null,null,null,null,null)
+B.as1=new A.aG("D\xc9COUVERTE DU JOUR",null,B.aqw,null,null,null,null,null,null,null,null)
+B.as4=new A.aG("Changer la photo",null,null,null,null,null,null,null,null,null,null)
+B.as5=new A.aG("SUCC\xc8S",null,B.eq,null,null,null,null,null,null,null,null)
 B.as9=new A.aG("Supprimer mon compte",null,null,null,null,null,null,null,null,null,null)
 B.asa=new A.aG("Conqu\xe9rir",null,B.rh,null,null,null,null,null,null,null,null)
 B.asb=new A.aG("Ta progression t'appartient : un fichier local, aucun compte. La restauration fusionne sans rien effacer.",null,B.mF,null,null,null,null,null,null,null,null)
