@@ -52,11 +52,69 @@ function fraisDuServeur(req) {
   return fetch(req, { cache: 'no-cache' });
 }
 
+/// Coquille commune aux deux moteurs : injectée au build par
+/// tool/finaliser_web.sh (chemins relatifs au service worker).
+const COQUILLE = ["./", "assets/AssetManifest.bin", "assets/AssetManifest.bin.json", "assets/FontManifest.json", "assets/assets/fonts/Bricolage-Bold.ttf", "assets/assets/fonts/Bricolage-ExtraBold.ttf", "assets/assets/fonts/Manrope-ExtraBold.ttf", "assets/assets/fonts/Manrope-Regular.ttf", "assets/assets/fonts/Manrope-SemiBold.ttf", "assets/assets/fonts/NotoColorEmoji.ttf", "assets/assets/monuments.json", "assets/assets/quests.json", "assets/assets/world_countries.json", "assets/assets/world_land.json", "assets/fonts/MaterialIcons-Regular.otf", "assets/shaders/ink_sparkle.frag", "assets/shaders/stretch_effect.frag", "drift_worker.js", "favicon.png", "flutter.js", "flutter_bootstrap.js", "icons/Icon-192.png", "icons/Icon-maskable-192.png", "icons/apple-touch-icon.png", "index.html", "manifest.json", "sqlite3.wasm"];
+
+/// Délai au-delà duquel on renonce à remplir le cache. Un worker qui a des
+/// requêtes en cours empêche le suivant de prendre la main : jamais de
+/// remplissage sans fin.
+const DELAI_REMPLISSAGE_MS = 90000;
+
 self.addEventListener('install', (event) => {
   // Prendre la main tout de suite : la version fraîchement déployée ne doit
   // pas attendre la fermeture de tous les onglets pour s'activer.
   self.skipWaiting();
+  // Hors ligne dès la première visite : la coquille est rangée maintenant,
+  // pas au gré des requêtes (la page et ses données arrivent avant que le
+  // worker ne prenne la main, elles n'étaient jamais mises en cache).
+  // Une erreur ici n'empêche pas l'installation : le cache se complétera
+  // à l'usage, comme avant.
+  event.waitUntil(remplir(Array.isArray(COQUILLE) ? COQUILLE : []));
 });
+
+/// La page signale les fichiers du moteur qu'elle a vraiment chargés
+/// (WebAssembly ou JavaScript selon le navigateur) : on les range aussi.
+self.addEventListener('message', (event) => {
+  const d = event.data || {};
+  if (d.type !== 'moteur' || d.version !== VERSION) return;
+  event.waitUntil(remplir(d.urls || []));
+});
+
+/// Range [urls] dans le cache de la coquille, sans écraser ce qui y est.
+///
+/// Chaque fichier est revalidé auprès du serveur (`no-cache`), qui sert la
+/// version déployée ; si ce n'est plus celle de ce worker (un déploiement est
+/// passé entre-temps), on s'abstient : le cache ne doit contenir que des
+/// fichiers d'une seule et même version.
+async function remplir(urls) {
+  const travail = (async () => {
+    const page = await fraisDuServeur(new Request('./'));
+    if (!page.ok) return;
+    const trouve = (await page.clone().text())
+      .match(/flutter_service_worker\.js\?v=([0-9A-Za-z]+)/);
+    if (!trouve || trouve[1] !== VERSION) return;
+    const cache = await caches.open(CACHE_APP);
+    await cache.put('./', page);
+    await Promise.allSettled(urls.map(async (u) => {
+      const url = new URL(u, self.location);
+      const memeOrigine = url.origin === self.location.origin;
+      if (!memeOrigine && !/gstatic\.com/.test(url.hostname)) return;
+      if (EST_MEDIA.test(url.pathname)) return;
+      if (await cache.match(url.href)) return;
+      const reponse = memeOrigine
+        ? await fraisDuServeur(new Request(url.href))
+        : await fetch(url.href);
+      if (reponse.ok || reponse.type === 'opaque') {
+        await cache.put(url.href, reponse);
+      }
+    }));
+  })();
+  await Promise.race([
+    travail.catch(() => {}),
+    new Promise((fin) => setTimeout(fin, DELAI_REMPLISSAGE_MS)),
+  ]);
+}
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
