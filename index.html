@@ -126,14 +126,14 @@
     n'en obtenait donc jamais, et l'app retéléchargeait ~7 Mo à chaque
     lancement — et refusait de s'ouvrir sans réseau.
 
-    `93c2718005a7` est remplacé par l'empreinte du build (voir
+    `3b70b39618af` est remplacé par l'empreinte du build (voir
     tool/finaliser_web.sh) : c'est elle qui purge le cache au déploiement.
   -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
         navigator.serviceWorker
-          .register('flutter_service_worker.js?v=93c2718005a7')
+          .register('flutter_service_worker.js?v=3b70b39618af')
           .catch(function (e) {
             console.warn('Service worker non enregistré :', e);
           });

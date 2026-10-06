@@ -31,6 +31,36 @@ const TOUJOURS_FRAIS = /\/(index\.html|flutter_bootstrap\.js)(\?|$)|\/$/;
 /// Les photos vont dans leur propre cache, à longue vie.
 const EST_MEDIA = /\/assets\/assets\/images\//;
 
+/// Empreinte du dernier déploiement, lue dans un `index.html` frais.
+///
+/// Le premier chargement après un déploiement passe encore par l'ANCIEN
+/// service worker : il servait l'ancien moteur depuis son cache, et l'on
+/// tournait une visite en retard — un correctif du jour du lancement
+/// n'arrivait qu'au passage suivant. Quand l'empreinte lue diffère de la
+/// sienne, il se sait périmé et laisse la coquille venir du réseau.
+let versionEnLigne = null;
+
+/// Requête qui demande au serveur la version ACTUELLE du fichier.
+///
+/// GitHub Pages autorise 10 minutes de cache HTTP (`max-age=600`) : un simple
+/// `fetch` pouvait rendre l'ancien `index.html` — ou ranger l'ancien
+/// `main.dart.wasm` dans le cache de la NOUVELLE version, à côté d'un
+/// `main.dart.mjs` neuf, et l'app ne démarrait plus. `no-cache` revalide
+/// auprès du serveur (ETag : un 304 de quelques octets si rien n'a changé).
+function fraisDuServeur(req) {
+  if (req.mode === 'navigate') {
+    // Une requête de navigation ne se recopie pas avec des options : on la
+    // reconstruit. `redirect: 'manual'` garde une redirection utilisable
+    // comme réponse de navigation.
+    return fetch(new Request(req.url, {
+      cache: 'no-cache',
+      credentials: 'same-origin',
+      redirect: 'manual',
+    }));
+  }
+  return fetch(req, { cache: 'no-cache' });
+}
+
 self.addEventListener('install', (event) => {
   // Prendre la main tout de suite : la version fraîchement déployée ne doit
   // pas attendre la fermeture de tous les onglets pour s'activer.
@@ -67,18 +97,33 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  event.respondWith(
-    cacheDAbord(req, EST_MEDIA.test(url.pathname) ? CACHE_MEDIA : CACHE_APP),
-  );
+  const media = EST_MEDIA.test(url.pathname);
+  if (!media && memeOrigine && versionEnLigne && versionEnLigne !== VERSION) {
+    // Service worker périmé : la coquille vient du réseau, sans polluer
+    // l'ancien cache. Le nouveau prend la main à la fin du chargement.
+    event.respondWith(
+      fraisDuServeur(req).catch(async () =>
+        (await caches.match(req)) || Response.error()),
+    );
+    return;
+  }
+
+  event.respondWith(cacheDAbord(req, media ? CACHE_MEDIA : CACHE_APP));
 });
 
 /// Réseau d'abord, cache en filet de sécurité (hors ligne, avion, tunnel).
 async function reseauDAbord(req) {
   try {
-    const reponse = await fetch(req);
+    const reponse = await fraisDuServeur(req);
     if (reponse && reponse.ok) {
       const cache = await caches.open(CACHE_APP);
       cache.put(req, reponse.clone());
+      const type = reponse.headers.get('content-type') || '';
+      if (type.includes('text/html')) {
+        const trouve = (await reponse.clone().text())
+          .match(/flutter_service_worker\.js\?v=([0-9A-Za-z]+)/);
+        if (trouve) versionEnLigne = trouve[1];
+      }
     }
     return reponse;
   } catch (_) {
@@ -105,7 +150,12 @@ async function cacheDAbord(req, nomCache) {
   if (enCache) return enCache;
 
   try {
-    const reponse = await fetch(req);
+    // Les photos ne changent jamais ; la coquille, elle, doit correspondre au
+    // déploiement en cours (voir fraisDuServeur).
+    const memeOrigine = new URL(req.url).origin === self.location.origin;
+    const reponse = memeOrigine && nomCache === CACHE_APP
+        ? await fraisDuServeur(req)
+        : await fetch(req);
     // `ok` exclut les 404 ; les réponses opaques (CDN sans CORS) ont un
     // status 0 mais restent utilisables et valent la peine d'être gardées.
     if (reponse && (reponse.ok || reponse.type === 'opaque')) {
