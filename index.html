@@ -126,14 +126,14 @@
     n'en obtenait donc jamais, et l'app retéléchargeait ~7 Mo à chaque
     lancement — et refusait de s'ouvrir sans réseau.
 
-    `39c94f47db86` est remplacé par l'empreinte du build (voir
+    `d4f4f916dd94` est remplacé par l'empreinte du build (voir
     tool/finaliser_web.sh) : c'est elle qui purge le cache au déploiement.
   -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
         navigator.serviceWorker
-          .register('flutter_service_worker.js?v=39c94f47db86')
+          .register('flutter_service_worker.js?v=d4f4f916dd94')
           .catch(function (e) {
             console.warn('Service worker non enregistré :', e);
           });
@@ -143,20 +143,35 @@
       // réellement chargés (WebAssembly ou JavaScript, selon le navigateur) :
       // il les range pour que Lore s'ouvre ensuite sans réseau. Ils arrivent
       // avant que le worker ne prenne la main, il ne les voit donc pas passer.
+      //
+      // Le message va au worker de LA MÊME version que cette page. Sur un vrai
+      // réseau, le nouveau worker finit souvent de s'installer après le
+      // premier affichage : l'ancien recevait le message et l'ignorait, et le
+      // moteur ne rejoignait jamais le cache. On attend donc qu'il prenne la
+      // main (`controllerchange`).
+      function signalerMoteur() {
+        var worker = navigator.serviceWorker.controller;
+        if (!worker || worker.scriptURL.indexOf('v=d4f4f916dd94') < 0) {
+          return false;
+        }
+        var urls = performance.getEntriesByType('resource')
+          .map(function (e) { return e.name; })
+          .filter(function (u) {
+            return /\/(main\.dart\.(js|mjs|wasm)|canvaskit\/.+\.(js|wasm))$/.test(u);
+          });
+        worker.postMessage({type: 'moteur', version: 'd4f4f916dd94', urls: urls});
+        return true;
+      }
       window.addEventListener('flutter-first-frame', function () {
         setTimeout(function () {
-          navigator.serviceWorker.ready.then(function (inscription) {
-            var urls = performance.getEntriesByType('resource')
-              .map(function (e) { return e.name; })
-              .filter(function (u) {
-                return /\/(main\.dart\.(js|mjs|wasm)|canvaskit\/.+\.(js|wasm))$/.test(u);
-              });
-            if (inscription.active) {
-              inscription.active.postMessage({
-                type: 'moteur', version: '39c94f47db86', urls: urls,
-              });
-            }
-          });
+          if (signalerMoteur()) return;
+          navigator.serviceWorker.addEventListener('controllerchange',
+            function attendre() {
+              if (signalerMoteur()) {
+                navigator.serviceWorker.removeEventListener(
+                  'controllerchange', attendre);
+              }
+            });
         }, 3000);
       });
     }
