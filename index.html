@@ -18,7 +18,30 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Lore — carnet de voyage héroïque. Conquiers les lieux du patrimoine mondial, 100% hors-ligne.">
+  <meta name="description" content="Plus de 1 100 lieux mythiques à conquérir. Ta carte du monde s'allume, tes voyages se rejouent en film, et tu défies tes amis. Gratuit, sans inscription.">
+
+  <!--
+    Aperçu du lien (WhatsApp, iMessage, DM Instagram, X, LinkedIn…). Sans ces
+    balises, un lien partagé s'affichait nu : ni titre ni image, deux fois
+    moins de clics. Les robots ne lisent pas le JavaScript : l'aperçu est
+    statique, le même pour un lien de défi. Adresses ABSOLUES obligatoires —
+    à mettre à jour si Lore change de domaine.
+  -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Lore">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:url" content="https://iris-automation.github.io/lore-web/">
+  <meta property="og:title" content="Lore — ta carte du monde, rejouée en film">
+  <meta property="og:description" content="Plus de 1 100 lieux mythiques à conquérir. Ta carte s'allume, tu défies tes amis. Gratuit, sans inscription.">
+  <meta property="og:image" content="https://iris-automation.github.io/lore-web/og.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Une carte du monde allumée pays par pays : 126 lieux conquis, 55 pays, 6 continents.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Lore — ta carte du monde, rejouée en film">
+  <meta name="twitter:description" content="Plus de 1 100 lieux mythiques à conquérir. Ta carte s'allume, tu défies tes amis.">
+  <meta name="twitter:image" content="https://iris-automation.github.io/lore-web/og.jpg">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -103,14 +126,14 @@
     n'en obtenait donc jamais, et l'app retéléchargeait ~7 Mo à chaque
     lancement — et refusait de s'ouvrir sans réseau.
 
-    `af4ffd1fc03a` est remplacé par l'empreinte du build (voir
+    `66ace4226ffa` est remplacé par l'empreinte du build (voir
     tool/finaliser_web.sh) : c'est elle qui purge le cache au déploiement.
   -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
         navigator.serviceWorker
-          .register('flutter_service_worker.js?v=af4ffd1fc03a')
+          .register('flutter_service_worker.js?v=66ace4226ffa')
           .catch(function (e) {
             console.warn('Service worker non enregistré :', e);
           });

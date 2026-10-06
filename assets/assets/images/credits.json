@@ -269,11 +269,6 @@
   "licence": "CC BY-SA 3.0 igo",
   "fichier": "Floating city.tif"
  },
- "WHS-829": {
-  "auteur": "Tango7174",
-  "licence": "CC BY-SA 4.0",
-  "fichier": "Campania Pompei3 tango7174.jpg"
- },
  "WHS-1418": {
   "auteur": "Public domainPublic domainfalsefalse\n\n\n\n\n\nI, the copyright holder of this work, release this work into the public domain. This applies worldwide.In some countries this may not be legally possible; if so:I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.",
   "licence": "Public domain",
@@ -318,11 +313,6 @@
   "auteur": "Daniel Schwen",
   "licence": "CC BY-SA 4.0",
   "fichier": "Chichen Itza 3.jpg"
- },
- "WHS-414": {
-  "auteur": "Hdlrosa",
-  "licence": "CC BY-SA 4.0",
-  "fichier": "ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg"
  },
  "WHS-100": {
   "auteur": "Inconnu",
@@ -393,11 +383,6 @@
   "auteur": "Lindy Buckley from Nanjing, China",
   "licence": "CC BY 2.0",
   "fichier": "Giant's Causeway (36834542085).jpg"
- },
- "WHS-373": {
-  "auteur": "Stefan Kühn",
-  "licence": "CC BY-SA 3.0",
-  "fichier": "Stonehenge Total.jpg"
  },
  "WHS-980": {
   "auteur": "Fendes",
@@ -483,11 +468,6 @@
   "auteur": "老过",
   "licence": "CC BY 2.5 cn",
   "fichier": "Wuyi Mountains Sea of clouds 4.jpg"
- },
- "WHS-1113": {
-  "auteur": "yazi-swallow",
-  "licence": "CC BY 2.0",
-  "fichier": "Hakka china.jpg"
  },
  "WHS-1161": {
   "auteur": "Inconnu",
@@ -593,11 +573,6 @@
   "auteur": "James St. John from Newark, Ohio",
   "licence": "CC BY 2.0",
   "fichier": "Grand Prismatic Spring 2013.jpg"
- },
- "WHS-308": {
-  "auteur": "Thomas Wolf, www.foto-tw.de",
-  "licence": "CC BY-SA 3.0",
-  "fichier": "Half Dome with Eastern Yosemite Valley (50MP).jpg"
  },
  "WHS-75": {
   "auteur": "Marek Ślusarczyk (Tupungato) Photo portfolio",
@@ -1259,16 +1234,6 @@
   "licence": "CC BY-SA 4.0",
   "fichier": "B5 Ecuador 028 Quito, historical zone, January 1985.jpg"
  },
- "WHS-27": {
-  "auteur": "Elaine from Sheffield, England",
-  "licence": "CC BY 2.0",
-  "fichier": "Mesa Verde.jpg"
- },
- "WHS-76": {
-  "auteur": "Everglades NPS from Homestead, Florida, United States",
-  "licence": "Public domain",
-  "fichier": "Sunset over the River of Grass, NPSphoto, G.Gardner (9255157507).jpg"
- },
  "WHS-15": {
   "auteur": "A.Savin",
   "licence": "FAL",
@@ -1683,11 +1648,6 @@
   "auteur": "Bob rulz",
   "licence": "Public domain",
   "fichier": "Writing-on-Stone Provincial Park, Alberta.jpg"
- },
- "WHS-300": {
-  "auteur": "Bernard Gagnon",
-  "licence": "CC BY-SA 4.0",
-  "fichier": "Panorama of Quebec City.jpg"
  },
  "WHS-1310": {
   "auteur": "Ji-Elle",
@@ -4708,5 +4668,840 @@
   "auteur": "The TerraMar Project",
   "licence": "CC BY 2.0",
   "fichier": "Bora Bora (16542797633).jpg"
+ },
+ "WD-Q887686": {
+  "auteur": "Jeangagnon",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Basilique Notre-Dame de Montreal 02.jpg"
+ },
+ "WD-Q1757764": {
+  "auteur": "The original uploader was Montrealais at English Wikipedia.",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Mtroyal.jpg"
+ },
+ "WD-Q285467": {
+  "auteur": "Wilfredor",
+  "licence": "CC0",
+  "fichier": "Aerial view of Olympic Stadium of Montreal.jpg"
+ },
+ "WD-Q284716": {
+  "auteur": "Dpalma01",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "View of St. Joseph's Oratory on Mount Royal 08 2025.jpg"
+ },
+ "WD-Q1946396": {
+  "auteur": "Jean-Christophe BENOIST",
+  "licence": "CC BY 4.0",
+  "fichier": "Quebec - Chutes de Montmorency.jpg"
+ },
+ "WD-Q3497349": {
+  "auteur": "Acarpentier",
+  "licence": "CC BY 3.0",
+  "fichier": "Ski Mont Tremblant.jpg"
+ },
+ "WD-Q2466817": {
+  "auteur": "Inconnu",
+  "licence": "CC BY-SA 2.5",
+  "fichier": "Rocher perce gaspesie.jpg"
+ },
+ "WD-Q1589289": {
+  "auteur": "David Samuel, User:Hellodavey1902",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Parliament Hill, Ottawa.jpg"
+ },
+ "WD-Q1491935": {
+  "auteur": "Diego Delso",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Galeries royales Saint-Hubert, Bruselas, Bélgica, 2021-12-14, DD 04-06 HDR.jpg"
+ },
+ "WD-Q1101790": {
+  "auteur": "User:Ben2",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Parc du Cinquantenaire 30-05-06.JPG"
+ },
+ "WD-Q31985": {
+  "auteur": "EmDee",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Belgique - Butte du Lion - 04.jpg"
+ },
+ "WD-Q1543972": {
+  "auteur": "Paul Hermans",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Gravensteengent22042008.JPG"
+ },
+ "WD-Q947295": {
+  "auteur": "Maros M r a z (Maros)",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Grote Markt (Antwerpen).jpg"
+ },
+ "WD-Q2600730": {
+  "auteur": "Jean-Pol GRANDMONT",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Namur JPG07.jpg"
+ },
+ "WD-Q2974385": {
+  "auteur": "Jean-Pol GRANDMONT",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "0 Dinant - La citadelle (1).JPG"
+ },
+ "WD-Q567525": {
+  "auteur": "ErikH at Dutch Wikipedia",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Bouillon-kasteel.JPG"
+ },
+ "WD-Q3247381": {
+  "auteur": "Raimond Spekking",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Montagne de Bueren - stairs - Liege 1.jpg"
+ },
+ "WD-Q497697": {
+  "auteur": "JackyM59",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "L'ancien couvent des Récollets, l'église Saint-Nicolas et le château de Durbuy.jpg"
+ },
+ "WD-Q571145": {
+  "auteur": "user:Hullie",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Grotten van Han - grot 1.jpg"
+ },
+ "WD-Q172851": {
+  "auteur": "United Autosports",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "2022 4 Hours of Spa-Francorchamps - Circuit.jpg"
+ },
+ "WD-Q201428": {
+  "auteur": "user:Carolus",
+  "licence": "CC BY 2.5",
+  "fichier": "Le Grand Escalier à Fer de Cheval.jpg"
+ },
+ "WD-Q766938": {
+  "auteur": "ignis",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Chateau de Chantilly FRA 003.JPG"
+ },
+ "WD-Q739976": {
+  "auteur": "Jean-Pol GRANDMONT",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "0 Maincy - Château de Vaux-le-Vicomte (2).JPG"
+ },
+ "WD-Q28827968": {
+  "auteur": "Johann Dréo (User:Nojhan)",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Provins Tour Cesar.jpg"
+ },
+ "WD-Q1473446": {
+  "auteur": "Fondation Monet",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "La Maison vue du Clos Normand.jpg"
+ },
+ "WD-Q188856": {
+  "auteur": "Camille Gévaudan",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Panthéon, Paris 25 March 2012.jpg"
+ },
+ "WD-Q309458": {
+  "auteur": "Rdevany at English Wikipedia",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Jardin du Luxembourg.JPG"
+ },
+ "WD-Q23402": {
+  "auteur": "Cheng-en Cheng from Taichung City, Taiwan",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "Gare d'Orsay (49570190081).jpg"
+ },
+ "WD-Q178065": {
+  "auteur": "Zairon",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Paris Montmartre Blick aufs Centre Georges-Pompidou.jpg"
+ },
+ "WD-Q60292411": {
+  "auteur": "Chabe01",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Panneau Histoire Paris Place Vosges Place Vosges - Paris IV (FR75) - 2023-05-30 - 1.jpg"
+ },
+ "WD-Q187840": {
+  "auteur": "Alexander Hoernigk",
+  "licence": "CC BY 3.0",
+  "fichier": "Paris Palais Garnier 2010-04-06 16.55.07.jpg"
+ },
+ "WD-Q311": {
+  "auteur": "Connie Ma from Chicago, United States of America",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "Main gate of the Père-Lachaise Cemetery, Paris 13 June 2014.jpg"
+ },
+ "WD-Q28924": {
+  "auteur": "Diego Delso",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Catacumbas, París, Francia, 2022-11-01, DD 117-119 HDR.jpg"
+ },
+ "WD-Q216357": {
+  "auteur": "Cristian Bortes from Cluj-Napoca, Romania",
+  "licence": "CC BY 2.0",
+  "fichier": "Grande Arche, France - April 2011.jpg"
+ },
+ "WD-Q663673": {
+  "auteur": "ignis",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Château de Vincennes Paris FRA 002.jpg"
+ },
+ "WD-Q184407": {
+  "auteur": "Chabe01",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Basilique St Denis façade ouest St Denis Seine St Denis 20.jpg"
+ },
+ "WD-Q377592": {
+  "auteur": "cnb",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Goudurix.JPG"
+ },
+ "WD-Q1516": {
+  "auteur": "Dennis G. Jarvis",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "France-003038 - Basilica of Notre-Dame de Fourvière (15939822990).jpg"
+ },
+ "WD-Q8399": {
+  "auteur": "Karldupart",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Vieuxlyon saintjean toits.jpg"
+ },
+ "WD-Q614": {
+  "auteur": "Claude",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Lyon PlaceBellecour.JPG"
+ },
+ "WD-Q3991": {
+  "auteur": "Daderot",
+  "licence": "CC0",
+  "fichier": "General view - Parc de la Tête d'Or - DSC05262.jpg"
+ },
+ "WD-Q325826": {
+  "auteur": "Benoît Prieur",
+  "licence": "CC0",
+  "fichier": "Vue drone de la cité médiévale de Pérouges (avril 2021) au premier plan Porte-d'en-Bas.JPG"
+ },
+ "WD-Q1406850": {
+  "auteur": "The original uploader was Droopy nico at French Wikipedia.",
+  "licence": "CC BY-SA 1.0",
+  "fichier": "Palais de l'Isle Annecy (été 2005).jpg"
+ },
+ "WD-Q404728": {
+  "auteur": "Martin Janner",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Aiguille-du-Midi-summer.jpg"
+ },
+ "WD-Q583591": {
+  "auteur": "SNappa2006 (https://www.flickr.com/people/snappa2006/)",
+  "licence": "CC BY 2.0",
+  "fichier": "Mer de Glace Glacier in France - 2009-08-06.jpg"
+ },
+ "WD-Q607372": {
+  "auteur": "Carsten Steger",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Aerial image of Puy de Dôme (view from the west).jpg"
+ },
+ "WD-Q3361199": {
+  "auteur": "No machine-readable author provided. Ankopedia assumed (based on copyright claims).",
+  "licence": "Public domain",
+  "fichier": "Palais ideal - Hauterives.JPEG"
+ },
+ "WD-Q1062180": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "0020 Pont d'Arc - Ardèche.jpg"
+ },
+ "WD-Q545992": {
+  "auteur": "Milky",
+  "licence": "Public domain",
+  "fichier": "Terrasse Bastille - Grenoble.JPG"
+ },
+ "WD-Q761703": {
+  "auteur": "Jean-Christophe BENOIST",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Yvoire - Vu du Léman.jpg"
+ },
+ "WD-Q3129160": {
+  "auteur": "Hélène Grenier",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Le rocher de l'Aiguilhe et sa chapelle St-Michel 01.JPG"
+ },
+ "WD-Q975925": {
+  "auteur": "lienyuan lee",
+  "licence": "CC BY 3.0",
+  "fichier": "Notre Dame de la Garde 守護聖母院 - panoramio (1).jpg"
+ },
+ "WD-Q437959": {
+  "auteur": "Ingo Mehling",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Marseille Old Port.jpg"
+ },
+ "WD-Q2808698": {
+  "auteur": "Olena Ilnytska",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Mucem et Cathédrale Sainte-Marie-Majeure de Marseille.jpg"
+ },
+ "WD-Q2933591": {
+  "auteur": "kallerna",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "En-Vau calanque 1.jpg"
+ },
+ "WD-Q622500": {
+  "auteur": "Rémih",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Château d'If @ Baie de Marseille 01.jpg"
+ },
+ "WD-Q143463": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 0711 Avignon (Frankreich) - Kathetrale und Papstpalast.jpg"
+ },
+ "WD-Q181189": {
+  "auteur": "PierreSelim",
+  "licence": "CC BY 3.0",
+  "fichier": "Arles - 2017-05-24 - Roman Amphitheatre - 3804.jpg"
+ },
+ "WD-Q179656": {
+  "auteur": "Daniel VILLAFRUELA.",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Nîmes-Arènes-20130923.jpg"
+ },
+ "WD-Q243663": {
+  "auteur": "Henri Bergius",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "Les Baux-de-Provence.jpg"
+ },
+ "WD-Q272308": {
+  "auteur": "Jean-Pol GRANDMONT",
+  "licence": "CC BY 4.0",
+  "fichier": "0 Gordes sur son piton rocheux.jpg"
+ },
+ "WD-Q1245463": {
+  "auteur": "Greudin",
+  "licence": "Public domain",
+  "fichier": "Abbaye-senanque-gordes-iso.jpg"
+ },
+ "WD-Q321139": {
+  "auteur": "Hawobo at German Wikipedia",
+  "licence": "CC BY-SA 2.0 de",
+  "fichier": "Roussillon (Vaucluse).JPG"
+ },
+ "WD-Q687057": {
+  "auteur": "kallerna",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Verdon Gorge 1.jpg"
+ },
+ "WD-Q209064": {
+  "auteur": "NielsB at Dutch Wikipedia",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Mont ventoux.jpg"
+ },
+ "WD-Q243002": {
+  "auteur": "Jean-Christophe BENOIST",
+  "licence": "CC BY 3.0",
+  "fichier": "Cassis-Port.jpg"
+ },
+ "WD-Q1813": {
+  "auteur": "dronepicr",
+  "licence": "CC BY 2.0",
+  "fichier": "Bell tower of the church Our Lady of the Assumption in Saint-Tropez, France (52723273607).jpg"
+ },
+ "WD-Q1885327": {
+  "auteur": "Timantha102938",
+  "licence": "Public domain",
+  "fichier": "Cannes Palais des Festivals et des Congrès.jpg"
+ },
+ "WD-Q242617": {
+  "auteur": "Gilbert Bochenek",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Eze-Village-PACA-France.jpg"
+ },
+ "WD-Q208260": {
+  "auteur": "Baptiste ROUSSEL",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "St-Paul-de-Vence (Lunon).jpg"
+ },
+ "WD-Q975080": {
+  "auteur": "Prométhée33",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Courtade.JPG"
+ },
+ "WD-Q330920": {
+  "auteur": "Jean-Louis Vandevivère",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "Vue aériene des Saintes Maries de la Mer.jpg"
+ },
+ "WD-Q193809": {
+  "auteur": "Gilbert Bochenek",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Aigues-Mortes, France 2022.jpg"
+ },
+ "WD-Q1137725": {
+  "auteur": "Georges Seguin (Okki)",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Cours Mirabeau 20100508 Aix-en-Provence 1.jpg"
+ },
+ "WD-Q2351013": {
+  "auteur": "Velvet",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Toulouse capitole R.jpg"
+ },
+ "WD-Q1094325": {
+  "auteur": "Don-vip",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "ApolloDay-Toulouse-2019-07-21-2926.jpg"
+ },
+ "WD-Q389269": {
+  "auteur": "Jondu11",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Cité de Carcassonne.jpg"
+ },
+ "WD-Q94744": {
+  "auteur": "ByacC",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Albi Sainte-Cécile.JPG"
+ },
+ "WD-Q382628": {
+  "auteur": "Dynamosquito from France",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "Rocamadour, Lot, Midi-Pyrénées, france.jpg"
+ },
+ "WD-Q751961": {
+  "auteur": "Krzysztof Golik",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Rue de la Pelissaria.jpg"
+ },
+ "WD-Q635125": {
+  "auteur": "Carsten Steger",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Aerial image of Cordes-sur-Ciel (view from the southwest).jpg"
+ },
+ "WD-Q1093112": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": ".00 2122 Cirque de Gavarnie - Pyrenäen.jpg"
+ },
+ "WD-Q1139060": {
+  "auteur": "The original uploader was Nathan Hamblen at French Wikipedia.",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Pic du Midi du Bigorre.jpg"
+ },
+ "WD-Q7709620": {
+  "auteur": "Père Igor",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Lourdes basilique vue depuis château (3).JPG"
+ },
+ "WD-Q1816823": {
+  "auteur": "Vassil",
+  "licence": "Public domain",
+  "fichier": "Pont Valentré 23078.jpg"
+ },
+ "WD-Q254829": {
+  "auteur": "Doronenko",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Collioure 002.jpg"
+ },
+ "WD-Q1065164": {
+  "auteur": "Christophe.Finot",
+  "licence": "CC BY-SA 2.5",
+  "fichier": "Montpellier - Opéra Comédie.jpg"
+ },
+ "WD-Q499751": {
+  "auteur": "The original uploader was Cevenol2 at French Wikipedia.",
+  "licence": "CC BY-SA 2.0 fr",
+  "fichier": "Saint-Guilhem-le-Désert.jpg"
+ },
+ "WD-Q944597": {
+  "auteur": "Montagnac Pascal",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Peyrepertuse (66).jpg"
+ },
+ "WD-Q3390346": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 1686 Place de la Bourse (Bordeaux).jpg"
+ },
+ "WD-Q16964634": {
+  "auteur": "Chris06",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Bordeaux Quai de Bacalan (1).jpg"
+ },
+ "WD-Q192548": {
+  "auteur": "Didier Descouens",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Panorama de Saint Emilion De la tour du roi 2 - Gironde.jpg"
+ },
+ "WD-Q3378513": {
+  "auteur": "User Larrousiney on fr.wikipedia",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "PhareFerret.JPG"
+ },
+ "WD-Q172125": {
+  "auteur": "EU",
+  "licence": "Public domain",
+  "fichier": "Lascaux painting.jpg"
+ },
+ "WD-Q6381": {
+  "auteur": "Chensiyuan",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "1 sarlat la caneda 2016.jpg"
+ },
+ "WD-Q1011026": {
+  "auteur": "Gentil Hibou",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Château de Beynac (Dordogne).jpg"
+ },
+ "WD-Q914013": {
+  "auteur": "Damien",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "Biarritz rocher de la vierge 6 (5849380573).jpg"
+ },
+ "WD-Q2523893": {
+  "auteur": "William Scot",
+  "licence": "CC BY-SA 2.5",
+  "fichier": "Panoramique du Vieux-Port de La Rochelle.jpg"
+ },
+ "WD-Q1770845": {
+  "auteur": "Kilohn limahn",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "PhareBaleines Aerien1.JPG"
+ },
+ "WD-Q1475660": {
+  "auteur": "Koakoo",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Le parc du futuroscope.JPG"
+ },
+ "WD-Q1820547": {
+  "auteur": "User:Symac",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Hangar des machines de l'île.jpg"
+ },
+ "WD-Q1289258": {
+  "auteur": "Jibi44, avec l'aimable autorisation de LP de Nantes",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Nantes aérien château3.jpg"
+ },
+ "WD-Q3411109": {
+  "auteur": "Benoit SANSON",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Le Secret de la Lance.jpg"
+ },
+ "WD-Q1753212": {
+  "auteur": "--Pinpin 13:21, 15 August 2006 (UTC)",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "France - Passage du Gois.jpg"
+ },
+ "WD-Q163108": {
+  "auteur": "Pierre André Leclercq",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Saint-Malo la Tour Bidouane.jpg"
+ },
+ "WD-Q783437": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 0701 Perros-Guirec - Plage de Saint Guirec - Ile de Costaérès.jpg"
+ },
+ "WD-Q1500472": {
+  "auteur": "Jean-Pol GRANDMONT",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "0 La Pointe du Raz à Plogoff (1).JPG"
+ },
+ "WD-Q833850": {
+  "auteur": "--Pinpin 17:43, 1 August 2006 (UTC)",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "France-Carnac-Alignement de Kermario.jpg"
+ },
+ "WD-Q201311": {
+  "auteur": "Benh LIEU SONG",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Dinan Panorama.jpg"
+ },
+ "WD-Q175676": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 3608 Blick auf das Cap Fréhel, Frankreich.jpg"
+ },
+ "WD-Q1048155": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 2521Angers - Schloss (Frankreich).jpg"
+ },
+ "WD-Q205367": {
+  "auteur": "No machine-readable author provided. Calips assumed (based on copyright claims).",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "France Loir-et-Cher Chambord Chateau 03.jpg"
+ },
+ "WD-Q193215": {
+  "auteur": "Inconnu",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Chenonceau-20050320.jpg"
+ },
+ "WD-Q389908": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 1292 Château d'Amboise.jpg"
+ },
+ "WD-Q477613": {
+  "auteur": "No machine-readable author provided. LonganimE assumed (based on copyright claims).",
+  "licence": "CC BY-SA 2.5",
+  "fichier": "Château de Villandry aile droite.JPG"
+ },
+ "WD-Q113389": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "0 1157 Château d´Azay-le-Rideau.jpg"
+ },
+ "WD-Q1141846": {
+  "auteur": "The original uploader was Manfred Heyde at German Wikipedia.\n\n(Original text: de:Manfred Heyde)",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "ChevernySchloss.jpg"
+ },
+ "WD-Q3576007": {
+  "auteur": "Daniel Jolivet",
+  "licence": "CC BY 2.0",
+  "fichier": "Plaine africaine beauval.jpg"
+ },
+ "WD-Q405543": {
+  "auteur": "JackyM59",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Louvre-Lens.jpg"
+ },
+ "WD-Q1034143": {
+  "auteur": "JackyM59",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Cap Blanc-Nez (vu de la plage).jpg"
+ },
+ "WD-Q106934": {
+  "auteur": "Jean-Pol GRANDMONT",
+  "licence": "CC BY 3.0",
+  "fichier": "0 Amiens - Cathédrale Notre-Dame (1).JPG"
+ },
+ "WD-Q473842": {
+  "auteur": "JackyM59",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Ancien tribunal de commerce de Saint-Valery-sur-Somme.jpg"
+ },
+ "WD-Q3337173": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 3102 Marine aquarium \"Nausicaä\" in Boulogne-sur-Mer, France.jpg"
+ },
+ "WD-Q290936": {
+  "auteur": "W. Bulach",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "00 7495 Étretat - Normandie.jpg"
+ },
+ "WD-Q231720": {
+  "auteur": "Pinpin",
+  "licence": "CC BY 2.5",
+  "fichier": "France Calvados Honfleur port2.jpg"
+ },
+ "WD-Q476516": {
+  "auteur": "Inconnu",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Cathédrale de Rouen.jpg"
+ },
+ "WD-Q209021": {
+  "auteur": "Kamel15",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Deauville 2008 PD 32.JPG"
+ },
+ "WD-Q140912039": {
+  "auteur": "Kamel15",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Pointe du Hoc 2008 PD 19.JPG"
+ },
+ "WD-Q1636244": {
+  "auteur": "Ndesmoul",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Cathédrale de Bayeux - façade - assemblage de 4 images.jpg"
+ },
+ "WD-Q745460": {
+  "auteur": "Diliff",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Strasbourg Cathedral Exterior - Diliff.jpg"
+ },
+ "WD-Q965606": {
+  "auteur": "Photo Claude TRUONG-NGOC",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Strasbourg Petite-France place Benjamin-Zix septembre 2015.jpg"
+ },
+ "WD-Q130994": {
+  "auteur": "--sinava-- from Berlin",
+  "licence": "CC BY 2.0",
+  "fichier": "View of Église Saint-Martin (43833049001).jpg"
+ },
+ "WD-Q1552366": {
+  "auteur": "Wrtalya",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "France Haut-Koenigsbourg aerial view (cropped).jpg"
+ },
+ "WD-Q148959": {
+  "auteur": "Jean-Pol GRANDMONT",
+  "licence": "CC BY 4.0",
+  "fichier": "0 Riquewihr (2).jpg"
+ },
+ "WD-Q272897": {
+  "auteur": "Véronique PAGNIER",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Eguisheim - Mairie.jpg"
+ },
+ "WD-Q15728409": {
+  "auteur": "Karlavidal",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Place Stanislas à Nancy.jpg"
+ },
+ "WD-Q206823": {
+  "auteur": "Ludvig14",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Reims Cathedral 016 8341.jpg"
+ },
+ "WD-Q1284848": {
+  "auteur": "Stefan Bauer, http://www.ferras.at",
+  "licence": "CC BY-SA 2.5",
+  "fichier": "Hostel Dieu Beaune.jpg"
+ },
+ "WD-Q217452": {
+  "auteur": "DKrieger",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Vezelay-7776-Bearbeitet.jpg"
+ },
+ "WD-Q2111621": {
+  "auteur": "FrDr",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Dijon Palais des Ducs de Bourgogne 70.jpg"
+ },
+ "WD-Q671066": {
+  "auteur": "Inconnu",
+  "licence": "CC BY-SA 2.5",
+  "fichier": "Cathedrale-saint-etienne-metz-de-place-prefecture.jpg"
+ },
+ "WD-Q705054": {
+  "auteur": "Inconnu",
+  "licence": "Public domain",
+  "fichier": "Ossuaire de Douaumont, Verdun 1914-1918 P-FG-CP-01050-13.jpg"
+ },
+ "WD-Q1329976": {
+  "auteur": "Carsten Steger",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Aerial image of the Citadel of Besançon (view from the southwest).jpg"
+ },
+ "WD-Q204051": {
+  "auteur": "Carsten Steger",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Aerial image of Bonifacio (view from the southwest).jpg"
+ },
+ "WD-Q1026237": {
+  "auteur": "Myrabella",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "02 Calanche Piana.jpg"
+ },
+ "WD-Q2714250": {
+  "auteur": "Zinneke",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Luxembourg City Bock and G-D-Charlotte bridge 2013-08.JPG"
+ },
+ "WD-Q1014402": {
+  "auteur": "Roland Struwe, uploader was Sneecs at de.wikipedia",
+  "licence": "CC BY-SA 3.0 de",
+  "fichier": "Burg Vianden 2009.jpg"
+ },
+ "WD-Q2529613": {
+  "auteur": "Dietmar Rabich",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Waldbillig (LU), Schiessentümpel -- 2015 -- 6022 -- 2.jpg"
+ },
+ "WD-Q1164788": {
+  "auteur": "Jorge Franganillo",
+  "licence": "CC BY 4.0",
+  "fichier": "Palais Princier de Monaco.jpg"
+ },
+ "WD-Q851527": {
+  "auteur": "Berthold Werner",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Monaco BW 2011-06-07 17-50-43.jpg"
+ },
+ "WD-Q666516": {
+  "auteur": "Yann (talk)",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Façade de la cathédrale Saint-Pierre de Genève 2009-07-11.jpg"
+ },
+ "WD-Q594846": {
+  "auteur": "Cancillería Ecuador",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "La delegación ecuatoriana se reúne previo a la presentación del EPU (7244555176).jpg"
+ },
+ "WD-Q669544": {
+  "auteur": "Arnaud Gaillard (arnaud () amarys.com)",
+  "licence": "CC BY-SA 2.0",
+  "fichier": "Lausanne-cathe7.JPG"
+ },
+ "WD-Q598646": {
+  "auteur": "Sailko",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Losanna, museo olimpico, int, torce olimpiche.JPG"
+ },
+ "WD-Q69600": {
+  "auteur": "Christian David",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Gruyères et sa cité médiévale.jpg"
+ },
+ "WD-Q63145175": {
+  "auteur": "Bernd Brägelmann",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Statue of Freddie Mercury in Montreux 2005-07-15.jpg"
+ },
+ "WD-Q246105": {
+  "auteur": "Mike Lehmann, Mike Switzerland 13:37,  2 July 2006 (UTC)",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Zytglogge 01.jpg"
+ },
+ "WD-Q387016": {
+  "auteur": "Inconnu",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Creux du Van.jpg"
+ },
+ "WD-Q214924": {
+  "auteur": "Christian David",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Chutes du Rhin - Octobre 2021.jpg"
+ },
+ "WHS-300": {
+  "auteur": "Bernard Gagnon",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Panorama of Quebec City.jpg"
+ },
+ "WHS-414": {
+  "auteur": "Hdlrosa",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg"
+ },
+ "WHS-27": {
+  "auteur": "Elaine from Sheffield, England",
+  "licence": "CC BY 2.0",
+  "fichier": "Mesa Verde.jpg"
+ },
+ "WHS-308": {
+  "auteur": "Thomas Wolf, www.foto-tw.de",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Half Dome with Eastern Yosemite Valley (50MP).jpg"
+ },
+ "WHS-76": {
+  "auteur": "Everglades NPS from Homestead, Florida, United States",
+  "licence": "Public domain",
+  "fichier": "Sunset over the River of Grass, NPSphoto, G.Gardner (9255157507).jpg"
+ },
+ "WHS-1113": {
+  "auteur": "yazi-swallow",
+  "licence": "CC BY 2.0",
+  "fichier": "Hakka china.jpg"
+ },
+ "WHS-829": {
+  "auteur": "Tango7174",
+  "licence": "CC BY-SA 4.0",
+  "fichier": "Campania Pompei3 tango7174.jpg"
+ },
+ "WHS-373": {
+  "auteur": "Wikityke at English Wikipedia",
+  "licence": "CC BY-SA 3.0",
+  "fichier": "Avebury henge and village UK.jpg"
  }
 }
