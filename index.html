@@ -126,14 +126,14 @@
     n'en obtenait donc jamais, et l'app retéléchargeait ~7 Mo à chaque
     lancement — et refusait de s'ouvrir sans réseau.
 
-    `eeb6a0386c98` est remplacé par l'empreinte du build (voir
+    `9e3981f8aab9` est remplacé par l'empreinte du build (voir
     tool/finaliser_web.sh) : c'est elle qui purge le cache au déploiement.
   -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
         navigator.serviceWorker
-          .register('flutter_service_worker.js?v=eeb6a0386c98')
+          .register('flutter_service_worker.js?v=9e3981f8aab9')
           .catch(function (e) {
             console.warn('Service worker non enregistré :', e);
           });
@@ -151,7 +151,7 @@
       // main (`controllerchange`).
       function signalerMoteur() {
         var worker = navigator.serviceWorker.controller;
-        if (!worker || worker.scriptURL.indexOf('v=eeb6a0386c98') < 0) {
+        if (!worker || worker.scriptURL.indexOf('v=9e3981f8aab9') < 0) {
           return false;
         }
         var urls = performance.getEntriesByType('resource')
@@ -159,7 +159,7 @@
           .filter(function (u) {
             return /\/(main\.dart\.(js|mjs|wasm)|canvaskit\/.+\.(js|wasm))$/.test(u);
           });
-        worker.postMessage({type: 'moteur', version: 'eeb6a0386c98', urls: urls});
+        worker.postMessage({type: 'moteur', version: '9e3981f8aab9', urls: urls});
         return true;
       }
       window.addEventListener('flutter-first-frame', function () {
