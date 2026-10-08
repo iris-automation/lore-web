@@ -28,8 +28,12 @@ const CACHE_MEDIA = 'lore-media-v1';
 /// n'arrive jamais. Ces deux fichiers pèsent quelques kilo-octets.
 const TOUJOURS_FRAIS = /\/(index\.html|flutter_bootstrap\.js)(\?|$)|\/$/;
 
-/// Les photos vont dans leur propre cache, à longue vie.
+/// Les photos vont dans leur propre cache, à longue vie : celles du pack, et
+/// celles des trouvailles, servies par Wikimedia Commons.
 const EST_MEDIA = /\/assets\/assets\/images\//;
+const EST_PHOTO_COMMONS = (url) =>
+  url.hostname === 'upload.wikimedia.org' &&
+  url.pathname.startsWith('/wikipedia/commons/thumb/');
 
 /// Requête qui demande au serveur la version ACTUELLE du fichier.
 ///
@@ -77,9 +81,32 @@ self.addEventListener('install', (event) => {
 /// (WebAssembly ou JavaScript selon le navigateur) : on les range aussi.
 self.addEventListener('message', (event) => {
   const d = event.data || {};
+  if (d.type === 'photos') {
+    event.waitUntil(rangerPhotos(d.urls || []));
+    return;
+  }
   if (d.type !== 'moteur' || d.version !== VERSION) return;
   event.waitUntil(remplir(d.urls || []));
 });
+
+/// L'app signale les photos des lieux autour de soi : on les met de côté
+/// tant qu'il y a du réseau, pour qu'une fiche conquise hors ligne (au bout
+/// d'un sentier, en avion) garde sa photo. Celles déjà en cache ne sont pas
+/// redemandées ; une erreur n'en empêche pas d'autres.
+async function rangerPhotos(urls) {
+  const cache = await caches.open(CACHE_MEDIA);
+  const travail = Promise.allSettled(urls.slice(0, 60).map(async (u) => {
+    const url = new URL(u, self.location);
+    if (!EST_MEDIA.test(url.pathname) && !EST_PHOTO_COMMONS(url)) return;
+    if (await cache.match(url.href)) return;
+    const reponse = await fetch(url.href, { mode: 'cors' });
+    if (reponse.ok) await cache.put(url.href, reponse);
+  }));
+  await Promise.race([
+    travail,
+    new Promise((fin) => setTimeout(fin, DELAI_REMPLISSAGE_MS)),
+  ]);
+}
 
 /// Range [urls] dans le cache de la coquille, sans écraser ce qui y est.
 ///
@@ -136,6 +163,12 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(req.url);
   const memeOrigine = url.origin === self.location.origin;
+
+  // Photos des trouvailles : même cache à longue vie que celles du pack.
+  if (EST_PHOTO_COMMONS(url)) {
+    event.respondWith(cacheDAbord(req, CACHE_MEDIA));
+    return;
+  }
 
   // CanvasKit et les polices de repli viennent de gstatic : on les garde aussi,
   // sinon l'app reste dépendante d'un CDN tiers pour démarrer.
